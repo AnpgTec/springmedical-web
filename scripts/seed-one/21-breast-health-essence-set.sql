@@ -1,0 +1,14 @@
+insert into public.products (
+  brand_id, slug, title_zh_hk, title_zh_cn, title_en,
+  description_zh_hk, description_zh_cn, description_en,
+  price_hkd, stock, image_paths, status, sort
+)
+select b.id, x.slug, x.title_zh_hk, x.title_zh_cn, x.title_en,
+  x.description_zh_hk, x.description_zh_cn, x.description_en,
+  x.price_hkd, x.stock, x.image_paths, 'on_sale', x.sort
+from jsonb_to_recordset($json$[{"brand_slug":"lanluis","slug":"breast-health-essence-set","title_zh_hk":"\u9b45\u529b\u5065\u4e73\u7cbe\u83ef\u5957\u88dd","title_zh_cn":"\u9b45\u529b\u5065\u4e73\u7cbe\u534e\u5957\u88c5","title_en":"Breast Health Essence Set","description_zh_hk":"<p>\u860a\u542b\u8c50\u5bcc\u5929\u7136\u690d\u7269\u6210,\u6709\u6548\u5e6b\u52a9\u4e73\u623f\u4e73\u817a\u79fb\u9664\u969c\u7919\u7269,\u4e5f\u80fd\u9632\u6b62\u4e73\u817a\u5835\u585e\u3002\u5e73\u8861\u53ca\u8abf\u7bc0\u5167\u5206\u6ccc\u6709\u6548\u758f\u901a\u4e73\u817a,\u6e1b\u4f4e\u816b\u8139,\u589e\u5f37\u80f8\u90e8\u512a\u7f8e\u7dda\u689d,\u4f7f\u80f8\u90e8\u808c\u819a\u67d4\u6ed1\u3002</p>\n\n<p>\u4e3b\u8981\u6210\u4efd</p>\n<p>\u2013 \u8606\u8588</p>\n<p>\u2013 \u6708\u898b\u8349</p>\n<p>\u2013 \u8ff7\u8fed\u9999</p>\n<p>\u2013 \u5929\u7afa\u8475</p>\n<p>\u2013 \u675c\u677e\u679c</p>\n<p>\u2013 \u8584\u8377</p>","description_zh_cn":"<p>\u8574\u542b\u4e30\u5bcc\u5929\u7136\u690d\u7269\u6210,\u6709\u6548\u5e2e\u52a9\u4e73\u623f\u4e73\u817a\u79fb\u9664\u969c\u788d\u7269,\u4e5f\u80fd\u9632\u6b62\u4e73\u817a\u5835\u585e\u3002\u5e73\u8861\u53ca\u8c03\u8282\u5185\u5206\u6ccc\u6709\u6548\u758f\u901a\u4e73\u817a,\u51cf\u4f4e\u80bf\u80c0,\u589e\u5f3a\u80f8\u90e8\u4f18\u7f8e\u7ebf\u6761,\u4f7f\u80f8\u90e8\u808c\u80a4\u67d4\u6ed1\u3002</p>\n\n<p>\u4e3b\u8981\u6210\u4efd</p>\n<p>\u2013 \u82a6\u835f</p>\n<p>\u2013 \u6708\u89c1\u8349</p>\n<p>\u2013 \u8ff7\u8fed\u9999</p>\n<p>\u2013 \u5929\u7afa\u8475</p>\n<p>\u2013 \u675c\u677e\u679c</p>\n<p>\u2013 \u8584\u8377</p>","description_en":"<p>Rich botanicals to help clear mammary ducts, balance endocrine function, reduce swelling, enhance contour and soften skin.</p>\n<p>Key ingredients</p>\n<p>\u2013 Aloe vera</p>\n<p>\u2013 Evening primrose</p>\n<p>\u2013 Rosemary</p>\n<p>\u2013 Geranium</p>\n<p>\u2013 Juniper berry</p>\n<p>\u2013 Peppermint</p>","price_hkd":1228,"stock":20,"image_paths":["/images/products/prod-21@2x.jpg"],"sort":209}]$json$::jsonb) as x(
+  brand_slug text, slug text, title_zh_hk text, title_zh_cn text, title_en text,
+  description_zh_hk text, description_zh_cn text, description_en text,
+  price_hkd numeric, stock int, image_paths jsonb, sort int
+)
+join public.brands b on b.slug = x.brand_slug;

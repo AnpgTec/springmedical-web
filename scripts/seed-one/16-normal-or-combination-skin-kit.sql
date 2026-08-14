@@ -1,0 +1,14 @@
+insert into public.products (
+  brand_id, slug, title_zh_hk, title_zh_cn, title_en,
+  description_zh_hk, description_zh_cn, description_en,
+  price_hkd, stock, image_paths, status, sort
+)
+select b.id, x.slug, x.title_zh_hk, x.title_zh_cn, x.title_en,
+  x.description_zh_hk, x.description_zh_cn, x.description_en,
+  x.price_hkd, x.stock, x.image_paths, 'on_sale', x.sort
+from jsonb_to_recordset($json$[{"brand_slug":"epionce","slug":"normal-or-combination-skin-kit","title_zh_hk":"\u4e2d\u6027\u6216\u6df7\u5408\u808c\u5957\u88dd","title_zh_cn":"\u4e2d\u6027\u6216\u6df7\u5408\u808c\u5957\u88c5","title_en":"Normal or Combination Skin Kit","description_zh_hk":"<p>\u8f15\u4fbf\u5957\u88dd\u80fd\u8b93\u4f60\u9ad4\u9a57Epionce\u70ba\u4f60\u5e36\u4f86\u5065\u5eb7\u7684\u808c\u819a\u3002\u6bcf\u65e5\u4f7f\u7528\u9664\u4e86\u53ef\u6539\u5584\u76ae\u819a\u7684\u6574\u9ad4\u5065\u5eb7\u72c0\u6cc1\uff0c\u66f4\u6703\u4ee4\u4f60\u5bb9\u5149\u7165\u767c\u3001\u56de\u5fa9\u9752\u6625\u5149\u5f69\u3002</p>\n\n<p>\u5957\u88dd\u5305\u62ec:</p>\n<p>\u2013 Lytic\u6f54\u9762\u556b\u55b1 12ml</p>\n<p>\u2013 \u6f54\u6de8\u723d\u819a\u6c34 18ml</p>\n<p>\u2013 Lytic\u4fee\u5fa9\u971c 12ml</p>\n<p>\u2013 IDS\u6297\u6575\u7cbe\u83ef 12ml</p>\n<p>\u2013 \u518d\u751f\u7f8e\u808c\u4e73\u6db2 12ml</p>","description_zh_cn":"<p>\u8f7b\u4fbf\u5957\u88c5\u80fd\u8ba9\u4f60\u4f53\u9a8cEpionce\u4e3a\u4f60\u5e26\u6765\u5065\u5eb7\u7684\u808c\u80a4\u3002\u6bcf\u65e5\u4f7f\u7528\u9664\u4e86\u53ef\u6539\u5584\u76ae\u80a4\u7684\u6574\u4f53\u5065\u5eb7\u72b6\u51b5\uff0c\u66f4\u4f1a\u4ee4\u4f60\u5bb9\u5149\u7115\u53d1\u3001\u56de\u590d\u9752\u6625\u5149\u5f69\u3002</p>\n\n<p>\u5957\u88c5\u5305\u62ec:</p>\n<p>\u2013 Lytic\u6d01\u9762\u556b\u55b1 12ml</p>\n<p>\u2013 \u6d01\u51c0\u723d\u80a4\u6c34 18ml</p>\n<p>\u2013 Lytic\u4fee\u590d\u971c 12ml</p>\n<p>\u2013 IDS\u6297\u654c\u7cbe\u534e 12ml</p>\n<p>\u2013 \u518d\u751f\u7f8e\u808c\u4e73\u6db2 12ml</p>","description_en":"<p>A travel-size kit to experience Epionce for healthier, more radiant skin.</p>\n<p>Includes:</p>\n<p>\u2013 Lytic Gel Cleanser 12ml</p>\n<p>\u2013 Purifying Toner 18ml</p>\n<p>\u2013 Lytic Repair Cream 12ml</p>\n<p>\u2013 IDS Serum 12ml</p>\n<p>\u2013 Renewal Facial Lotion 12ml</p>","price_hkd":460,"stock":20,"image_paths":["/images/products/prod-16@2x.jpg"],"sort":214}]$json$::jsonb) as x(
+  brand_slug text, slug text, title_zh_hk text, title_zh_cn text, title_en text,
+  description_zh_hk text, description_zh_cn text, description_en text,
+  price_hkd numeric, stock int, image_paths jsonb, sort int
+)
+join public.brands b on b.slug = x.brand_slug;

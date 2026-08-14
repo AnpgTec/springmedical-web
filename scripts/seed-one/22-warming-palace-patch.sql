@@ -1,0 +1,14 @@
+insert into public.products (
+  brand_id, slug, title_zh_hk, title_zh_cn, title_en,
+  description_zh_hk, description_zh_cn, description_en,
+  price_hkd, stock, image_paths, status, sort
+)
+select b.id, x.slug, x.title_zh_hk, x.title_zh_cn, x.title_en,
+  x.description_zh_hk, x.description_zh_cn, x.description_en,
+  x.price_hkd, x.stock, x.image_paths, 'on_sale', x.sort
+from jsonb_to_recordset($json$[{"brand_slug":"lanluis","slug":"warming-palace-patch","title_zh_hk":"\u6696\u5bae\u79d8\u8cbc","title_zh_cn":"\u6696\u5bab\u79d8\u8d34","title_en":"Warming Palace Patch","description_zh_hk":"<p>\u5e6b\u52a9\u5e73\u8861\u5167\u5206\u6ccc\u7cfb\u7d71\uff0c\u8abf\u7bc0\u6fc0\u7d20\u5206\u6ccc\uff0c\u6e1b\u8f15\u6708\u7d93\u4e0d\u9069\uff0c\u589e\u5f37\u5b50\u5bae\u529f\u80fd\uff0c\u6ecb\u6f64\u76ae\u819a\uff0c\u4fc3\u9032\u8840\u6db2\u5faa\u74b0\uff0c\u7de9\u89e3\u7d93\u524d\u7d9c\u5408\u75c7\uff0c\u8abf\u7bc0\u6708\u7d93\u9031\u671f\uff0c\u63a8\u9072\u66f4\u5e74\u671f\u75c7\u72c0\u4e26\u4fc3\u9032\u9670\u9053\u5206\u6ccc\u7269\u3002</p>\n\n<p>\u4e3b\u8981\u6210\u4efd</p>\n<p>\u2013 \u751c\u674f\u4ec1</p>\n<p>\u2013 \u6708\u898b\u8349</p>\n<p>\u2013 \u5ddd\u828e\u8349</p>\n<p>\u2013 \u7576\u6b78</p>\n<p>\u2013 \u6c92\u85e5\u6a39</p>","description_zh_cn":"<p>\u5e2e\u52a9\u5e73\u8861\u5185\u5206\u6ccc\u7cfb\u7edf\uff0c\u8c03\u8282\u6fc0\u7d20\u5206\u6ccc\uff0c\u51cf\u8f7b\u6708\u7ecf\u4e0d\u9002\uff0c\u589e\u5f3a\u5b50\u5bab\u529f\u80fd\uff0c\u6ecb\u6da6\u76ae\u80a4\uff0c\u4fc3\u8fdb\u8840\u6db2\u5faa\u73af\uff0c\u7f13\u89e3\u7ecf\u524d\u7efc\u5408\u75c7\uff0c\u8c03\u8282\u6708\u7ecf\u5468\u671f\uff0c\u63a8\u8fdf\u66f4\u5e74\u671f\u75c7\u72b6\u5e76\u4fc3\u8fdb\u9634\u9053\u5206\u6ccc\u7269\u3002</p>\n\n<p>\u4e3b\u8981\u6210\u4efd</p>\n<p>\u2013 \u751c\u674f\u4ec1</p>\n<p>\u2013 \u6708\u89c1\u8349</p>\n<p>\u2013 \u5ddd\u828e\u8349</p>\n<p>\u2013 \u5f53\u5f52</p>\n<p>\u2013 \u6ca1\u836f\u6811</p>","description_en":"<p>Helps balance the endocrine system, ease menstrual discomfort, support uterine function, nourish skin, promote circulation, relieve PMS, regulate cycles, delay menopausal symptoms and support vaginal secretions.</p>\n<p>Key ingredients</p>\n<p>\u2013 Sweet almond</p>\n<p>\u2013 Evening primrose</p>\n<p>\u2013 Ligusticum</p>\n<p>\u2013 Angelica</p>\n<p>\u2013 Myrrh</p>","price_hkd":648,"stock":20,"image_paths":["/images/products/prod-22@2x.jpg"],"sort":208}]$json$::jsonb) as x(
+  brand_slug text, slug text, title_zh_hk text, title_zh_cn text, title_en text,
+  description_zh_hk text, description_zh_cn text, description_en text,
+  price_hkd numeric, stock int, image_paths jsonb, sort int
+)
+join public.brands b on b.slug = x.brand_slug;
