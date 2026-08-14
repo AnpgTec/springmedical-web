@@ -121,7 +121,7 @@ const ui: Record<Locale, UiDict> = {
     nav_contact: "Contact",
     nav_treatments: "Treatments",
     cat_signature: "Signature",
-    cat_hair: "Hair",
+    cat_hair: "Hair Care",
     cat_injectables: "Injectables",
     cat_wellness: "Wellness",
     cat_beauty: "Beauty",
