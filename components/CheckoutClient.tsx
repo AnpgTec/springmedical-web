@@ -48,6 +48,29 @@ function txt(locale: Locale, zhHK: string, zhCN: string, en: string): string {
   return zhHK;
 }
 
+function checkoutErrorText(locale: Locale, code: string) {
+  if (code === "product_unavailable") {
+    return txt(
+      locale,
+      "購物車中有商品已下架或失效，請重新加入後再下單。",
+      "购物车中有商品已下架或失效，请重新加入后再下单。",
+      "A product in your cart is no longer available. Please add it again."
+    );
+  }
+  if (code === "empty_cart") {
+    return txt(locale, "購物車是空的。", "购物车是空的。", "Your cart is empty.");
+  }
+  if (code === "missing_fields") {
+    return txt(
+      locale,
+      "請填寫姓名、電郵與電話。",
+      "请填写姓名、电邮与电话。",
+      "Please fill in name, email and phone."
+    );
+  }
+  return txt(locale, "無法建立訂單。", "无法建立订单。", "Could not create the order.");
+}
+
 function readRawCookie(): string {
   const match = document.cookie.match(new RegExp(`(?:^|; )${CART_COOKIE}=([^;]*)`));
   return match ? decodeURIComponent(match[1]) : "";
@@ -86,8 +109,8 @@ export function CheckoutClient({ locale }: { locale: Locale }) {
 
   const refresh = useCallback(async () => {
     const c = parseCart(readRawCookie());
-    setCart(c);
     if (c.items.length === 0) {
+      setCart(c);
       setLines([]);
       setLoading(false);
       return;
@@ -100,14 +123,16 @@ export function CheckoutClient({ locale }: { locale: Locale }) {
       );
       const data = (await res.json()) as { products?: Omit<Line, "qty">[] };
       const byId = new Map((data.products || []).map((p) => [p.productId, p]));
+      const available = c.items.filter((i) => byId.has(i.productId));
+      if (available.length !== c.items.length) {
+        const pruned = { items: available, updatedAt: new Date().toISOString() };
+        writeCart(pruned);
+        setCart(pruned);
+      } else {
+        setCart(c);
+      }
       setLines(
-        c.items
-          .map((i) => {
-            const p = byId.get(i.productId);
-            if (!p) return null;
-            return { ...p, qty: i.qty };
-          })
-          .filter(Boolean) as Line[]
+        available.map((i) => ({ ...byId.get(i.productId)!, qty: i.qty }))
       );
     } finally {
       setLoading(false);
@@ -179,7 +204,7 @@ export function CheckoutClient({ locale }: { locale: Locale }) {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          items: cart.items,
+          items: lines.map((l) => ({ productId: l.productId, qty: l.qty })),
           customer_name: form.customer_name,
           email: form.email,
           phone: form.phone,
@@ -203,7 +228,8 @@ export function CheckoutClient({ locale }: { locale: Locale }) {
         orderNo?: string;
       };
       if (!res.ok || !data.orderNo) {
-        throw new Error(data.detail || data.error || "create_failed");
+        setError(checkoutErrorText(locale, data.error || "create_failed"));
+        return;
       }
       clearCartCookie();
       router.push(href(locale, `shop/success?order_no=${data.orderNo}`));
