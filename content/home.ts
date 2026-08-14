@@ -106,9 +106,9 @@ export const homeContent: HomeContent = {
       href: "treatments/signature",
       image: "/images/cat-signature.jpg",
       desc: L(
-        "BTL 系列、Thermage FLX、Ultherapy PRIME、二氧化碳激光、M22 光子嫩膚、凹凸洞疤痕修復、頑固性色素治療等。",
-        "BTL 系列、Thermage FLX、Ultherapy PRIME、二氧化碳激光、M22 光子嫩肤、凹凸洞疤痕修复、顽固性色素治疗等。",
-        "BTL devices, Thermage FLX, Ultherapy PRIME, CO₂ laser, M22, acne-scar repair, resistant pigment and more."
+        "Thermage FLX 提拉緊緻射頻、M22 光子嫩膚、CO₂ 二氧化碳激光、BTL 系列儀器等，FDA / CE 認證的精準抗衰與緊緻方案。",
+        "Thermage FLX 提拉紧致射频、M22 光子嫩肤、CO₂ 二氧化碳激光、BTL 系列仪器等，FDA / CE 认证的精准抗衰与紧致方案。",
+        "Thermage FLX, M22 photorejuvenation, CO₂ laser, BTL devices and more — FDA/CE-cleared options for precise anti-ageing and tightening."
       ),
     },
     {

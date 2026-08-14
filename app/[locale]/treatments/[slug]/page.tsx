@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { BookingForm } from "@/components/BookingForm";
 import { PageShell } from "@/components/PageShell";
 import { TreatmentGallery } from "@/components/TreatmentGallery";
-import { L, t } from "@/content/i18n/ui";
+import { t } from "@/content/i18n/ui";
 import { getCategory, treatmentCategories } from "@/content/treatments/categories";
 import {
   getTreatment,
@@ -13,34 +13,6 @@ import {
 } from "@/content/treatments/catalog";
 import { isLocale, locales, pick, type Locale } from "@/lib/i18n";
 import { href } from "@/lib/paths";
-
-const categoryLeads: Record<string, ReturnType<typeof L>> = {
-  signature: L(
-    "精選儀器與能量治療，針對鬆弛、色斑、膚質與私密修復等需求。",
-    "精选仪器与能量治疗，针对松弛、色斑、肤质与私密修复等需求。",
-    "Device and energy treatments for laxity, pigment, texture and intimate care."
-  ),
-  hair: L(
-    "針對脫髮、稀疏與頭皮養護的專業方案。",
-    "针对脱发、稀疏与头皮养护的专业方案。",
-    "Professional care for hair loss, thinning and scalp health."
-  ),
-  injectables: L(
-    "透明質酸、肉毒桿菌與再生針劑等醫生主理方案。",
-    "透明质酸、肉毒杆菌与再生针剂等医生主理方案。",
-    "Doctor-led HA, toxin and regenerative injectable options."
-  ),
-  wellness: L(
-    "Virtual Gym 激纖易等全身狀態管理相關療程。",
-    "Virtual Gym 激纤易等全身状态管理相关疗程。",
-    "Virtual Gym and whole-body wellness sessions."
-  ),
-  beauty: L(
-    "豐胸、微針、孕睫與回甲等生活美容療程。",
-    "丰胸、微针、孕睫与回甲等生活美容疗程。",
-    "Breast care, microneedling, lash and nail beauty therapies."
-  ),
-};
 
 export function generateStaticParams() {
   const slugs = [
@@ -100,7 +72,7 @@ function CategoryView({
           </div>
           <span className="eyebrow">{pick(cat.title, "en")}</span>
           <h1>{pick(cat.title, locale)}</h1>
-          <p className="lede">{pick(categoryLeads[cat.id], locale)}</p>
+          <p className="lede">{pick(cat.lede, locale)}</p>
         </div>
       </section>
       <section className="section">
@@ -166,7 +138,9 @@ function DetailView({ locale, treatment }: { locale: Locale; treatment: Treatmen
                     ? { height: "auto", aspectRatio: "1 / 1" }
                     : treatment.id === "scar-repair" || treatment.id === "pigmentation"
                       ? { height: "auto", aspectRatio: "4 / 5" }
-                      : { height: 380 }
+                      : treatment.id === "m22"
+                        ? { height: "auto", aspectRatio: "2358 / 2780" }
+                        : { height: 380 }
                 }
               >
                 {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -181,6 +155,13 @@ function DetailView({ locale, treatment }: { locale: Locale; treatment: Treatmen
               className="rich-content muted"
               dangerouslySetInnerHTML={{ __html: pick(treatment.bodyHtml, locale) }}
             />
+            {treatment.points?.length ? (
+              <ul className="treatment-points muted">
+                {treatment.points.map((point, i) => (
+                  <li key={i}>{pick(point, locale)}</li>
+                ))}
+              </ul>
+            ) : null}
             {treatment.gallery?.length ? (
               <TreatmentGallery images={treatment.gallery} locale={locale} />
             ) : null}

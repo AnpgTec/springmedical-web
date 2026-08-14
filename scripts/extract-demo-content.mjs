@@ -41,16 +41,22 @@ function toImg(p) {
   return p.replace(/^\.\.\/images\//, "/images/").replace(/\?.*$/, "");
 }
 
-function bodyFromLoc(loc) {
-  if (loc.html) return loc.html;
-  if (loc.sections?.length) {
-    return loc.sections
+function bodyFromLoc(loc, suitableHeading) {
+  let html;
+  if (loc.html) html = loc.html;
+  else if (loc.sections?.length) {
+    html = loc.sections
       .map((s) => `<h3>${s.t}</h3><p>${s.b}</p>`)
       .join("");
+  } else if (loc.body) html = `<p>${loc.body}</p>`;
+  else if (loc.lede) html = `<p>${loc.lede}</p>`;
+  else html = "<p></p>";
+  if (loc.suitableFor?.length) {
+    html += `<h3>${suitableHeading}</h3><ul>${loc.suitableFor
+      .map((s) => `<li>${s}</li>`)
+      .join("")}</ul>`;
   }
-  if (loc.body) return `<p>${loc.body}</p>`;
-  if (loc.lede) return `<p>${loc.lede}</p>`;
-  return "<p></p>";
+  return html.replace(/<p class="dt-gallery-cta">[\s\S]*?<\/p>/g, "").trim();
 }
 
 const CATEGORY_MAP = {
@@ -422,6 +428,149 @@ const EN = {
   },
 };
 
+const POINTS_EN = {
+  "ultra-femme": [
+    "FDA-cleared non-invasive technology",
+    "Stimulates natural collagen renewal",
+    "Improves laxity, dryness and leakage",
+  ],
+  exilis: [
+    "FDA-cleared ultrasound + monopolar RF",
+    "Non-invasive, no downtime",
+    "Targets periocular laxity, lines and hollows",
+  ],
+  emtone: [
+    "FDA-cleared technology",
+    "Supports up to 2× collagen response",
+    "Facial firming and contour lift",
+  ],
+  thermage: [
+    "3D volumetric heating to stimulate collagen",
+    "AccuREP™ real-time control for even, safer energy",
+    "FDA-cleared non-invasive treatment, no downtime",
+  ],
+  ultherapy: [
+    "DeepSEE™ real-time imaging to about 6 mm",
+    "MFU-V micro-focused ultrasound to the SMAS",
+    "FDA-cleared non-invasive treatment, no downtime",
+  ],
+  co2: [
+    "Ablative gas laser, wavelength 10,600 nm",
+    "Precisely vaporises target tissue and remodels collagen",
+    "Improves wrinkles, scars, age spots and pores in one session",
+  ],
+  s21: [
+    "Dual-wavelength laser tightens the soft palate",
+    "Clinical data: ~66% average snoring-index improvement",
+    "Non-invasive, no downtime, completed in clinic",
+  ],
+  m22: [
+    "Addresses eight major skin concerns in one device",
+    "AOPT IPL with intelligent targeting",
+    "Smart cooling + pulse control: comfortable, no downtime",
+  ],
+  "hair-care": [
+    "Professional scalp assessment",
+    "Personalised care plan",
+    "Improves scalp health and hair quality",
+  ],
+  follicle: [
+    "Essence-infusion technology, hair-safe",
+    "Extends the follicle growth cycle",
+    "Targets androgenetic and other hair-loss types",
+  ],
+  restylane: [
+    "High-purity non-animal hyaluronic acid",
+    "Multiple ranges for different needs",
+    "Contour lift and facial shaping",
+  ],
+  profhilo: [
+    "IBSA patented technology",
+    "Stimulates about 12× collagen response",
+    "Improves laxity and skin quality",
+  ],
+  juvederm: [
+    "FDA/CE cleared",
+    "Results lasting up to one year",
+    "Softens wrinkles and enhances contours",
+  ],
+  xeomin: [
+    "Merz, FDA/CE cleared",
+    "Blocks neuromuscular signalling",
+    "Softens dynamic lines and helps prevent new ones",
+  ],
+  botox: [
+    "FDA-cleared, globally trusted",
+    "Sessions around 10 minutes",
+    "Wrinkle reduction, facial slimming, hyperhidrosis",
+  ],
+  dysport: [
+    "FDA-cleared, UK-manufactured",
+    "Facial/calf slimming and wrinkle softening",
+    "Recognised by Hong Kong Department of Health",
+  ],
+  neauvia: [
+    "Locks in hydration and brightens tone",
+    "Calcium microspheres support collagen",
+    "Longer-lasting moisture and firmness",
+  ],
+  radiesse: [
+    "Composition similar to minerals in bone",
+    "Immediate shaping",
+    "Suitable for multiple contour areas",
+  ],
+  "derma-veil": [
+    "3R micro-collagen technology",
+    "Activates fibroblasts",
+    "Brightening regeneration and contour support",
+  ],
+  sculptra: [
+    "PLLA (poly-L-lactic acid)",
+    "Stimulates the skin’s own collagen",
+    "Improves wrinkles and facial skin quality",
+  ],
+  ellanse: [
+    "Immediate fill plus collagen stimulation",
+    "Softens multiple contour lines",
+    "Longevity often cited at 1–4 years",
+  ],
+  aesthefill: [
+    "PDLLA dual-helix structure",
+    "Immediate support plus lasting collagen",
+    "KFDA/CE cleared, HKMD registered",
+  ],
+  harmonyca: [
+    "CaHA microspheres + hyaluronic acid",
+    "Immediate lifting effect",
+    "100% physician-administered",
+  ],
+  "virtual-gym": [
+    "Bio-resonance signal technology",
+    "Targets visceral and subcutaneous fat",
+    "Burns about 5,000 calories per session",
+  ],
+  breast: [
+    "Magnetic frequency + ultrasound",
+    "Supports circulation and breast-tissue comfort",
+    "Reshapes and addresses sagging",
+  ],
+  microneedle: [
+    "Naturally stimulates collagen",
+    "Does not destroy the epidermis",
+    "Softens lines, pigment and texture",
+  ],
+  lash: [
+    "Works with the lash growth cycle",
+    "Activates resting follicles",
+    "Improves density and dimension",
+  ],
+  nail: [
+    "1064 nm laser",
+    "Targets fungal spores at source",
+    "Typically every 4–6 weeks",
+  ],
+};
+
 const ARTICLE_EN = {
   "1": {
     title: "M22 Photorejuvenation — One Device for Eight Skin Concerns",
@@ -673,9 +822,14 @@ function main() {
     const summary = L(hk.lede, (cn || hk).lede, enMeta.summary);
 
     const bodyHtml = L(
-      bodyFromLoc(hk),
-      bodyFromLoc(cn || hk),
+      bodyFromLoc(hk, "適合人士"),
+      bodyFromLoc(cn || hk, "适合人士"),
       `<p>${enMeta.body}</p>`
+    );
+
+    const enPoints = POINTS_EN[id] || [];
+    const points = (hk.points || []).map((p, i) =>
+      L(p, (cn?.points || [])[i] || p, enPoints[i] || p)
     );
 
     const faqs = (hk.faq || []).map((pair, i) => {
@@ -694,6 +848,7 @@ function main() {
       title,
       summary,
       bodyHtml,
+      points,
       image: toImg(raw.image),
       gallery:
         id === "pigmentation"
@@ -731,6 +886,7 @@ export type Treatment = {
   title: LocalizedString;
   summary: LocalizedString;
   bodyHtml: LocalizedString;
+  points?: LocalizedString[];
   image?: string;
   gallery?: string[];
   faqs: TreatmentFaq[];
@@ -747,7 +903,7 @@ export const treatments: Treatment[] = [
     title: ${fmtLocalized(t.title)},
     summary: ${fmtLocalized(t.summary)},
     bodyHtml: ${fmtLocalized(t.bodyHtml)},
-    image: ${JSON.stringify(t.image)},
+${t.points?.length ? `    points: [\n${t.points.map((p) => `      ${fmtLocalized(p)}`).join(",\n")}\n    ],\n` : ""}    image: ${JSON.stringify(t.image)},
 ${t.gallery ? `    gallery: ${JSON.stringify(t.gallery)},\n` : ""}    faqs: [
 ${t.faqs
   .map(
