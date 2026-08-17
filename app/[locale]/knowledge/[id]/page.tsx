@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { PageShell } from "@/components/PageShell";
 import { t } from "@/content/i18n/ui";
-import { articleNeighbors, articles, getArticle } from "@/content/knowledge/articles";
+import { articleBodyHtml, articleNeighbors, articles, getArticle } from "@/content/knowledge/articles";
 import { isLocale, locales, pick, type Locale } from "@/lib/i18n";
 import { href } from "@/lib/paths";
 
@@ -61,15 +61,9 @@ export default async function KnowledgeArticlePage({
       </section>
       <section className="section">
         <div className="container" style={{ maxWidth: 760 }}>
-          {article.image ? (
-            <div className="media-frame media-frame--img reveal" style={{ height: 360, marginBottom: 28 }}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={article.image} alt={pick(article.title, locale)} />
-            </div>
-          ) : null}
           <div
             className="rich-content reveal"
-            dangerouslySetInnerHTML={{ __html: pick(article.body, locale) }}
+            dangerouslySetInnerHTML={{ __html: articleBodyHtml(article, locale) }}
           />
           <div style={{ marginTop: 36, display: "flex", gap: 12, flexWrap: "wrap" }}>
             <Link className="btn btn-primary" href={href(locale, "contact")}>

@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { PageShell } from "@/components/PageShell";
 import { L } from "@/content/i18n/ui";
 import {
+  articleCover,
   articlesBySection,
   type KnowledgeArticle,
 } from "@/content/knowledge/articles";
@@ -72,7 +73,7 @@ function ArticleGrid({
           <div
             className="thumb"
             style={{
-              backgroundImage: `url('${a.image || "/images/knowledge-cover-1.jpg"}')`,
+              backgroundImage: `url('${articleCover(a) || "/images/knowledge-cover-1.jpg"}')`,
               backgroundSize: "cover",
               backgroundPosition: "center",
             }}

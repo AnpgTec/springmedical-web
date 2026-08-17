@@ -1001,6 +1001,7 @@ export type KnowledgeArticle = {
   slug: string;
   section?: KnowledgeSection;
   eyebrow?: string;
+  cover?: string;
   image?: string;
   title: LocalizedString;
   excerpt: LocalizedString;
@@ -1014,6 +1015,7 @@ export const articles: KnowledgeArticle[] = [
     id: ${JSON.stringify(a.id)},
     slug: ${JSON.stringify(a.slug)},
     ${a.section === "longevity" ? 'section: "longevity",\n    ' : ""}eyebrow: ${JSON.stringify(a.eyebrow)},
+    cover: ${JSON.stringify(a.cover || a.image)},
     image: ${JSON.stringify(a.image)},
     title: ${fmtLocalized(a.title)},
     excerpt: ${fmtLocalized(a.excerpt)},

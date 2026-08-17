@@ -988,6 +988,23 @@ h3 { font-size: clamp(22px, 3vw, 30px); }
   font-weight: 600;
 }
 
+.rich-content figure.article-fig {
+  margin: 20px 0 24px;
+}
+.rich-content figure.article-fig img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  background: rgba(183, 110, 121, 0.06);
+}
+.rich-content figure.article-fig figcaption {
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--muted);
+  text-align: center;
+  line-height: 1.5;
+}
+
 .dt-gallery-cta { margin: 26px 0 6px; text-align: center; }
 .dt-gallery-cta .btn { min-height: 52px; padding: 0 34px; font-size: 16px; box-shadow: 0 6px 18px rgba(154, 85, 96, 0.28); }
 
