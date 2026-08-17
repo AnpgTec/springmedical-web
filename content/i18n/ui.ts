@@ -190,7 +190,7 @@ export const siteMeta = {
     facebook: "https://www.facebook.com/SpringMedicalHK/",
     instagram: "https://www.instagram.com/springmedical_hk/",
     xiaohongshu:
-      "https://www.xiaohongshu.com/user/profile/6486d84e000000002503536a",
+      "https://www.xiaohongshu.com/user/profile/6a730a360000000013021004",
   },
 };
 
