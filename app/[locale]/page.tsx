@@ -71,7 +71,9 @@ export default async function HomePage({
             <h2>{pick(c.aboutTitle, locale)}</h2>
             <hr className="gold-rule" />
             <p className="lede">{pick(c.aboutLead, locale)}</p>
-            <p className="muted">{pick(c.aboutBody, locale)}</p>
+            {pick(c.aboutBody, locale) ? (
+              <p className="muted">{pick(c.aboutBody, locale)}</p>
+            ) : null}
             <div style={{ marginTop: 28, display: "flex", gap: 12, flexWrap: "wrap" }}>
               <Link className="btn btn-primary" href={href(locale, "about")}>
                 {t(locale, "know_brand")}

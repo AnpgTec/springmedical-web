@@ -62,15 +62,11 @@ export const homeContent: HomeContent = {
     "True medical aesthetics starts with understanding skin"
   ),
   aboutLead: L(
-    "我們提倡真正醫學美容概念，療程由具經驗的醫學美容團隊主理，細心為客人的皮膚問題提供解決方案，改善肌膚質素。",
-    "我们提倡真正医学美容概念，疗程由具经验的医学美容团队主理，细心为客人的皮肤问题提供解决方案，改善肌肤质素。",
-    "We practise true medical aesthetics. Experienced clinicians tailor solutions to your skin concerns and improve skin quality."
+    "本中心提供全面且個人化的醫學美容服務，涵蓋能量型儀器與注射型療程兩大範疇。我們堅持以醫療專業為核心，重新定義醫學美容的價值。所有療程均由經驗豐富的醫學美容團隊主理，從評估、規劃到執行，皆以客觀的皮膚診斷為依據，而非商業導向。我們引進經臨床驗證的國際儀器，包括激光去斑、聚焦超聲波緊膚、單極射頻、醫學煥膚、肉毒桿菌注射及透明質酸填充等，致力在安全的前提下，逐步改善肌膚底層質素，讓美麗回歸健康本質。",
+    "本中心提供全面且个性化的医学美容服务，涵盖能量型仪器与注射型疗程两大范畴。我们坚持以医疗专业为核心，重新定义医学美容的价值。所有疗程均由经验丰富的医学美容团队主理，从评估、规划到执行，皆以客观的皮肤诊断为依据，而非商业导向。我们引进经临床验证的国际仪器，包括激光去斑、聚焦超声波紧肤、单极射频、医学焕肤、肉毒杆菌注射及透明质酸填充等，致力在安全的前提下，逐步改善肌肤底层素质，让美丽回归健康本质。",
+    "This centre offers comprehensive, personalised medical aesthetic care across energy-based devices and injectable treatments. Medical professionalism is our core — we redefine what medical aesthetics means. Every treatment is led by an experienced team; from assessment through planning to delivery, decisions rest on objective skin diagnosis, not commercial pressure. We use clinically validated international technology — laser pigmentation care, focused ultrasound tightening, monopolar RF, medical peels, botulinum toxin and hyaluronic acid fillers — to improve underlying skin quality safely, so beauty stays rooted in health."
   ),
-  aboutBody: L(
-    "服務包括 Laser 激光去斑及收毛孔、HI-FIVE 聚焦超聲波緊膚、Thermage® 單極射頻緊膚、SRF 膠原直擊療程、Chemical Peeling 醫學煥膚、Botox® 肉毒桿菌注射、Filler 透明質酸填充物注射、MRF 分段式射頻、Apogee 激光脫毛等，並引入最新儀器與科研美容技術，安全可靠。",
-    "服务包括 Laser 激光去斑及收毛孔、HI-FIVE 聚焦超声波紧肤、Thermage® 单极射频紧肤、SRF 胶原直击疗程、Chemical Peeling 医学焕肤、Botox® 肉毒杆菌注射、Filler 透明质酸填充物注射、MRF 分段式射频、Apogee 激光脱毛等，并引入最新仪器与科研美容技术，安全可靠。",
-    "Services include laser pigmentation and pore care, HI-FIVE ultrasound tightening, Thermage® monopolar RF, SRF collagen treatments, medical peels, Botox®, hyaluronic fillers, MRF fractional RF, Apogee laser hair removal, and more — with modern devices and clinically proven techniques."
-  ),
+  aboutBody: L("", "", ""),
   catsEyebrow: "Treatment Categories",
   catsTitle: L("療程導航", "疗程导航", "Treatment navigation"),
   catsLead: L(
