@@ -1099,100 +1099,70 @@ export const articles: KnowledgeArticle[] = [
     slug: "39",
     section: "longevity",
     eyebrow: "Diabetes",
-    cover: "/images/knowledge/longevity-7-2.jpg",
-    image: "/images/knowledge/longevity-7-2.jpg",
-    title: { "zh-HK": `5.8 萬元一次，我國 2 型糖尿病幹細胞治療技術獲批`, "zh-CN": `5.8 万元一次，我国 2 型糖尿病干细胞治疗技术获批`, en: `RMB 58,000 a Dose: Stem-Cell Therapy for Type 2 Diabetes Approved in China` },
-    excerpt: { "zh-HK": `博鰲樂城批覆人臍帶間充質幹細胞治療 2 型糖尿病進入臨牀轉化，從「被動控糖」走向「主動干預」。`, "zh-CN": `博鳌乐城批复人脐带间充质干细胞治疗 2 型糖尿病进入临床转化，从「被动控糖」走向「主动干预」。`, en: `Boao Lecheng has approved umbilical-cord MSC therapy for type 2 diabetes for clinical translation — from passive glucose control towards active intervention.` },
-    body: { "zh-HK": `<p>2026 年 1 月 18 日，博鰲樂城醫療藥品監管局正式下發紅頭文件（樂醫藥監〔2025〕113 號），批覆「2 型糖尿病的人臍帶間充質幹細胞治療技術」進入臨牀轉化應用。這一重要進展，標誌着我國該領域幹細胞治療正式從臨牀試驗階段邁入規模化臨牀應用新階段。</p>
-<p>該技術採用人臍帶間充質幹細胞，通過改善胰島素抵抗、調節免疫等機制發揮作用，既能有效改善患者血糖控制，又能延緩併發症發生；同時，其幹細胞來源不涉及胚胎，具備更高的安全性與倫理合規性。</p>
-<h3>一、治療費用與流程</h3>
-<p>根據慈銘博鰲國際醫院的公告，該治療技術的定價為：單次使用 5000 萬細胞量的臍帶間充質幹細胞費用為 5.8 萬元，一個完整療程包含三次治療，總費用為 17.4 萬元。費用涵蓋了幹細胞製備、輸注監護及隨訪管理等。</p>
-<figure class="article-fig"><img src="/images/knowledge/longevity-7-2.jpg" alt="2 型糖尿病幹細胞治療費用與流程" /></figure>
-<h3>二、突破傳統治療侷限的創新方向</h3>
-<p>2 型糖尿病是常見的慢性代謝性疾病，核心病理特徵為胰島 β 細胞功能損傷或胰島素抵抗。長期血糖控制不佳易引發視網膜病變、腎病、神經病變等多種嚴重併發症，嚴重影響患者生活質量與生命健康。</p>
-<p>傳統治療手段主要依賴飲食調控、運動干預及外源降糖藥物（或胰島素）注射，雖能暫時控制血糖水平、延緩病情進展，但無法從根源上修復受損的胰島功能，本質屬於「被動控糖」範疇。</p>
-<p>此次獲批的幹細胞治療技術，核心定位是突破傳統治療的核心侷限，通過激活人體自身細胞的修復能力，實現對病因的「主動干預」。</p>
-<h3>三、核心作用機制：精準對應 2 型糖尿病病理</h3>
-<p>該技術以間充質幹細胞的多向分化、免疫調節及旁分泌效應為核心，針對 2 型糖尿病核心病理環節實現靶向干預，具體機制如下：</p>
+    cover: "/images/knowledge/longevity-7-3.png",
+    image: "",
+    title: { "zh-HK": `臍帶間充質幹細胞治療 2 型糖尿病：從被動控糖到主動干預`, "zh-CN": `脐带间充质干细胞治疗 2 型糖尿病：从被动控糖到主动干预`, en: `Umbilical-Cord MSC Therapy for Type 2 Diabetes: From Passive Glucose Control to Active Intervention` },
+    excerpt: { "zh-HK": `人臍帶間充質幹細胞可通過改善胰島素抵抗、調節免疫發揮作用，推動 2 型糖尿病治療從「被動控糖」走向「主動干預」。`, "zh-CN": `人脐带间充质干细胞可通过改善胰岛素抵抗、调节免疫发挥作用，推动 2 型糖尿病治疗从「被动控糖」走向「主动干预」。`, en: `Umbilical-cord MSCs may act through insulin resistance and immune modulation — moving type 2 diabetes care from passive glucose control towards active intervention.` },
+    body: { "zh-HK": `<p>人臍帶間充質幹細胞治療 2 型糖尿病，通過改善胰島素抵抗、調節免疫等機制發揮作用，既能改善血糖控制，又能延緩併發症發生。細胞來源不涉及胚胎，具備較高的安全性與倫理合規性。</p>
+<h3>一、突破傳統治療侷限</h3>
+<p>2 型糖尿病是常見的慢性代謝性疾病，核心病理特徵為胰島 β 細胞功能損傷或胰島素抵抗。長期血糖控制不佳易引發視網膜病變、腎病、神經病變等多種嚴重併發症，嚴重影響生活質量與健康。</p>
+<p>傳統治療主要依賴飲食調控、運動干預及外源降糖藥物（或胰島素）。雖能暫時控制血糖、延緩進展，但無法從根源上修復受損的胰島功能，本質屬於「被動控糖」。</p>
+<p>臍帶間充質幹細胞治療的核心定位，是通過激活人體自身細胞的修復能力，實現對病因的「主動干預」。</p>
+<h3>二、核心作用機制：對應 2 型糖尿病病理</h3>
+<p>該技術以間充質幹細胞的多向分化、免疫調節及旁分泌效應為核心，針對 2 型糖尿病病理環節實現干預：</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-7-3.png" alt="間充質幹細胞治療 2 型糖尿病的作用機制" /></figure>
-<p><strong>胰島 β 細胞修復與再生</strong><br>定向分化：激活 PDX-1、Ngn3 等轉錄因子，分化為胰島 β 樣細胞，葡萄糖刺激胰島素分泌能力達天然 β 細胞的 78%–92%；誘導內源性胰島 α 細胞向 β 細胞轉分化。<br>保護存活：分泌 HGF、EGF 等抑制 β 細胞凋亡，外泌體攜帶 miR-375 等靶向抑制 Bax 等凋亡基因，提升細胞存活率。</p>
-<p><strong>改善胰島素抵抗與代謝穩態</strong>（核心針對 2 型糖尿病）<br>增強胰島素敏感性：通過 AMPK/PI3K 通路促進 GLUT4 轉位，提高糖攝取；下調 PEPCK 等基因，減少肝糖輸出達 59.7%。<br>調節脂肪代謝：促進脂肪組織巨噬細胞向抗炎表型轉化，降低 TNF-α 等炎症因子，緩解胰島素抵抗。</p>
-<p><strong>併發症防治與旁分泌效應</strong><br>修復微環境：分泌 VEGF 等促進血管新生，改善胰島缺氧環境；外泌體抗纖維化、抗炎，保護腎臟，降低糖尿病腎病風險。<br>旁分泌核心：通過外泌體、細胞因子等遠程調控代謝與免疫，幹細胞歸巢至胰腺精準修復，這是主要療效來源。</p>
-<h3>四、產業意義與未來展望</h3>
-<p><strong>1. 技術突破</strong>：填補了 2 型糖尿病「根源性治療」的空白，突破了傳統藥物僅能控制血糖、無法修復胰島功能的侷限，推動糖尿病治療從「被動控糖」轉向涵蓋早期篩查、免疫干預、細胞修復和精準營養支持的「主動干預」綜合防治體系。</p>
+<p><strong>胰島 β 細胞修復與再生</strong><br>定向分化：激活 PDX-1、Ngn3 等轉錄因子，分化為胰島 β 樣細胞，葡萄糖刺激胰島素分泌能力可達天然 β 細胞的 78%–92%；誘導內源性胰島 α 細胞向 β 細胞轉分化。<br>保護存活：分泌 HGF、EGF 等抑制 β 細胞凋亡，外泌體攜帶 miR-375 等靶向抑制 Bax 等凋亡基因，提升細胞存活率。</p>
+<p><strong>改善胰島素抵抗與代謝穩態</strong><br>增強胰島素敏感性：通過 AMPK/PI3K 通路促進 GLUT4 轉位，提高糖攝取；下調 PEPCK 等基因，減少肝糖輸出。<br>調節脂肪代謝：促進脂肪組織巨噬細胞向抗炎表型轉化，降低 TNF-α 等炎症因子，緩解胰島素抵抗。</p>
+<p><strong>併發症防治與旁分泌效應</strong><br>修復微環境：分泌 VEGF 等促進血管新生，改善胰島缺氧環境；外泌體抗纖維化、抗炎，保護腎臟，降低糖尿病腎病風險。<br>旁分泌核心：通過外泌體、細胞因子等遠程調控代謝與免疫，幹細胞歸巢至胰腺進行修復，是主要療效來源。</p>
+<h3>三、從被動控糖到主動干預</h3>
+<p>這一方向填補了 2 型糖尿病「根源性治療」的空白，突破傳統藥物僅能控制血糖、無法修復胰島功能的侷限，推動治療從「被動控糖」轉向涵蓋早期篩查、免疫干預、細胞修復和精準營養支持的綜合防治。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-7-4.jpg" alt="糖尿病治療從被動控糖到主動干預" /></figure>
-<p><strong>2. 產業加速</strong>：該技術的獲批落地，將推動幹細胞治療全產業鏈的標準化建設，包括細胞製備、質量控制、療效評價等關鍵環節，為其他代謝性疾病的幹細胞治療提供可複製的範本。目前，該項目已明確將「前沿的技術高質量、高效率、大規模地服務於廣大羣眾」作為目標，一旦在樂城驗證成功，有望向全國有條件的醫療機構推廣。</p>
-<h3>五、糖尿病防治新範式：健康管理與細胞干預的協同</h3>
+<p>要走向成熟應用，還需把細胞製備、質量控制、療效評價等環節標準化，才能為其他代謝性疾病的細胞治療提供可複製的範本。</p>
+<h3>四、健康管理與細胞干預需協同</h3>
 <figure class="article-fig"><img src="/images/knowledge/longevity-7-5.png" alt="健康管理與細胞干預協同防治糖尿病" /></figure>
-<p><strong>糖尿病健康管理</strong>：幹細胞技術並非替代傳統健康管理的方案。對於 2 型糖尿病患者而言，科學的健康管理仍是控制病情、提升精準管理效果的基礎。因個體化差異，日常需制定精準的營養飲食方案（減少高糖、高脂、高鹽食物攝入）、個性化運動方案，同時定期監測血糖、血壓、血脂等指標，保持良好心態，將健康管理與規範治療相結合，才能更有效地延緩病情進展、降低併發症風險。</p>
-<p><strong>規範診療流程</strong>：患者接受治療前，必須經具備資質的專業醫生全面評估，嚴格排除腫瘤、嚴重感染等禁忌症；治療後需按要求完成長期隨訪，密切監測身體指標變化，確保治療安全。</p>
-<p><strong>警惕虛假宣傳</strong>：任何機構或個人宣稱幹細胞治療「包治百病」「絕對安全」「一針見效」均為虛假宣傳，屬於醫療騙局，患者需提高警惕。</p>
-<p>參考文獻：</p>
-<ol>
-<li>海南省人民代表大會常務委員會. 海南自由貿易港博鰲樂城國際醫療旅遊先行區生物醫學新技術促進規定[S]. 2024.</li>
-<li>解放軍總醫院內分泌科團隊. 臍帶間充質幹細胞治療 2 型糖尿病的臨牀療效與安全性研究[J]. <em>Stem Cells Translational Medicine</em>, 2023.</li>
-<li>國家衞生健康委. 細胞與基因治療規範提示及風險警示[EB/OL]. 2025-12-09.</li>
-</ol>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>2026 年 1 月 18 日，博鳌乐城医疗药品监管局正式下发红头文件（乐医药监〔2025〕113 号），批复「2 型糖尿病的人脐带间充质干细胞治疗技术」进入临床转化应用。这一重要进展，标志着我国该领域干细胞治疗正式从临床试验阶段迈入规模化临床应用新阶段。</p>
-<p>该技术采用人脐带间充质干细胞，通过改善胰岛素抵抗、调节免疫等机制发挥作用，既能有效改善患者血糖控制，又能延缓并发症发生；同时，其干细胞来源不涉及胚胎，具备更高的安全性与伦理合规性。</p>
-<h3>一、治疗费用与流程</h3>
-<p>根据慈铭博鳌国际医院的公告，该治疗技术的定价为：单次使用 5000 万细胞量的脐带间充质干细胞费用为 5.8 万元，一个完整疗程包含三次治疗，总费用为 17.4 万元。费用涵盖了干细胞制备、输注监护及随访管理等。</p>
-<figure class="article-fig"><img src="/images/knowledge/longevity-7-2.jpg" alt="2 型糖尿病干细胞治疗费用与流程" /></figure>
-<h3>二、突破传统治疗局限的创新方向</h3>
-<p>2 型糖尿病是常见的慢性代谢性疾病，核心病理特征为胰岛 β 细胞功能损伤或胰岛素抵抗。长期血糖控制不佳易引发视网膜病变、肾病、神经病变等多种严重并发症，严重影响患者生活质量与生命健康。</p>
-<p>传统治疗手段主要依赖饮食调控、运动干预及外源降糖药物（或胰岛素）注射，虽能暂时控制血糖水平、延缓病情进展，但无法从根源上修复受损的胰岛功能，本质属于「被动控糖」范畴。</p>
-<p>此次获批的干细胞治疗技术，核心定位是突破传统治疗的核心局限，通过激活人体自身细胞的修复能力，实现对病因的「主动干预」。</p>
-<h3>三、核心作用机制：精准对应 2 型糖尿病病理</h3>
-<p>该技术以间充质干细胞的多向分化、免疫调节及旁分泌效应为核心，针对 2 型糖尿病核心病理环节实现靶向干预，具体机制如下：</p>
+<p><strong>糖尿病健康管理</strong>：幹細胞技術並非替代傳統健康管理。對 2 型糖尿病患者而言，科學的健康管理仍是控制病情的基礎。因個體差異，日常需制定營養飲食方案（減少高糖、高脂、高鹽食物）、個性化運動方案，並定期監測血糖、血壓、血脂，將健康管理與規範治療相結合，才能更有效地延緩進展、降低併發症風險。</p>
+<p><strong>規範診療流程</strong>：接受治療前，必須經具備資質的專業醫生全面評估，嚴格排除腫瘤、嚴重感染等禁忌症；治療後需完成長期隨訪，密切監測身體指標，確保安全。</p>
+<p><strong>警惕虛假宣傳</strong>：任何機構或個人宣稱幹細胞治療「包治百病」「絕對安全」「一針見效」均為虛假宣傳，需提高警惕。</p>
+<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>人脐带间充质干细胞治疗 2 型糖尿病，通过改善胰岛素抵抗、调节免疫等机制发挥作用，既能改善血糖控制，又能延缓并发症发生。细胞来源不涉及胚胎，具备较高的安全性与伦理合规性。</p>
+<h3>一、突破传统治疗局限</h3>
+<p>2 型糖尿病是常见的慢性代谢性疾病，核心病理特征为胰岛 β 细胞功能损伤或胰岛素抵抗。长期血糖控制不佳易引发视网膜病变、肾病、神经病变等多种严重并发症，严重影响生活质量与健康。</p>
+<p>传统治疗主要依赖饮食调控、运动干预及外源降糖药物（或胰岛素）。虽能暂时控制血糖、延缓进展，但无法从根源上修复受损的胰岛功能，本质属于「被动控糖」。</p>
+<p>脐带间充质干细胞治疗的核心定位，是通过激活人体自身细胞的修复能力，实现对病因的「主动干预」。</p>
+<h3>二、核心作用机制：对应 2 型糖尿病病理</h3>
+<p>该技术以间充质干细胞的多向分化、免疫调节及旁分泌效应为核心，针对 2 型糖尿病病理环节实现干预：</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-7-3.png" alt="间充质干细胞治疗 2 型糖尿病的作用机制" /></figure>
-<p><strong>胰岛 β 细胞修复与再生</strong><br>定向分化：激活 PDX-1、Ngn3 等转录因子，分化为胰岛 β 样细胞，葡萄糖刺激胰岛素分泌能力达天然 β 细胞的 78%–92%；诱导内源性胰岛 α 细胞向 β 细胞转分化。<br>保护存活：分泌 HGF、EGF 等抑制 β 细胞凋亡，外泌体携带 miR-375 等靶向抑制 Bax 等凋亡基因，提升细胞存活率。</p>
-<p><strong>改善胰岛素抵抗与代谢稳态</strong>（核心针对 2 型糖尿病）<br>增强胰岛素敏感性：通过 AMPK/PI3K 通路促进 GLUT4 转位，提高糖摄取；下调 PEPCK 等基因，减少肝糖输出达 59.7%。<br>调节脂肪代谢：促进脂肪组织巨噬细胞向抗炎表型转化，降低 TNF-α 等炎症因子，缓解胰岛素抵抗。</p>
-<p><strong>并发症防治与旁分泌效应</strong><br>修复微环境：分泌 VEGF 等促进血管新生，改善胰岛缺氧环境；外泌体抗纤维化、抗炎，保护肾脏，降低糖尿病肾病风险。<br>旁分泌核心：通过外泌体、细胞因子等远程调控代谢与免疫，干细胞归巢至胰腺精准修复，这是主要疗效来源。</p>
-<h3>四、产业意义与未来展望</h3>
-<p><strong>1. 技术突破</strong>：填补了 2 型糖尿病「根源性治疗」的空白，突破了传统药物仅能控制血糖、无法修复胰岛功能的局限，推动糖尿病治疗从「被动控糖」转向涵盖早期筛查、免疫干预、细胞修复和精准营养支持的「主动干预」综合防治体系。</p>
+<p><strong>胰岛 β 细胞修复与再生</strong><br>定向分化：激活 PDX-1、Ngn3 等转录因子，分化为胰岛 β 样细胞，葡萄糖刺激胰岛素分泌能力可达天然 β 细胞的 78%–92%；诱导内源性胰岛 α 细胞向 β 细胞转分化。<br>保护存活：分泌 HGF、EGF 等抑制 β 细胞凋亡，外泌体携带 miR-375 等靶向抑制 Bax 等凋亡基因，提升细胞存活率。</p>
+<p><strong>改善胰岛素抵抗与代谢稳态</strong><br>增强胰岛素敏感性：通过 AMPK/PI3K 通路促进 GLUT4 转位，提高糖摄取；下调 PEPCK 等基因，减少肝糖输出。<br>调节脂肪代谢：促进脂肪组织巨噬细胞向抗炎表型转化，降低 TNF-α 等炎症因子，缓解胰岛素抵抗。</p>
+<p><strong>并发症防治与旁分泌效应</strong><br>修复微环境：分泌 VEGF 等促进血管新生，改善胰岛缺氧环境；外泌体抗纤维化、抗炎，保护肾脏，降低糖尿病肾病风险。<br>旁分泌核心：通过外泌体、细胞因子等远程调控代谢与免疫，干细胞归巢至胰腺进行修复，是主要疗效来源。</p>
+<h3>三、从被动控糖到主动干预</h3>
+<p>这一方向填补了 2 型糖尿病「根源性治疗」的空白，突破传统药物仅能控制血糖、无法修复胰岛功能的局限，推动治疗从「被动控糖」转向涵盖早期筛查、免疫干预、细胞修复和精准营养支持的综合防治。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-7-4.jpg" alt="糖尿病治疗从被动控糖到主动干预" /></figure>
-<p><strong>2. 产业加速</strong>：该技术的获批落地，将推动干细胞治疗全产业链的标准化建设，包括细胞制备、质量控制、疗效评价等关键环节，为其他代谢性疾病的干细胞治疗提供可复制的范本。目前，该项目已明确将「前沿的技术高质量、高效率、大规模地服务于广大群众」作为目标，一旦在乐城验证成功，有望向全国有条件的医疗机构推广。</p>
-<h3>五、糖尿病防治新范式：健康管理与细胞干预的协同</h3>
+<p>要走向成熟应用，还需把细胞制备、质量控制、疗效评价等环节标准化，才能为其他代谢性疾病的细胞治疗提供可复制的范本。</p>
+<h3>四、健康管理与细胞干预需协同</h3>
 <figure class="article-fig"><img src="/images/knowledge/longevity-7-5.png" alt="健康管理与细胞干预协同防治糖尿病" /></figure>
-<p><strong>糖尿病健康管理</strong>：干细胞技术并非替代传统健康管理的方案。对于 2 型糖尿病患者而言，科学的健康管理仍是控制病情、提升精准管理效果的基础。因个体化差异，日常需制定精准的营养饮食方案（减少高糖、高脂、高盐食物摄入）、个性化运动方案，同时定期监测血糖、血压、血脂等指标，保持良好心态，将健康管理与规范治疗相结合，才能更有效地延缓病情进展、降低并发症风险。</p>
-<p><strong>规范诊疗流程</strong>：患者接受治疗前，必须经具备资质的专业医生全面评估，严格排除肿瘤、严重感染等禁忌症；治疗后需按要求完成长期随访，密切监测身体指标变化，确保治疗安全。</p>
-<p><strong>警惕虚假宣传</strong>：任何机构或个人宣称干细胞治疗「包治百病」「绝对安全」「一针见效」均为虚假宣传，属于医疗骗局，患者需提高警惕。</p>
-<p>参考文献：</p>
-<ol>
-<li>海南省人民代表大会常务委员会. 海南自由贸易港博鳌乐城国际医疗旅游先行区生物医学新技术促进规定[S]. 2024.</li>
-<li>解放军总医院内分泌科团队. 脐带间充质干细胞治疗 2 型糖尿病的临床疗效与安全性研究[J]. <em>Stem Cells Translational Medicine</em>, 2023.</li>
-<li>国家卫生健康委. 细胞与基因治疗规范提示及风险警示[EB/OL]. 2025-12-09.</li>
-</ol>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>On 18 January 2026, the Boao Lecheng medical-products regulator issued a formal approval (Le Medicine Supervision [2025] No. 113) for “human umbilical-cord mesenchymal stem-cell therapy for type 2 diabetes” to enter clinical translation. The step marks a move in China from clinical trials towards scaled clinical use in this field.</p>
-<p>The technology uses human umbilical-cord MSCs, acting through improved insulin resistance and immune modulation. It can improve glycaemic control and delay complications; the cell source does not involve embryos, with higher safety and ethical compliance.</p>
-<h3>1. Cost and process</h3>
-<p>According to an announcement from Ciming Boao International Hospital, a single dose of 50 million umbilical-cord MSCs is priced at RMB 58,000. A full course is three treatments, totalling RMB 174,000, covering cell preparation, infusion monitoring and follow-up.</p>
-<figure class="article-fig"><img src="/images/knowledge/longevity-7-2.jpg" alt="Cost and process of stem-cell therapy for type 2 diabetes" /></figure>
-<h3>2. An innovative direction beyond traditional limits</h3>
+<p><strong>糖尿病健康管理</strong>：干细胞技术并非替代传统健康管理。对 2 型糖尿病患者而言，科学的健康管理仍是控制病情的基础。因个体差异，日常需制定营养饮食方案（减少高糖、高脂、高盐食物）、个性化运动方案，并定期监测血糖、血压、血脂，将健康管理与规范治疗相结合，才能更有效地延缓进展、降低并发症风险。</p>
+<p><strong>规范诊疗流程</strong>：接受治疗前，必须经具备资质的专业医生全面评估，严格排除肿瘤、严重感染等禁忌症；治疗后需完成长期随访，密切监测身体指标，确保安全。</p>
+<p><strong>警惕虚假宣传</strong>：任何机构或个人宣称干细胞治疗「包治百病」「绝对安全」「一针见效」均为虚假宣传，需提高警惕。</p>
+<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Umbilical-cord mesenchymal stem-cell (MSC) therapy for type 2 diabetes acts through improved insulin resistance and immune modulation. It may improve glycaemic control and delay complications. The cell source does not involve embryos, with a stronger ethical and safety profile than embryo-derived approaches.</p>
+<h3>1. Beyond the limits of conventional care</h3>
 <p>Type 2 diabetes is a common chronic metabolic disease. Its core pathology is injury to pancreatic β-cell function or insulin resistance. Poor long-term glucose control readily leads to retinopathy, nephropathy, neuropathy and other serious complications, harming quality of life and health.</p>
 <p>Traditional care relies mainly on diet, exercise and exogenous glucose-lowering drugs (or insulin). These can temporarily control glucose and slow progression, but cannot repair damaged islet function at the root — essentially “passive glucose control”.</p>
-<p>The newly approved stem-cell therapy is positioned to break that limit: activating the body’s own cellular repair for “active intervention” on the cause.</p>
-<h3>3. Core mechanisms, matched to type 2 diabetes pathology</h3>
+<p>Umbilical-cord MSC therapy is positioned to break that limit: activating the body’s own cellular repair for “active intervention” on the cause.</p>
+<h3>2. Core mechanisms, matched to type 2 diabetes pathology</h3>
 <p>The technology centres on MSC multilineage differentiation, immunomodulation and paracrine effects, targeting core pathological links as follows:</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-7-3.png" alt="Mechanisms of MSC therapy in type 2 diabetes" /></figure>
 <p><strong>β-cell repair and regeneration</strong><br>Directed differentiation: activating transcription factors such as PDX-1 and Ngn3 to become β-like cells, with glucose-stimulated insulin secretion at 78%–92% of native β cells; inducing endogenous α-to-β transdifferentiation.<br>Protecting survival: secreting HGF, EGF and others to inhibit β-cell apoptosis; exosomes carrying miR-375 and similar molecules that suppress apoptotic genes such as Bax, raising survival.</p>
-<p><strong>Improving insulin resistance and metabolic homeostasis</strong> (core for type 2 diabetes)<br>Raising insulin sensitivity: via the AMPK/PI3K pathway, promoting GLUT4 translocation and glucose uptake; down-regulating genes such as PEPCK, cutting hepatic glucose output by 59.7%.<br>Regulating fat metabolism: shifting adipose-tissue macrophages towards an anti-inflammatory phenotype, lowering TNF-α and other inflammatory factors, easing insulin resistance.</p>
-<p><strong>Complication prevention and paracrine effects</strong><br>Repairing the microenvironment: secreting VEGF and others to promote angiogenesis and ease islet hypoxia; exosomes anti-fibrotic and anti-inflammatory, protecting the kidney and lowering diabetic-nephropathy risk.<br>Paracrine core: remote regulation of metabolism and immunity via exosomes and cytokines; stem cells homing to the pancreas for precise repair — the main source of efficacy.</p>
-<h3>4. Industrial meaning and outlook</h3>
-<p><strong>1. Technical breakthrough</strong>: it fills a gap in “root-cause treatment” of type 2 diabetes, going beyond drugs that only control glucose and cannot repair islets, and pushing diabetes care from “passive glucose control” towards an “active intervention” system of early screening, immune intervention, cell repair and precise nutritional support.</p>
+<p><strong>Improving insulin resistance and metabolic homeostasis</strong><br>Raising insulin sensitivity: via the AMPK/PI3K pathway, promoting GLUT4 translocation and glucose uptake; down-regulating genes such as PEPCK, cutting hepatic glucose output.<br>Regulating fat metabolism: shifting adipose-tissue macrophages towards an anti-inflammatory phenotype, lowering TNF-α and other inflammatory factors, easing insulin resistance.</p>
+<p><strong>Complication prevention and paracrine effects</strong><br>Repairing the microenvironment: secreting VEGF and others to promote angiogenesis and ease islet hypoxia; exosomes anti-fibrotic and anti-inflammatory, protecting the kidney and lowering diabetic-nephropathy risk.<br>Paracrine core: remote regulation of metabolism and immunity via exosomes and cytokines; stem cells homing to the pancreas for repair — the main source of efficacy.</p>
+<h3>3. From passive glucose control to active intervention</h3>
+<p>This direction fills a gap in “root-cause treatment” of type 2 diabetes, going beyond drugs that only control glucose and cannot repair islets, and pushing care from “passive glucose control” towards a combined approach of early screening, immune intervention, cell repair and precise nutritional support.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-7-4.jpg" alt="From passive glucose control to active intervention" /></figure>
-<p><strong>2. Industry acceleration</strong>: approval will push standardisation across the stem-cell chain — cell preparation, quality control, efficacy evaluation — and offer a replicable model for other metabolic diseases. The project’s stated aim is to serve the public with frontier technology at high quality, efficiency and scale; if validated in Lecheng, it may spread to qualified institutions nationwide.</p>
-<h3>5. A new paradigm: health management plus cell intervention</h3>
+<p>Mature use still requires standardisation of cell preparation, quality control and efficacy evaluation, so the same chain can be copied for other metabolic diseases.</p>
+<h3>4. Health management and cell intervention belong together</h3>
 <figure class="article-fig"><img src="/images/knowledge/longevity-7-5.png" alt="Health management and cell intervention in diabetes" /></figure>
-<p><strong>Diabetes health management</strong>: stem-cell technology does not replace conventional health management. For people with type 2 diabetes, scientific self-management remains the basis for control. Because individuals differ, daily care still needs a precise diet (less high-sugar, high-fat, high-salt food), a personalised exercise plan, regular monitoring of glucose, blood pressure and lipids, and a stable mindset. Combining health management with standard treatment is what delays progression and lowers complication risk more effectively.</p>
+<p><strong>Diabetes health management</strong>: stem-cell technology does not replace conventional health management. For people with type 2 diabetes, scientific self-management remains the basis for control. Because individuals differ, daily care still needs a diet (less high-sugar, high-fat, high-salt food), a personalised exercise plan, and regular monitoring of glucose, blood pressure and lipids. Combining health management with standard treatment is what delays progression and lowers complication risk more effectively.</p>
 <p><strong>A proper care pathway</strong>: before treatment, a qualified clinician must assess fully and strictly exclude contraindications such as tumour and severe infection; after treatment, long-term follow-up is required, with close monitoring of body markers, to keep treatment safe.</p>
-<p><strong>Beware false claims</strong>: any organisation or individual claiming stem-cell therapy “cures all diseases”, is “absolutely safe” or “works in one injection” is false advertising and a medical scam. Patients should stay alert.</p>
-<p>References:</p>
-<ol>
-<li>Standing Committee of Hainan Provincial People’s Congress. Provisions on promoting new biomedical technologies in the Hainan Free Trade Port Boao Lecheng International Medical Tourism Pilot Zone [S]. 2024.</li>
-<li>PLA General Hospital endocrinology team. Clinical efficacy and safety of umbilical-cord mesenchymal stem cells in type 2 diabetes [J]. <em>Stem Cells Translational Medicine</em>, 2023.</li>
-<li>National Health Commission. Notes and risk warnings on norms for cell and gene therapy [EB/OL]. 2025-12-09.</li>
-</ol>
+<p><strong>Beware false claims</strong>: any organisation or individual claiming stem-cell therapy “cures all diseases”, is “absolutely safe” or “works in one injection” is false advertising. Patients should stay alert.</p>
 <p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
   },
   {
@@ -2180,12 +2150,11 @@ export const articles: KnowledgeArticle[] = [
     eyebrow: "Healthspan",
     cover: "/images/knowledge/longevity-20-1.png",
     image: "/images/knowledge/longevity-20-1.png",
-    title: { "zh-HK": `「僅延長壽命長度」的時代已經過去，如何延長高質量的生命年限成為國家戰略議題`, "zh-CN": `「仅延长寿命长度」的时代已经过去，如何延长高质量的生命年限成为国家战略议题`, en: `Extending Lifespan Alone Is No Longer Enough — Healthspan Is Now a National Question` },
+    title: { "zh-HK": `「僅延長壽命長度」的時代已經過去，如何延長高質量的生命年限`, "zh-CN": `「仅延长寿命长度」的时代已经过去，如何延长高质量的生命年限`, en: `Extending Lifespan Alone Is No Longer Enough — The Question Is Healthspan` },
     excerpt: { "zh-HK": `從疾病治療到衰老管理：核心是把「項目式銷售」升級為數據驅動的全週期健康管理，通過精準評估和持續干預延長健康跨度。`, "zh-CN": `从疾病治疗到衰老管理：核心是把「项目式销售」升级为数据驱动的全周期健康管理，通过精准评估和持续干预延长健康跨度。`, en: `From treating disease to managing ageing: the shift is from one-off projects to data-driven, lifelong care that lengthens healthspan — years lived in good function.` },
-    body: { "zh-HK": `<p>從疾病治療到衰老管理：中國長壽醫學產業正經歷「公立奠基、私立探索」的雙軌變革，核心在於將「項目式銷售」升級為「數據驅動的全週期健康管理」，通過精準評估和持續干預延長高質量生命年限。</p>
-<p>「僅延長壽命長度」的時代已經過去，如何延長「健康跨度」（Healthspan），即高質量的生命年限，已成為「健康中國」戰略下最迫切的社會議題之一。這一背景催生了對傳統以疾病治療為中心的醫療模式進行反思，並推動了對衰老管理和長壽服務的巨大市場需求。</p>
-<p>「健康中國 2030」規劃綱要及後續一系列政策的出台，為長壽科技和衰老管理行業的發展提供了重要的戰略指引和政策驅動力，也為市場的規範化、規模化發展創造了有利環境。</p>
-<figure class="article-fig"><img src="/images/knowledge/longevity-20-2.png" alt="長壽醫學與相關學科的對比" /></figure>
+    body: { "zh-HK": `<p>從疾病治療到衰老管理：長壽醫學的核心，在於把「項目式銷售」升級為數據驅動的全週期健康管理，通過精準評估和持續干預，延長高質量的生命年限。</p>
+<p>「僅延長壽命長度」的時代已經過去。如何延長「健康跨度」（Healthspan）——即人能保持功能、獨立生活的那些年——已成為老齡化社會最迫切的議題之一。這一轉變催生了對傳統以疾病治療為中心的醫療模式進行反思，也推動了衰老管理與長壽服務的需求：市場要的是可評估、可跟進、可個體化的全程管理，而不是一次性項目。</p>
+<p>人口結構老化、健康消費從「被動治療」轉向「主動抗衰」，使長壽醫學與鄰近學科的邊界愈發需要釐清。下面從干預時機、認知深度與技術手段三方面，說明它與老年病診療、醫美抗衰及治未病路徑的分別。</p>
 <h3>一、與老年病診療：核心邏輯與干預時機不同</h3>
 <p>老年病診療強調老年綜合評估與共病管理，聚焦 60 歲以上老年人羣。長壽醫學瞄準 30 歲以上人羣，以「健康干預」為核心，目標是延長健康壽命而非僅應對已發老年疾病。若將兩者混淆，可能導致干預滯後，錯失衰老調控的最佳窗口期。</p>
 <h3>二、與醫美抗衰：對衰老的認知深度不同</h3>
@@ -2195,10 +2164,9 @@ export const articles: KnowledgeArticle[] = [
 <p>治未病基於中醫理論，通過中藥、針灸等手段預防疾病。長壽醫學以細胞衰老理論、端粒學説等分子機制為基礎，整合多組學檢測、再生醫學、衰老細胞清除等技術以評估和延緩衰老。</p>
 <h3>結語</h3>
 <p>總的來看，長壽醫學的特點在於將「衰老」作為獨立的干預對象，其對衰老過程進行精準評估和系統性干預的能力是其他學科難以替代的。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>从疾病治疗到衰老管理：中国长寿医学产业正经历「公立奠基、私立探索」的双轨变革，核心在于将「项目式销售」升级为「数据驱动的全周期健康管理」，通过精准评估和持续干预延长高质量生命年限。</p>
-<p>「仅延长寿命长度」的时代已经过去，如何延长「健康跨度」（Healthspan），即高质量的生命年限，已成为「健康中国」战略下最迫切的社会议题之一。这一背景催生了对传统以疾病治疗为中心的医疗模式进行反思，并推动了对衰老管理和长寿服务的巨大市场需求。</p>
-<p>「健康中国 2030」规划纲要及后续一系列政策的出台，为长寿科技和衰老管理行业的发展提供了重要的战略指引和政策驱动力，也为市场的规范化、规模化发展创造了有利环境。</p>
-<figure class="article-fig"><img src="/images/knowledge/longevity-20-2.png" alt="长寿医学与相关学科的对比" /></figure>
+<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>从疾病治疗到衰老管理：长寿医学的核心，在于把「项目式销售」升级为数据驱动的全周期健康管理，通过精准评估和持续干预，延长高质量的生命年限。</p>
+<p>「仅延长寿命长度」的时代已经过去。如何延长「健康跨度」（Healthspan）——即人能保持功能、独立生活的那些年——已成为老龄化社会最迫切的议题之一。这一转变催生了对传统以疾病治疗为中心的医疗模式进行反思，也推动了衰老管理与长寿服务的需求：市场要的是可评估、可跟进、可个体化的全程管理，而不是一次性项目。</p>
+<p>人口结构老化、健康消费从「被动治疗」转向「主动抗衰」，使长寿医学与邻近学科的边界愈发需要厘清。下面从干预时机、认知深度与技术手段三方面，说明它与老年病诊疗、医美抗衰及治未病路径的分别。</p>
 <h3>一、与老年病诊疗：核心逻辑与干预时机不同</h3>
 <p>老年病诊疗强调老年综合评估与共病管理，聚焦 60 岁以上老年人群。长寿医学瞄准 30 岁以上人群，以「健康干预」为核心，目标是延长健康寿命而非仅应对已发老年疾病。若将两者混淆，可能导致干预滞后，错失衰老调控的最佳窗口期。</p>
 <h3>二、与医美抗衰：对衰老的认知深度不同</h3>
@@ -2208,9 +2176,9 @@ export const articles: KnowledgeArticle[] = [
 <p>治未病基于中医理论，通过中药、针灸等手段预防疾病。长寿医学以细胞衰老理论、端粒学说等分子机制为基础，整合多组学检测、再生医学、衰老细胞清除等技术以评估和延缓衰老。</p>
 <h3>结语</h3>
 <p>总的来看，长寿医学的特点在于将「衰老」作为独立的干预对象，其对衰老过程进行精准评估和系统性干预的能力是其他学科难以替代的。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>China’s longevity field is moving on two tracks — public foundations, private exploration — and the real upgrade is from one-off “project sales” to data-driven, whole-cycle health management: assess precisely, intervene continuously, and lengthen years lived in good function.</p>
-<p>The era of “add years to life and stop there” is over. Extending healthspan is now among the most urgent questions under Healthy China. That shift forces a rethink of disease-centred care and is pulling demand toward ageing management and longevity services. The Healthy China 2030 outline and later policy have given the field a strategic frame and room to professionalise.</p>
-<figure class="article-fig"><img src="/images/knowledge/longevity-20-2.png" alt="Longevity medicine compared with related fields" /></figure>
+<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>From treating disease to managing ageing: longevity medicine’s core move is to upgrade one-off “project sales” into data-driven, whole-cycle care — assess precisely, intervene continuously, and lengthen years lived in good function.</p>
+<p>The era of “add years to life and stop there” is over. Extending healthspan — the years a person can keep function and live independently — is now among the most urgent questions in an ageing society. That shift forces a rethink of disease-centred care and pulls demand toward ageing management: services that can be measured, followed and individualised, not a single transaction.</p>
+<p>Demographic ageing and a turn from passive treatment to active anti-ageing also make the borders with neighbouring fields worth drawing clearly. The three contrasts below — timing, depth, and tools — set longevity medicine apart from geriatric care, aesthetic anti-ageing, and preventive traditional-medicine paths.</p>
 <h3>1. Versus geriatric care: different logic, different timing</h3>
 <p>Geriatric care emphasises comprehensive assessment and multimorbidity, mainly after 60. Longevity medicine looks from about 30 onward, with health intervention at the centre — extending healthspan, not only treating diseases already present. Confusing the two delays action and can miss the better window for modulating ageing.</p>
 <h3>2. Versus aesthetic anti-ageing: different depth</h3>
@@ -2511,7 +2479,7 @@ export const articles: KnowledgeArticle[] = [
     slug: "57",
     section: "longevity",
     eyebrow: "Cell Therapy",
-    cover: "/images/knowledge/longevity-25-1.jpg",
+    cover: "/images/knowledge/longevity-25-4.png",
     image: "/images/knowledge/longevity-25-1.jpg",
     title: { "zh-HK": `長壽醫學範式轉變：細胞療法引領健康管理新紀元`, "zh-CN": `长寿医学范式转变：细胞疗法引领健康管理新纪元`, en: `A Paradigm Shift in Longevity Medicine: Cell Therapy and a New Era of Health Management` },
     excerpt: { "zh-HK": `中國人均預期壽命已至 78.6 歲，同時快速老齡化。長壽金字塔從評估、生活方式、補充劑、藥物，走到頂層的基因編輯與幹細胞——幹細胞回輸被看作補充再生細胞、改善衰弱與炎症的路徑。`, "zh-CN": `中国人均预期寿命已至 78.6 岁，同时快速老龄化。长寿金字塔从评估、生活方式、补充剂、药物，走到顶层的基因编辑与干细胞——干细胞回输被看作补充再生细胞、改善衰弱与炎症的路径。`, en: `Life expectancy in China has reached 78.6 years even as the population ages fast. The longevity pyramid runs from measurement and lifestyle up to gene editing and stem cells — infusion as a way to restock regenerative cells and ease frailty and inflammation.` },

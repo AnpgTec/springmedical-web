@@ -19,7 +19,7 @@ export const treatmentCategories: TreatmentCategory[] = [
       en: `Selected device and energy treatments addressing laxity, pigmentation, skin quality and intimate repair.`,
     },
     image: "/images/cat-signature.jpg",
-    treatmentIds: ["ultherapy","m22","thermage","co2","s21","scar-repair","pigmentation","emtone","exilis","ultra-femme"],
+    treatmentIds: ["ultherapy","m22","thermage","co2","s21","scar-repair","pigmentation","emtone","exilis","pico","ultra-femme"],
   },
   {
     id: "hair",

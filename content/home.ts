@@ -188,12 +188,25 @@ export const homeContent: HomeContent = {
       ),
     },
     {
-      id: "co2",
-      title: L("CO₂ Laser激光技術", "CO₂ Laser激光技术", "CO₂ Laser technology"),
+      id: "scar-repair",
+      title: L("凹凸洞疤痕修復", "凹凸洞疤痕修复", "Atrophic acne scar repair"),
       desc: L(
-        "CO₂ 激光以 10,600nm 波長精準氣化皮膚組織，一次療程改善皺紋、疤痕、老人斑與毛孔，達致全面皮膚年輕化。",
-        "CO₂ 激光以 10,600nm 波长精准气化皮肤组织，一次疗程改善皱纹、疤痕、老人斑与毛孔，达致全面皮肤年轻化。",
-        "10,600nm CO₂ laser precisely ablates tissue to improve wrinkles, scars, age spots and pores."
+        "凹凸洞是真皮層結構性塌陷，需分型而治、複合式階梯重建，而非單一儀器打天下。",
+        "凹凸洞是真皮层结构性塌陷，需分型而治、复合式阶梯重建，而非单一仪器打天下。",
+        "Pitted scars are dermal collapse — typed and rebuilt in stages, not one device for all."
+      ),
+    },
+    {
+      id: "exilis",
+      title: L(
+        "BTL Exilis Ultra 360 眼部超頻緊緻膠原槍",
+        "BTL Exilis Ultra 360 眼部超频紧致胶原枪",
+        "BTL Exilis Ultra 360 Eye Collagen Gun"
+      ),
+      desc: L(
+        "超聲波結合單極射頻，刺激眼底膠原與彈力蛋白增生，緊緻眼周、撫平眼紋，非入侵性無恢復期。",
+        "超声波结合单极射频，刺激眼底胶原与弹力蛋白增生，紧致眼周、抚平眼纹，非入侵性无恢复期。",
+        "Ultrasound plus monopolar RF to stimulate periocular collagen and elastin — firm, smooth, no downtime."
       ),
     },
   ],

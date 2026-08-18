@@ -136,7 +136,7 @@ function DetailView({ locale, treatment }: { locale: Locale; treatment: Treatmen
                 style={
                   treatment.id === "ultherapy" || treatment.id === "thermage"
                     ? { height: "auto", aspectRatio: "1 / 1" }
-                    : treatment.id === "scar-repair" || treatment.id === "pigmentation"
+                    : treatment.id === "scar-repair" || treatment.id === "pigmentation" || treatment.id === "pico"
                       ? { height: "auto", aspectRatio: "4 / 5" }
                       : treatment.id === "m22"
                         ? { height: "auto", aspectRatio: "2358 / 2780" }

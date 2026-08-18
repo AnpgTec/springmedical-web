@@ -74,8 +74,9 @@ function ArticleGrid({
             className="thumb"
             style={{
               backgroundImage: `url('${articleCover(a) || "/images/knowledge-cover-1.jpg"}')`,
-              backgroundSize: "cover",
+              backgroundSize: "contain",
               backgroundPosition: "center",
+              backgroundRepeat: "no-repeat",
             }}
           />
           <div className="body">

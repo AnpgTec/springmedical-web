@@ -24,6 +24,118 @@ export type Treatment = {
 
 export const treatments: Treatment[] = [
   {
+    id: "pico",
+    category: "signature",
+    slug: "pico",
+    title: { "zh-HK": `PICO 皮秒光療程`, "zh-CN": `PICO 皮秒光疗程`, en: `PICO Picosecond Laser` },
+    summary: { "zh-HK": `以皮秒級超短脈衝產生光機械效應，精準震碎黑色素並誘導膠原重組，改善色斑、毛孔、膚色不均與痘印痘疤，復原期短。`, "zh-CN": `以皮秒级超短脉冲产生光机械效应，精准震碎黑色素并诱导胶原重组，改善色斑、毛孔、肤色不均与痘印痘疤，复原期短。`, en: `Ultra-short picosecond pulses use a photomechanical effect to shatter pigment and stimulate collagen — targeting spots, pores, uneven tone and acne marks with short recovery.` },
+    bodyHtml: {
+      "zh-HK": `<p>隨着光電醫學技術的持續演進，皮秒激光（Pico Laser）已確立為處理多種皮膚色素性病變及膚質問題的前瞻性治療方案。其核心優勢在於極短的脈衝持續時間，能有效提升治療效率，同時降低周邊組織熱損傷風險，為非入侵性皮膚治療樹立新標竿。</p>
+<h3>技術原理與作用機制</h3>
+<p>皮秒激光之名源自其脈衝寬度達至皮秒級別（10⁻¹² 秒）。在此極短作用時間內，激光能量會產生強烈的光機械效應（Photomechanical Effect），而非傳統激光依賴的光熱效應（Photothermal Effect）。此機制能將標靶組織——即皮膚內異常累積之黑色素顆粒——精準震碎為細微粉塵狀，隨後經由人體淋巴系統及新陳代謝途徑自然清除。由於熱擴散時間極短，對鄰近正常組織的熱凝結損傷顯著減少，進而提升療程安全性並縮短術後復原期。</p>
+<h3>適應症與治療效益</h3>
+<p>皮秒激光技術具備多元應用價值，主要涵蓋以下範疇：</p>
+<ul>
+<li><strong>色素性病變處理</strong>：對於表皮層及真皮層之各類良性色素沉著，包括雀斑、曬斑、脂漏性角化（老人斑），以及過往治療難度較高之顴骨母斑與荷爾蒙斑（黃褐斑），均展現出良好之清除成效。</li>
+<li><strong>膚質改善與膠原誘導</strong>：透過分段式（Fractional）皮秒探頭之應用，激光能量可於真皮層形成微細光震區，誘發皮膚自然修復機制，刺激第一型及第三型膠原蛋白與彈力纖維之新生重組，進而改善毛孔粗大、皮膚紋理粗糙及細微動態皺紋等問題，使膚質更顯細緻平滑。</li>
+<li><strong>整體膚色提亮與均勻化</strong>：藉由減少表層黑色素沉積及促進角質代謝，可達致膚色均勻、光澤提升之附加美容效益。</li>
+</ul>
+<h3>標準治療流程與患者體驗</h3>
+<p>皮秒激光屬非入侵性療程。治療前，專業治療師會依據患者膚質狀態與病變深淺，調校適切之波長與能量參數。治療過程中，患者可能感受輕微彈痛或針刺感，惟一般會預先施用局部外用麻醉製劑以緩解不適。全臉治療時間常規約為 15 至 30 分鐘，具高度時效性。</p>
+<p>術後常見反應為治療區域短暫性紅斑與輕微水腫，通常於數小時至 24 小時內自行消退。由於表皮完整性幾乎不受影響，患者一般可即時恢復日常活動與基礎化妝，符合現代忙碌生活節奏之需求。</p>
+<h3>術前評估與術後照護要點</h3>
+<p>為確保治療成效並將不良反應風險降至最低，須遵循以下專業指引：</p>
+<p><strong>術前準備</strong></p>
+<ul>
+<li>確認過去兩週內未服用光敏感藥物或 A 酸類製劑。</li>
+<li>治療前一週暫停使用果酸、水楊酸、高濃度維他命 A 衍生物等刺激性外用產品。</li>
+<li>避免治療前過度日曬或進行人工日光浴。</li>
+</ul>
+<p><strong>術後護理</strong></p>
+<ul>
+<li><strong>防曬保護</strong>：術後皮膚對紫外線防禦能力下降，須嚴格執行物理性及化學性防曬。建議選用 SPF 50+、PA++++ 之寬頻防護產品，並配合遮陽傘、闊邊帽及太陽眼鏡等物理遮蔽；術後至少一至兩週避免長時間戶外曝曬及人工日光浴，外出時宜每兩小時補塗防曬。</li>
+<li><strong>保濕修復</strong>：選用溫和、無香料的修復保濕產品，維持皮膚屏障穩定，減少乾燥緊繃。</li>
+<li><strong>避免刺激</strong>：術後約一週暫停果酸、水楊酸、A 醇／A 酸、酒精類爽膚水及任何去角質步驟。</li>
+<li><strong>避免高溫</strong>：數日內避免桑拿、蒸氣浴、熱水浸浴及劇烈運動引致大量出汗。</li>
+<li><strong>不採痂、不搓洗</strong>：若出現微細結痂或色素點，待其自然脫落，勿以手摳抓或用力清潔。</li>
+<li>如出現持續腫脹、水疱、明顯疼痛或色素反黑，應盡快回診評估。</li>
+</ul>`,
+      "zh-CN": `<p>随着光电医学技术的持续演进，皮秒激光（Pico Laser）已确立为处理多种皮肤色素性病变及肤质问题的前瞻性治疗方案。其核心优势在于极短的脉冲持续时间，能有效提升治疗效率，同时降低周边组织热损伤风险，为非入侵性皮肤治疗树立新标杆。</p>
+<h3>技术原理与作用机制</h3>
+<p>皮秒激光之名源自其脉冲宽度达至皮秒级别（10⁻¹² 秒）。在此极短作用时间内，激光能量会产生强烈的光机械效应（Photomechanical Effect），而非传统激光依赖的光热效应（Photothermal Effect）。此机制能将标靶组织——即皮肤内异常累积之黑色素颗粒——精准震碎为细微粉尘状，随后经由人体淋巴系统及新陈代谢途径自然清除。由于热扩散时间极短，对邻近正常组织的热凝结损伤显著减少，进而提升疗程安全性并缩短术后复原期。</p>
+<h3>适应症与治疗效益</h3>
+<p>皮秒激光技术具备多元应用价值，主要涵盖以下范畴：</p>
+<ul>
+<li><strong>色素性病变处理</strong>：对于表皮层及真皮层之各类良性色素沉着，包括雀斑、晒斑、脂溢性角化（老人斑），以及过往治疗难度较高之颧骨母斑与荷尔蒙斑（黄褐斑），均展现出良好之清除成效。</li>
+<li><strong>肤质改善与胶原诱导</strong>：透过分段式（Fractional）皮秒探头之应用，激光能量可于真皮层形成微细光震区，诱发皮肤自然修复机制，刺激第一型及第三型胶原蛋白与弹力纤维之新生重组，进而改善毛孔粗大、皮肤纹理粗糙及细微动态皱纹等问题，使肤质更显细致平滑。</li>
+<li><strong>整体肤色提亮与均匀化</strong>：借由减少表层黑色素沉积及促进角质代谢，可达致肤色均匀、光泽提升之附加美容效益。</li>
+</ul>
+<h3>标准治疗流程与患者体验</h3>
+<p>皮秒激光属非入侵性疗程。治疗前，专业治疗师会依据患者肤质状态与病变深浅，调校适切之波长与能量参数。治疗过程中，患者可能感受轻微弹痛或针刺感，惟一般会预先施用局部外用麻醉制剂以缓解不适。全脸治疗时间常规约为 15 至 30 分钟，具高度时效性。</p>
+<p>术后常见反应为治疗区域短暂性红斑与轻微水肿，通常于数小时至 24 小时内自行消退。由于表皮完整性几乎不受影响，患者一般可即时恢复日常活动与基础化妆，符合现代忙碌生活节奏之需求。</p>
+<h3>术前评估与术后照护要点</h3>
+<p>为确保治疗成效并将不良反应风险降至最低，须遵循以下专业指引：</p>
+<p><strong>术前准备</strong></p>
+<ul>
+<li>确认过去两周内未服用光敏感药物或 A 酸类制剂。</li>
+<li>治疗前一周暂停使用果酸、水杨酸、高浓度维生素 A 衍生物等刺激性外用产品。</li>
+<li>避免治疗前过度日晒或进行人工日光浴。</li>
+</ul>
+<p><strong>术后护理</strong></p>
+<ul>
+<li><strong>防晒保护</strong>：术后皮肤对紫外线防御能力下降，须严格执行物理性及化学性防晒。建议选用 SPF 50+、PA++++ 之宽频防护产品，并配合遮阳伞、阔边帽及太阳眼镜等物理遮蔽；术后至少一至两周避免长时间户外曝晒及人工日光浴，外出时宜每两小时补涂防晒。</li>
+<li><strong>保湿修复</strong>：选用温和、无香料的修复保湿产品，维持皮肤屏障稳定，减少干燥紧绷。</li>
+<li><strong>避免刺激</strong>：术后约一周暂停果酸、水杨酸、A 醇／A 酸、酒精类爽肤水及任何去角质步骤。</li>
+<li><strong>避免高温</strong>：数日内避免桑拿、蒸汽浴、热水浸浴及剧烈运动引致大量出汗。</li>
+<li><strong>不采痂、不搓洗</strong>：若出现微细结痂或色素点，待其自然脱落，勿以手抠抓或用力清洁。</li>
+<li>如出现持续肿胀、水疱、明显疼痛或色素反黑，应尽快复诊评估。</li>
+</ul>`,
+      en: `<p>As photomedicine continues to advance, picosecond laser (Pico Laser) has become a forward-looking option for many pigmentary and skin-quality concerns. Its core advantage is an extremely short pulse duration, which can raise treatment efficiency while lowering the risk of thermal injury to surrounding tissue — a new benchmark for non-invasive skin care.</p>
+<h3>How it works</h3>
+<p>The name comes from a pulse width at the picosecond scale (10⁻¹² seconds). In that instant, laser energy produces a strong photomechanical effect rather than the photothermal effect used by conventional lasers. Target tissue — abnormal melanin clusters in the skin — is shattered into fine dust-like particles, then cleared through the lymphatic system and normal metabolism. Because heat diffusion is so brief, thermal coagulation of nearby healthy tissue is markedly reduced, supporting safety and a shorter recovery.</p>
+<h3>Indications and benefits</h3>
+<p>Picosecond laser has several main uses:</p>
+<ul>
+<li><strong>Pigmentary lesions</strong>: Benign epidermal and dermal pigment, including freckles, sun spots, seborrhoeic keratoses (age spots), and more stubborn concerns such as acquired dermal melanocytosis (Hori’s naevus) and melasma, can respond well.</li>
+<li><strong>Skin quality and collagen induction</strong>: With a fractional picosecond tip, energy can form micro-shock zones in the dermis, triggering natural repair and stimulating type I and type III collagen and elastin. This can refine enlarged pores, rough texture and fine expression lines for smoother skin.</li>
+<li><strong>Brighter, more even tone</strong>: Reducing surface melanin and supporting keratin turnover can even skin tone and add glow as an additional cosmetic benefit.</li>
+</ul>
+<h3>What to expect</h3>
+<p>Picosecond laser is non-invasive. Before treatment, the therapist sets wavelength and energy according to skin type and lesion depth. You may feel a light snap or pinprick; topical anaesthetic is usually applied first. A full-face session typically takes about 15–30 minutes.</p>
+<p>Short-lived redness and mild swelling in the treated area are common and usually settle within a few hours to 24 hours. Because the epidermis is largely intact, most people can resume daily activity and light makeup at once.</p>
+<h3>Before and after care</h3>
+<p>To support results and keep risk low, follow these points:</p>
+<p><strong>Before treatment</strong></p>
+<ul>
+<li>Confirm you have not taken photosensitising medicines or oral retinoids in the past two weeks.</li>
+<li>Pause AHAs, salicylic acid and high-strength vitamin A derivatives for one week beforehand.</li>
+<li>Avoid excessive sun exposure or tanning beds before the session.</li>
+</ul>
+<p><strong>Aftercare</strong></p>
+<ul>
+<li><strong>Sun protection</strong>: UV defence is reduced after treatment. Use both chemical and physical protection: a broad-spectrum SPF 50+, PA++++ product, plus a parasol, wide-brimmed hat and sunglasses. For at least one to two weeks, avoid prolonged outdoor sun and tanning beds; reapply sunscreen about every two hours when outdoors.</li>
+<li><strong>Repair moisture</strong>: Use a gentle, fragrance-free repair moisturiser to support the barrier and ease tightness.</li>
+<li><strong>Avoid irritants</strong>: Pause AHAs, BHAs, retinol/retinoids, alcohol toners and exfoliation for about one week.</li>
+<li><strong>Avoid heat</strong>: For several days, skip saunas, steam rooms, hot baths and intense exercise that causes heavy sweating.</li>
+<li><strong>Do not pick</strong>: If fine scabs or pigment specks appear, let them shed naturally — do not scratch or scrub.</li>
+<li>Return promptly if swelling persists, or if blisters, marked pain or rebound darkening appear.</li>
+</ul>`,
+    },
+    points: [
+      { "zh-HK": `去斑去色素，精準擊碎黑色素`, "zh-CN": `去斑去色素，精准击碎黑色素`, en: `Targets melanin to fade spots and pigment` },
+      { "zh-HK": `收細毛孔，誘導膠原重組`, "zh-CN": `收细毛孔，诱导胶原重组`, en: `Stimulates collagen to refine pores` },
+      { "zh-HK": `均勻膚色，改善痘印痘疤`, "zh-CN": `均匀肤色，改善痘印痘疤`, en: `Evens tone and helps acne marks` }
+    ],
+    image: "/images/sig-pico.png",
+    faqs: [
+      { q: { "zh-HK": `皮秒激光與傳統激光有何分別？`, "zh-CN": `皮秒激光与传统激光有何分别？`, en: `How does pico laser differ from conventional laser?` }, a: { "zh-HK": `皮秒脈衝寬度達 10⁻¹² 秒，主要以光機械效應將黑色素震碎為粉塵狀再經代謝清除，而非依賴光熱效應。熱擴散極短，對鄰近正常組織損傷較少，復原期一般更短。`, "zh-CN": `皮秒脉冲宽度达 10⁻¹² 秒，主要以光机械效应将黑色素震碎为粉尘状再经代谢清除，而非依赖光热效应。热扩散极短，对邻近正常组织损伤较少，复原期一般更短。`, en: `Picosecond pulses use a photomechanical shatter rather than heat. Shorter thermal diffusion usually means less collateral injury and faster recovery.` } },
+      { q: { "zh-HK": `PICO 皮秒光適合處理哪些問題？`, "zh-CN": `PICO 皮秒光适合处理哪些问题？`, en: `What can PICO treat?` }, a: { "zh-HK": `可用於雀斑、曬斑、老人斑、顴骨母斑與黃褐斑等色素問題，並以分段式探頭改善毛孔、膚質粗糙、細紋及痘印痘疤，同時提亮均勻膚色。`, "zh-CN": `可用于雀斑、晒斑、老人斑、颧骨母斑与黄褐斑等色素问题，并以分段式探头改善毛孔、肤质粗糙、细纹及痘印痘疤，同时提亮均匀肤色。`, en: `Freckles, sun spots, age spots, Hori’s naevus and melasma, plus pores, texture, fine lines and acne marks with a fractional tip.` } },
+      { q: { "zh-HK": `療程會痛嗎？一次需時多久？`, "zh-CN": `疗程会痛吗？一次需时多久？`, en: `Does it hurt, and how long is a session?` }, a: { "zh-HK": `過程可能有輕微彈痛或針刺感，一般會預先使用局部外用麻醉。全臉常規約 15 至 30 分鐘。`, "zh-CN": `过程可能有轻微弹痛或针刺感，一般会预先使用局部外用麻醉。全脸常规约 15 至 30 分钟。`, en: `A light snap or pinprick is common; topical anaesthetic is usually applied first. Full face typically takes 15–30 minutes.` } },
+      { q: { "zh-HK": `術後有恢復期嗎？可以即日化妝嗎？`, "zh-CN": `术后有恢复期吗？可以即日化妆吗？`, en: `Is there downtime? Can I wear makeup the same day?` }, a: { "zh-HK": `常見短暫紅斑與輕微水腫，多數於數小時至 24 小時內消退。表皮完整性幾乎不受影響，一般可即時恢復日常活動與基礎化妝。`, "zh-CN": `常见短暂红斑与轻微水肿，多数于数小时至 24 小时内消退。表皮完整性几乎不受影响，一般可即时恢复日常活动与基础化妆。`, en: `Brief redness and mild swelling usually settle within hours to a day. Light makeup and daily activity are typically fine immediately.` } },
+      { q: { "zh-HK": `術前術後要注意什麼？`, "zh-CN": `术前术后要注意什么？`, en: `What should I do before and after?` }, a: { "zh-HK": `術前兩週避免光敏感藥物及 A 酸類製劑，前一週暫停果酸、水楊酸等高刺激產品，並避免過度日曬。術後須用 SPF 50+、PA++++ 寬頻防曬，配合遮陽傘或闊邊帽；保濕修復，暫停刺激性護膚與高溫環境，勿採痂。`, "zh-CN": `术前两周避免光敏感药物及 A 酸类制剂，前一周暂停果酸、水杨酸等高刺激产品，并避免过度日晒。术后须用 SPF 50+、PA++++ 宽频防晒，配合遮阳伞或阔边帽；保湿修复，暂停刺激性护肤与高温环境，勿采痂。`, en: `Pause photosensitising drugs, retinoids and strong acids as advised; after treatment use SPF 50+ / PA++++ plus a hat or parasol, moisturise, avoid heat and irritants, and do not pick.` } }
+    ],
+  },
+  {
     id: "ultra-femme",
     category: "signature",
     slug: "ultra-femme",
@@ -202,7 +314,7 @@ export const treatments: Treatment[] = [
     id: "s21",
     category: "signature",
     slug: "s21",
-    title: { "zh-HK": `S21 激光鼻鼾治療`, "zh-CN": `S21 激光鼻鼾治疗`, en: `S21 Laser Snoring Treatment` },
+    title: { "zh-HK": `S21 激光鼻鼾治療`, "zh-CN": `无痛激光鼾症治疗`, en: `S21 Laser Snoring Treatment` },
     summary: { "zh-HK": `S21 雙波長激光從根本收緊軟顎組織，臨床實證平均改善鼻鼾指數 66%，零恢復期的非入侵方案。`, "zh-CN": `S21 双波长激光从根本收紧软颚组织，临床实证平均改善鼻鼾指数 66%，零恢复期的非入侵方案。`, en: `Dual-wavelength laser tightens soft-palate tissue; studies show ~66% average snoring-index improvement with no downtime.` },
     bodyHtml: { "zh-HK": `<p>許多人詢問，S21 的「鼻鼾窗」功能究竟如何改善鼻鼾？其原理非常明確——並非暫時撐開氣道，而是從根本收緊導致鼻鼾的軟組織。</p><h3>鼻鼾的成因：軟顎組織鬆弛</h3><p>鼻鼾聲的產生，源於睡眠時軟顎（懸雍垂周圍組織）及咽喉壁過度鬆弛。當呼吸氣流經過時，這些鬆弛組織產生震動，形成鼻鼾聲。情況嚴重者，甚至可能阻塞氣道，導致睡眠窒息症。</p><h3>S21 如何實現「根治」？</h3><p>S21 結合 Er:YAG（2940nm）與 Nd:YAG（1064nm）雙波長，將能量精準傳遞至軟顎組織深層。此過程具備兩大核心作用：</p><ul><li><strong>即時收縮</strong>：熱能使軟顎的膠原纖維立即收緊，組織瞬間拉提變實，氣道空間即時擴闊。</li><li><strong>長期重建</strong>：熱能刺激膠原蛋白持續重組與新生，使軟顎組織長期保持彈性與緊緻，效果持久。</li></ul><p>此技術在醫學上稱為激光輔助懸雍垂軟顎成形術（LAUP），擁有超過 30 年的臨床應用歷史，屬國際醫學界認可的非入侵性鼻鼾治療方案。</p><h3>臨床成效與數據</h3><p>根據一份針對同類雙波長激光治療睡眠窒息症的研究，患者接受 3 次、每次約 20 分鐘的療程後：</p><ul><li>AHI（呼吸暫停指數）平均改善 66.3%，部分患者改善幅度達 100%。</li><li>78% 的患者改善幅度達 50% 或以上。</li></ul><p>另一項研究更顯示，92.3% 的患者鼻鼾情況顯著減少。以上數據充分證明此激光技術對改善鼻鼾及輕中度睡眠窒息症具有顯著成效。</p><h3>與傳統手術的差異</h3><p>傳統鼻鼾手術（UPPP）需在全身麻醉下進行，切除過多組織，創傷大、疼痛感高、復原時間長。而 S21 激光治療屬於微創、非入侵性：</p><ul><li>無需開刀、無需全身麻醉，於診所內即可完成。</li><li>零恢復期，治療後即可恢復日常活動，不影響正常生活。</li><li>幾乎無痛，僅少數個案會出現短暫喉嚨輕微乾燥或異物感，數小時內即可消退。</li></ul><h3>總結</h3><p>S21 的「鼻鼾窗」功能，透過雙波長激光收緊與重塑軟顎組織，從根源解決因組織鬆弛引起的鼻鼾問題。其成效經臨床實證，安全可靠，且過程舒適、無需開刀，是傳統手術以外一個極為理想的選擇。</p>`, "zh-CN": `<p>许多人询问，S21 的「鼻鼾窗」功能究竟如何改善鼻鼾？其原理非常明确——并非暂时撑开气道，而是从根本收紧导致鼻鼾的软组织。</p><h3>鼻鼾的成因：软颚组织松弛</h3><p>鼻鼾声的产生，源于睡眠时软颚（悬雍垂周围组织）及咽喉壁过度松弛。当呼吸气流经过时，这些松弛组织产生震动，形成鼻鼾声。情况严重者，甚至可能阻塞气道，导致睡眠窒息症。</p><h3>S21 如何实现「根治」？</h3><p>S21 结合 Er:YAG（2940nm）与 Nd:YAG（1064nm）双波长，将能量精准传递至软颚组织深层。此过程具备两大核心作用：</p><ul><li><strong>即时收缩</strong>：热能使软颚的胶原纤维立即收紧，组织瞬间拉提变实，气道空间即时扩阔。</li><li><strong>长期重建</strong>：热能刺激胶原蛋白持续重组与新生，使软颚组织长期保持弹性与紧致，效果持久。</li></ul><p>此技术在医学上称为激光辅助悬雍垂软颚成形术（LAUP），拥有超过 30 年的临床应用历史，属国际医学界认可的非入侵性鼻鼾治疗方案。</p><h3>临床成效与数据</h3><p>根据一份针对同类双波长激光治疗睡眠窒息症的研究，患者接受 3 次、每次约 20 分钟的疗程后：</p><ul><li>AHI（呼吸暂停指数）平均改善 66.3%，部分患者改善幅度达 100%。</li><li>78% 的患者改善幅度达 50% 或以上。</li></ul><p>另一项研究更显示，92.3% 的患者鼻鼾情况显著减少。以上数据充分证明此激光技术对改善鼻鼾及轻中度睡眠窒息症具有显著成效。</p><h3>与传统手术的差异</h3><p>传统鼻鼾手术（UPPP）需在全身麻醉下进行，切除过多组织，创伤大、疼痛感高、复原时间长。而 S21 激光治疗属于微创、非入侵性：</p><ul><li>无需开刀、无需全身麻醉，于诊所内即可完成。</li><li>零恢复期，治疗后即可恢复日常活动，不影响正常生活。</li><li>几乎无痛，仅少数个案会出现短暂喉咙轻微干燥或异物感，数小时内即可消退。</li></ul><h3>总结</h3><p>S21 的「鼻鼾窗」功能，透过双波长激光收紧与重塑软颚组织，从根源解决因组织松弛引起的鼻鼾问题。其成效经临床实证，安全可靠，且过程舒适、无需开刀，是传统手术以外一个极为理想的选择。</p>`, en: `<p>Many people ask how S21’s “Snoring Window” function actually improves snoring. The principle is very clear — it does not temporarily prop the airway open, but tightens from the root the soft tissue that causes snoring.</p><h3>The cause of snoring: laxity of the soft-palate tissue</h3><p>The sound of snoring arises from excessive laxity of the soft palate (tissue around the uvula) and the pharyngeal wall during sleep. When the airflow of breathing passes through, this lax tissue vibrates and produces the snoring sound. In severe cases, it may even obstruct the airway and lead to sleep apnoea.</p><h3>How does S21 achieve “root-cause” treatment?</h3><p>S21 combines Er:YAG (2940 nm) and Nd:YAG (1064 nm) dual wavelengths, delivering energy with precision to the deep layers of the soft-palate tissue. This process has two core actions:</p><ul><li><strong>Immediate contraction</strong>: heat causes the collagen fibres of the soft palate to tighten at once; the tissue is instantly lifted and firmed, and the airway space is widened immediately.</li><li><strong>Long-term reconstruction</strong>: heat stimulates ongoing collagen reorganisation and new production, so that the soft-palate tissue maintains elasticity and firmness over the long term, with lasting results.</li></ul><p>In medicine this technique is known as laser-assisted uvulopalatoplasty (LAUP). It has more than 30 years of clinical use and is recognised by the international medical community as a non-invasive snoring treatment.</p><h3>Clinical results and data</h3><p>According to a study of similar dual-wavelength laser treatment for sleep apnoea, after patients received 3 sessions of about 20 minutes each:</p><ul><li>AHI (apnoea–hypopnoea index) improved by an average of 66.3%, with some patients improving by as much as 100%.</li><li>78% of patients improved by 50% or more.</li></ul><p>Another study further showed that 92.3% of patients had a significant reduction in snoring. The above data fully demonstrate that this laser technology has significant results in improving snoring and mild-to-moderate sleep apnoea.</p><h3>How it differs from traditional surgery</h3><p>Traditional snoring surgery (UPPP) is performed under general anaesthesia, with excess tissue excised — high trauma, high pain and a long recovery. S21 laser treatment is minimally invasive and non-invasive:</p><ul><li>No incision and no general anaesthesia; it can be completed in clinic.</li><li>Zero downtime; daily activities can resume immediately after treatment, with no impact on normal life.</li><li>Virtually painless; only a small number of cases experience brief mild dryness or a foreign-body sensation in the throat, which settles within a few hours.</li></ul><h3>Summary</h3><p>S21’s “Snoring Window” function uses dual-wavelength laser to tighten and remodel the soft-palate tissue, addressing from the root the snoring caused by tissue laxity. Its results are clinically proven, safe and reliable, and the process is comfortable, with no surgery required — an exceptionally good alternative to traditional surgery.</p>` },
     points: [
