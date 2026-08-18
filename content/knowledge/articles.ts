@@ -2480,10 +2480,9 @@ export const articles: KnowledgeArticle[] = [
     section: "longevity",
     eyebrow: "Cell Therapy",
     cover: "/images/knowledge/longevity-25-4.png",
-    image: "/images/knowledge/longevity-25-1.jpg",
     title: { "zh-HK": `長壽醫學範式轉變：細胞療法引領健康管理新紀元`, "zh-CN": `长寿医学范式转变：细胞疗法引领健康管理新纪元`, en: `A Paradigm Shift in Longevity Medicine: Cell Therapy and a New Era of Health Management` },
-    excerpt: { "zh-HK": `中國人均預期壽命已至 78.6 歲，同時快速老齡化。長壽金字塔從評估、生活方式、補充劑、藥物，走到頂層的基因編輯與幹細胞——幹細胞回輸被看作補充再生細胞、改善衰弱與炎症的路徑。`, "zh-CN": `中国人均预期寿命已至 78.6 岁，同时快速老龄化。长寿金字塔从评估、生活方式、补充剂、药物，走到顶层的基因编辑与干细胞——干细胞回输被看作补充再生细胞、改善衰弱与炎症的路径。`, en: `Life expectancy in China has reached 78.6 years even as the population ages fast. The longevity pyramid runs from measurement and lifestyle up to gene editing and stem cells — infusion as a way to restock regenerative cells and ease frailty and inflammation.` },
-    body: { "zh-HK": `<p>據我國衞生健康事業發展統計公報，中國的人均預期壽命已從新中國成立時的 35 歲提高至 78.6 歲。與此同時，人口結構發生重大變化：截至 2023 年底，全國 60 歲及以上人口達 2.97 億，佔比 21.1%；65 歲及以上人口 2.17 億，佔比 15.4%。預計 2035 年前後 60 歲及以上人口將突破 4 億，2050 年左右逼近 5 億。以上數字表明，我國已邁入中度老齡化社會。</p>
+    excerpt: { "zh-HK": `全球人均預期壽命持續延長，同時老齡化加速。長壽金字塔從評估、生活方式、補充劑、藥物，走到頂層的基因編輯與幹細胞——幹細胞回輸被看作補充再生細胞、改善衰弱與炎症的路徑。`, "zh-CN": `全球人均预期寿命持续延长，同时老龄化加速。长寿金字塔从评估、生活方式、补充剂、药物，走到顶层的基因编辑与干细胞——干细胞回输被看作补充再生细胞、改善衰弱与炎症的路径。`, en: `Life expectancy keeps rising worldwide even as populations age. The longevity pyramid runs from measurement and lifestyle up to gene editing and stem cells — infusion as a way to restock regenerative cells and ease frailty and inflammation.` },
+    body: { "zh-HK": `<p>過去一個世紀，全球人均預期壽命顯著延長，許多地區同時經歷快速老齡化：65 歲及以上人口比例持續上升，社會對醫療、照護與長期健康的需求隨之增加。這一結構性轉變，使「如何延長健康跨度而不只是壽命長度」成為公共健康與個人規劃的共同議題。</p>
 <p>老齡化壓力的另一面，是各年齡段人羣對抗衰防病和長壽的關注度上升。如今不僅老年人關注健康和長壽，越來越多中青年也開始提前規劃，提高「健康預期壽命」。</p>
 <h3>一、長壽醫學：大健康行業的新引擎</h3>
 <p>普華永道旗下 Strategy&amp; 的報告闡述，長壽和抗衰老療法的總價值在 2020 年為 251 億美元，到 2030 年將達 442 億美元，複合年增長率約 6.1%。考慮到衰老被認為是許多慢性疾病的根本原因，有機構在 2024 年初預測，到 2032 年，全球生物技術市場與長壽診所模式的融合發展規模可達數萬億美元量級。</p>
@@ -2505,10 +2504,10 @@ export const articles: KnowledgeArticle[] = [
 <p>幹細胞是生命的「源細胞」，擁有分化成各種組織細胞的能力，是皮膚更新、免疫修復、器官維護的核心保障。問題在於，隨着年齡增長，人體幹細胞儲庫不斷消耗，活力也會下降：剛出生時約有 60 億幹細胞；到 25 歲約 10 億；到 50 歲僅剩不到 3 億；70 歲少於 1 億，修復能力全面下滑。一旦修復趕不上損傷累積，就會出現系統性老化——皺紋、炎症、免疫力下降、認知退化，這是細胞層面的「戰損」。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-25-4.png" alt="幹細胞數量隨年齡下降" /></figure>
 <p>幹細胞療法，尤其是目前研究最熱門的間充質幹細胞回輸，正是通過「補充 + 激活」提升再生修復能力。多項研究已觀察到延緩衰老、降低炎症、調節免疫甚至改善皮膚狀態的信號。</p>
-<p>最新發布的《延緩衰老藥物干預研究中國老年醫學專家共識（2024）》明確提出：「幹細胞治療被認為是一種補充再生細胞的有效方法。臨牀試驗結果顯示，老年衰弱患者注射幹細胞後，某些症狀得到改善，炎症標誌物水平有所下降。」也就是説，衰老不再必須被寫成「不可逆」；幹細胞療法也正在改寫「衰老必然伴隨疾病」的舊劇本。</p>
+<p>2024 年發布的一份老年醫學專家共識指出：「幹細胞治療被認為是一種補充再生細胞的有效方法。臨牀試驗結果顯示，老年衰弱患者注射幹細胞後，某些症狀得到改善，炎症標誌物水平有所下降。」也就是説，衰老不再必須被寫成「不可逆」；幹細胞療法也正在改寫「衰老必然伴隨疾病」的舊劇本。</p>
 <h3>結語</h3>
 <p>正如美國生物學家 George Daley 所説：「如果 20 世紀是藥物治療的時代，那麼 21 世紀將是細胞治療的時代。」當我們能夠更穩定地保持再生修復能力，長壽便不只是多活幾年，而是多一段仍有力量的生命。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>据我国卫生健康事业发展统计公报，中国的人均预期寿命已从新中国成立时的 35 岁提高至 78.6 岁。与此同时，人口结构发生重大变化：截至 2023 年底，全国 60 岁及以上人口达 2.97 亿，占比 21.1%；65 岁及以上人口 2.17 亿，占比 15.4%。预计 2035 年前后 60 岁及以上人口将突破 4 亿，2050 年左右逼近 5 亿。以上数字表明，我国已迈入中度老龄化社会。</p>
+<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>过去一个世纪，全球人均预期寿命显著延长，许多地区同时经历快速老龄化：65 岁及以上人口比例持续上升，社会对医疗、照护与长期健康的需求随之增加。这一结构性转变，使「如何延长健康跨度而不只是寿命长度」成为公共健康与个人规划的共同议题。</p>
 <p>老龄化压力的另一面，是各年龄段人群对抗衰防病和长寿的关注度上升。如今不仅老年人关注健康和长寿，越来越多中青年也开始提前规划，提高「健康预期寿命」。</p>
 <h3>一、长寿医学：大健康行业的新引擎</h3>
 <p>普华永道旗下 Strategy&amp; 的报告阐述，长寿和抗衰老疗法的总价值在 2020 年为 251 亿美元，到 2030 年将达 442 亿美元，复合年增长率约 6.1%。考虑到衰老被认为是许多慢性疾病的根本原因，有机构在 2024 年初预测，到 2032 年，全球生物技术市场与长寿诊所模式的融合发展规模可达数万亿美元量级。</p>
@@ -2530,10 +2529,11 @@ export const articles: KnowledgeArticle[] = [
 <p>干细胞是生命的「源细胞」，拥有分化成各种组织细胞的能力，是皮肤更新、免疫修复、器官维护的核心保障。问题在于，随着年龄增长，人体干细胞储库不断消耗，活力也会下降：刚出生时约有 60 亿干细胞；到 25 岁约 10 亿；到 50 岁仅剩不到 3 亿；70 岁少于 1 亿，修复能力全面下滑。一旦修复赶不上损伤累积，就会出现系统性老化——皱纹、炎症、免疫力下降、认知退化，这是细胞层面的「战损」。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-25-4.png" alt="干细胞数量随年龄下降" /></figure>
 <p>干细胞疗法，尤其是目前研究最热门的间充质干细胞回输，正是通过「补充 + 激活」提升再生修复能力。多项研究已观察到延缓衰老、降低炎症、调节免疫甚至改善皮肤状态的信号。</p>
-<p>最新发布的《延缓衰老药物干预研究中国老年医学专家共识（2024）》明确提出：「干细胞治疗被认为是一种补充再生细胞的有效方法。临床试验结果显示，老年衰弱患者注射干细胞后，某些症状得到改善，炎症标志物水平有所下降。」也就是说，衰老不再必须被写成「不可逆」；干细胞疗法也正在改写「衰老必然伴随疾病」的旧剧本。</p>
+<p>2024 年发布的一份老年医学专家共识指出：「干细胞治疗被认为是一种补充再生细胞的有效方法。临床试验结果显示，老年衰弱患者注射干细胞后，某些症状得到改善，炎症标志物水平有所下降。」也就是说，衰老不再必须被写成「不可逆」；干细胞疗法也正在改写「衰老必然伴随疾病」的旧剧本。</p>
 <h3>结语</h3>
 <p>正如美国生物学家 George Daley 所说：「如果 20 世纪是药物治疗的时代，那么 21 世纪将是细胞治疗的时代。」当我们能够更稳定地保持再生修复能力，长寿便不只是多活几年，而是多一段仍有力量的生命。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>China’s statistical bulletin puts life expectancy at 78.6 years, up from about 35 at the founding of the PRC. The age structure has moved with it: by the end of 2023, 297 million people were 60 or older (21.1%) and 217 million were 65 or older (15.4%). Those 60+ are projected past 400 million around 2035 and toward 500 million around 2050. That is a moderately aged society — and, commercially, a surge of interest in staying well, including among people still in mid-career.</p>
+<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Over the past century, life expectancy has risen sharply in much of the world, and many societies are ageing fast: the share of people 65 and older keeps climbing, along with demand for care and long-term health. That structural shift makes healthspan — not just lifespan — a shared question for public health and personal planning.</p>
+<p>On the other side of that pressure is rising interest in anti-ageing and longevity across age groups — not only among older adults, but increasingly among people in mid-career planning for health expectancy.</p>
 <h3>1. A new engine in health</h3>
 <p>Strategy&amp; (PwC) put the longevity and anti-ageing therapy market at USD 25.1 billion in 2020 and USD 44.2 billion by 2030 (about 6.1% CAGR). Because ageing sits under so many chronic diseases, some 2024 forecasts put the blend of biotech and longevity-clinic models in the trillions by 2032. Capital has followed: Calico; Altos Labs. Longevity medicine is no longer a niche slogan.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-25-2.png" alt="Longevity medicine as a new health-industry engine" /></figure>
@@ -2551,7 +2551,8 @@ export const articles: KnowledgeArticle[] = [
 <h3>3. Why cells sit at the top</h3>
 <p>After development, every organism declines, usually with degenerative disease. Stem cells are the source stock for skin, immunity and organs. The store runs down: on the order of 6 billion at birth, about 1 billion at 25, under 300 million at 50, under 100 million at 70. When repair lags injury, the “combat losses” show as wrinkles, inflammation, weaker immunity and cognitive fade.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-25-4.png" alt="Stem-cell numbers falling with age" /></figure>
-<p>MSC infusion is the currently hottest clinical story: restock plus activate. Signals include slower ageing biology, lower inflammation, immune tone and skin. The 2024 Chinese geriatric consensus on drug interventions to delay ageing states that stem-cell treatment is considered an effective way to supplement regenerative cells, and that trials in older people with frailty have shown improvement in some symptoms and in inflammatory markers. Ageing need not be written as strictly irreversible; “ageing must mean disease” is the script being rewritten.</p>
+<p>MSC infusion is the currently hottest clinical story: restock plus activate. Signals include slower ageing biology, lower inflammation, immune tone and skin.</p>
+<p>A 2024 geriatric expert consensus on drug interventions to delay ageing states that stem-cell treatment is considered an effective way to supplement regenerative cells, and that trials in older people with frailty have shown improvement in some symptoms and in inflammatory markers. Ageing need not be written as strictly irreversible; “ageing must mean disease” is the script being rewritten.</p>
 <h3>Conclusion</h3>
 <p>George Daley’s line still holds: if the twentieth century was the era of drugs, the twenty-first is the era of cells. Stable repair capacity is what turns extra years into extra years that still have strength.</p>
 <p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
