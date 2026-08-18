@@ -400,7 +400,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-1-6.jpg" alt="細胞抗衰結語圖" /></figure>
 <h3>結語</h3>
 <p>國際頂尖學術期刊《Nature》表示：衰老是細胞不可逆地停止分裂，並進入永久性生長停滯狀態，而不經歷細胞死亡的過程。未修復的 DNA 損傷或其他細胞應激可誘發衰老。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>时光难留，生命无常，衰老从不是可规避的命题。我们能做的，不过是用种种方式放缓它的脚步，却终究挡不住身体机能的衰退、精神活力的黯淡，这份无力，让太多人难以坦然面对老去的宿命。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>时光难留，生命无常，衰老从不是可规避的命题。我们能做的，不过是用种种方式放缓它的脚步，却终究挡不住身体机能的衰退、精神活力的黯淡，这份无力，让太多人难以坦然面对老去的宿命。</p>
 <p>从生理学讲，衰老是从受精卵开始一直进行到老年的个体发育史；</p>
 <p>从病理学讲，衰老是应激、劳损、损伤、感染、免疫反应衰退、营养失调、代谢障碍以及疏忽和滥用药物积累的结果；</p>
 <p>从临床上讲，衰老机体表现为记忆力下降、反应迟钝、运动能力减弱、相关激素分泌减少等多脏器退行性变化。</p>
@@ -445,7 +445,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-1-6.jpg" alt="细胞抗衰结语图" /></figure>
 <h3>结语</h3>
 <p>国际顶尖学术期刊《Nature》表示：衰老是细胞不可逆地停止分裂，并进入永久性生长停滞状态，而不经历细胞死亡的过程。未修复的 DNA 损伤或其他细胞应激可诱发衰老。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Time is hard to hold, and life is uncertain. Ageing is not a proposition we can simply avoid. All we can do is slow its pace in various ways — yet we still cannot stop the decline of bodily function or the dimming of vitality. That sense of powerlessness makes it hard for many people to face growing old with equanimity.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Time is hard to hold, and life is uncertain. Ageing is not a proposition we can simply avoid. All we can do is slow its pace in various ways — yet we still cannot stop the decline of bodily function or the dimming of vitality. That sense of powerlessness makes it hard for many people to face growing old with equanimity.</p>
 <p>In physiology, ageing is the developmental history of the individual from the fertilised egg through to old age.</p>
 <p>In pathology, ageing is the accumulated result of stress, wear, injury, infection, declining immune response, nutritional imbalance, metabolic disturbance, and neglect or misuse of medication.</p>
 <p>Clinically, an ageing body shows multi-organ degenerative change: declining memory, slower reactions, reduced motor capacity, and lower secretion of related hormones.</p>
@@ -490,7 +490,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-1-6.jpg" alt="Cellular anti-ageing closing illustration" /></figure>
 <h3>Conclusion</h3>
 <p>The leading journal <em>Nature</em> states that ageing is cells irreversibly ceasing to divide and entering a state of permanent growth arrest, without undergoing cell death. Unrepaired DNA damage or other cellular stress can induce senescence.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
 
   {
@@ -550,7 +550,7 @@ export const articles: KnowledgeArticle[] = [
 <p>總的來説，細胞的健康是人體健康的根本支撐。與機器零件不同，人體細胞和組織器官一旦受損，無法輕易替換，恢復過程漫長且複雜，不僅需要大量的時間、金錢與精力，還可能伴隨着長久的病痛折磨。</p>
 <h3>結語</h3>
 <p>因此，預防永遠優於治療。在細胞層面的問題尚未進一步擴散前及時干預，能有效阻止組織器官的病變發展。唯有讓身體重新具備強大的自我修復與再生能力，才能真正實現延緩衰老、保持活力，邁向高質量、健康的人生。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>地球上的绝大多数生物，都是由细胞（cell）构成。细胞，是生命存在的基本单位。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>地球上的绝大多数生物，都是由细胞（cell）构成。细胞，是生命存在的基本单位。</p>
 <p>人类属于多细胞生物，是由数以万亿计的细胞共同构成的复杂有机体。每一个细胞都拥有特定的结构与功能，彼此协同运作，完成维持生命所需的一切活动。</p>
 <p>美国《纽约时报》畅销书《选择健康》中曾指出：「人类所有疾病的根源，其实都是细胞出了问题。」</p>
 <p>在人体内，细胞每天都在进行新陈代谢——不断更新、衰老、受损，甚至可能发生癌变。此时，身体自带的「自我修复与净化」机制会启动，以维持健康平衡。然而，如果这些受损细胞没有得到及时修复，衰老的细胞未能被替换，病变细胞未被有效抑制，它们就会逐渐失去活力或进入休眠状态，进而导致器官功能减弱，免疫力下降，疾病也就随之而来。</p>
@@ -598,7 +598,7 @@ export const articles: KnowledgeArticle[] = [
 <p>总的来说，细胞的健康是人体健康的根本支撑。与机器零件不同，人体细胞和组织器官一旦受损，无法轻易替换，恢复过程漫长且复杂，不仅需要大量的时间、金钱与精力，还可能伴随着长久的病痛折磨。</p>
 <h3>结语</h3>
 <p>因此，预防永远优于治疗。在细胞层面的问题尚未进一步扩散前及时干预，能有效阻止组织器官的病变发展。唯有让身体重新具备强大的自我修复与再生能力，才能真正实现延缓衰老、保持活力，迈向高质量、健康的人生。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>The vast majority of living things on Earth are made of cells. The cell is the basic unit of life.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>The vast majority of living things on Earth are made of cells. The cell is the basic unit of life.</p>
 <p>Humans are multicellular organisms: trillions of cells form a complex whole. Each cell has its own structure and function, and they work together to carry out everything life requires.</p>
 <p>The New York Times bestseller <em>Choose Health</em> put it this way: “The root of all human disease is, in fact, that something has gone wrong with the cell.”</p>
 <p>Inside the body, cells turn over every day — renewing, ageing, becoming damaged, and in some cases turning cancerous. The body’s own “self-repair and clearance” systems then start, to keep a healthy balance. If damaged cells are not repaired in time, aged cells are not replaced, and diseased cells are not held in check, they gradually lose vitality or go dormant. Organ function weakens, immunity falls, and illness follows.</p>
@@ -646,7 +646,7 @@ export const articles: KnowledgeArticle[] = [
 <p>In short, cell health is the fundamental support of human health. Unlike machine parts, cells, tissues and organs cannot be swapped out easily once they are damaged. Recovery is long and complex: it takes time, money and energy, and may come with lasting pain.</p>
 <h3>Conclusion</h3>
 <p>Prevention is always better than treatment. Intervening at the cellular level before the problem spreads further can stop tissue and organ disease from developing. Only when the body again has a strong capacity to repair and regenerate itself can ageing truly be slowed, vitality kept, and a high-quality, healthy life approached.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "35",
@@ -689,7 +689,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>結語</h3>
 <p>全世界關節炎患者有 3 億多人，而在亞洲，甚至每 6 個人中就有 1 人在一生的某個階段患上這種世界頭號殘疾性疾病。幹細胞再生醫學的出現並非偶然，而對幹細胞技術更深入的鑽研，也將為更多關節炎患者帶來福音。</p>
 <p>參考文獻：Wang, S., et al. (2022) Injectable hybrid inorganic nanoscaffold as rapid stem cell assembly template for cartilage repair. <em>National Science Review</em>. doi.org/10.1093/nsr/nwac037</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>受损的软骨不具有再生能力，这也是骨关节疾病难治愈的根本原因。《National Science Review》（《国家科学评论》，影响因子：17.275）上发表的一篇文章显示，科学家们构筑了一种可以注射到软骨缺损部位的 3D 干细胞组装体，它可以在体外快速组装并填充到缺损处，并促进干细胞向软骨分化，从而帮助极限软骨缺损的修复。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>受损的软骨不具有再生能力，这也是骨关节疾病难治愈的根本原因。《National Science Review》（《国家科学评论》，影响因子：17.275）上发表的一篇文章显示，科学家们构筑了一种可以注射到软骨缺损部位的 3D 干细胞组装体，它可以在体外快速组装并填充到缺损处，并促进干细胞向软骨分化，从而帮助极限软骨缺损的修复。</p>
 <p>关节软骨可以减少骨组织之间的摩擦，起到一个平滑有弹性的缓冲作用，以减少不必要的震动和冲击。</p>
 <p>然而，软骨却几乎没有再生能力。随着年龄增长，磨损不断增加，骨头之间长期相互摩擦，就会引起疼痛和炎症，最终导致关节退变，甚至丧失运动能力。</p>
 <p>目前针对软骨损伤的手术方法有限，且主要针对短期内的疼痛缓解，而干细胞组织工程方法显现出的快速修复软骨组织的巨大潜力，给软骨修复带来了新机遇。</p>
@@ -721,7 +721,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>结语</h3>
 <p>全世界关节炎患者有 3 亿多人，而在亚洲，甚至每 6 个人中就有 1 人在一生的某个阶段患上这种世界头号残疾性疾病。干细胞再生医学的出现并非偶然，而对干细胞技术更深入的钻研，也将为更多关节炎患者带来福音。</p>
 <p>参考文献：Wang, S., et al. (2022) Injectable hybrid inorganic nanoscaffold as rapid stem cell assembly template for cartilage repair. <em>National Science Review</em>. doi.org/10.1093/nsr/nwac037</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Damaged cartilage has no regenerative capacity — the fundamental reason bone-and-joint disease is so hard to cure. A paper in <em>National Science Review</em> (impact factor 17.275) reports that scientists built a 3D stem-cell assembly that can be injected into a cartilage defect. It assembles rapidly in vitro, fills the defect and promotes stem-cell differentiation towards cartilage, helping to repair even extreme cartilage loss.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Damaged cartilage has no regenerative capacity — the fundamental reason bone-and-joint disease is so hard to cure. A paper in <em>National Science Review</em> (impact factor 17.275) reports that scientists built a 3D stem-cell assembly that can be injected into a cartilage defect. It assembles rapidly in vitro, fills the defect and promotes stem-cell differentiation towards cartilage, helping to repair even extreme cartilage loss.</p>
 <p>Articular cartilage reduces friction between bone, acting as a smooth, elastic buffer that cuts unnecessary vibration and impact.</p>
 <p>Cartilage, however, has almost no ability to regenerate. As age and wear increase, bone rubs on bone for long periods, causing pain and inflammation, and eventually joint degeneration — even loss of the ability to move.</p>
 <p>Surgical options for cartilage injury are limited, and mostly aim at short-term pain relief. Stem-cell tissue engineering, by contrast, has shown great potential for rapid cartilage repair, opening a new opportunity.</p>
@@ -753,7 +753,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>Conclusion</h3>
 <p>More than 300 million people worldwide live with arthritis. In Asia, as many as one in six people will have this leading cause of disability at some stage of life. The arrival of stem-cell regenerative medicine is not accidental; deeper work on the technology will also bring hope to more patients with arthritis.</p>
 <p>Reference: Wang, S., et al. (2022) Injectable hybrid inorganic nanoscaffold as rapid stem cell assembly template for cartilage repair. <em>National Science Review</em>. doi.org/10.1093/nsr/nwac037</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "36",
@@ -803,7 +803,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>結語</h3>
 <p>因此，2026 年最值得看的，不是「誰更像奇蹟」，而是這些路線能否把療效與可復現性，寫進更嚴格、更可對照的數據裏。</p>
 <p>信息來源：Mike May. Eleven clinical trials that will shape medicine in 2026（Published: 15 Dec 2025），BriaCell Therapeutics Corp.</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>2025 年 12 月 15 日，《自然医学》杂志发布年终观察文章《Eleven clinical trials that will shape medicine in 2026》。文章汇集多位顶尖研究者的判断，从不同赛道遴选出 11 项被认为将影响 2026 年医学走向的关键临床试验。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>2025 年 12 月 15 日，《自然医学》杂志发布年终观察文章《Eleven clinical trials that will shape medicine in 2026》。文章汇集多位顶尖研究者的判断，从不同赛道遴选出 11 项被认为将影响 2026 年医学走向的关键临床试验。</p>
 <p>其中，细胞与干细胞（含细胞 + 基因编辑）相关项目占 4 项，约占三分之一（约 36%）。把这 4 项单独拎出来看，趋势会更清晰：细胞治疗正在从「概念很强」，走向「证据更硬」——用更标准的试验设计、更明确的临床终点，把疗效与可复制性写进数据里。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-4-2.png" alt="细胞疗法在 11 项关键试验中约占三分之一" /></figure>
 <h3>一、mRNA CAR-T 走进自身免疫：全身型重症肌无力</h3>
@@ -842,7 +842,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>结语</h3>
 <p>因此，2026 年最值得看的，不是「谁更像奇迹」，而是这些路线能否把疗效与可复现性，写进更严格、更可对照的数据里。</p>
 <p>信息来源：Mike May. Eleven clinical trials that will shape medicine in 2026（Published: 15 Dec 2025），BriaCell Therapeutics Corp.</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>On 15 December 2025, <em>Nature Medicine</em> published its year-end survey, “Eleven clinical trials that will shape medicine in 2026”. Drawing on the judgement of leading researchers, it selected 11 pivotal trials, from different fields, thought likely to influence the direction of medicine in 2026.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>On 15 December 2025, <em>Nature Medicine</em> published its year-end survey, “Eleven clinical trials that will shape medicine in 2026”. Drawing on the judgement of leading researchers, it selected 11 pivotal trials, from different fields, thought likely to influence the direction of medicine in 2026.</p>
 <p>Of these, four involve cells and stem cells (including cell plus gene editing) — about one third, or roughly 36%. Taken on their own, the trend is clearer: cell therapy is moving from “strong concept” towards “harder evidence” — using more standard trial design and clearer clinical endpoints to write efficacy and reproducibility into the data.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-4-2.png" alt="Cell therapies account for about one third of the 11 pivotal trials" /></figure>
 <h3>1. mRNA CAR-T enters autoimmunity: generalised myasthenia gravis</h3>
@@ -881,7 +881,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>Conclusion</h3>
 <p>What is most worth watching in 2026 is not “who looks more like a miracle”, but whether these routes can write efficacy and reproducibility into stricter, more comparable data.</p>
 <p>Source: Mike May. Eleven clinical trials that will shape medicine in 2026 (Published: 15 Dec 2025), BriaCell Therapeutics Corp.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "37",
@@ -926,7 +926,7 @@ export const articles: KnowledgeArticle[] = [
 <p>衰老本身並不可怕，可怕的是我們在衰老的過程中失去健康與自主。《Nature Aging》2024 年 9 月發表的重要研究指出，40 歲和 60 歲是人體兩次衰老加速的關鍵轉折點，而幹細胞功能衰退被認為是內在的機制原因。</p>
 <p>幹細胞療法雖不能「逆天改命」，卻為我們爭取到了一段更從容、更健康的晚年時光。關鍵在於：防大於治。尤其在 40 歲與 60 歲這兩個關鍵期，提早干預、系統規劃健康，才能真正實現——不是單純地活得久，而是活得好。</p>
 <p>讓科技賦能長壽，讓長壽充滿質量。這一天，值得期待，更值得我們從現在起，理性行動。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>我们是否曾想过：真正的长寿，不仅仅是年龄数字的增长，更是健康、自理、有尊严的生活年限的延长？如果来自脐带的间充质干细胞（MSC），能够切实帮助中老年人延缓衰弱、远离慢性病、推迟失能——那么这不仅意味着医学的重大进步，更可能彻底改变我们对待衰老的方式。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>我们是否曾想过：真正的长寿，不仅仅是年龄数字的增长，更是健康、自理、有尊严的生活年限的延长？如果来自脐带的间充质干细胞（MSC），能够切实帮助中老年人延缓衰弱、远离慢性病、推迟失能——那么这不仅意味着医学的重大进步，更可能彻底改变我们对待衰老的方式。</p>
 <p>说到干细胞，很多人第一时间联想到阿尔茨海默病、帕金森病或脊髓损伤等难治性疾病，甚至期待它带来「逆转年龄」的奇迹。但一个更务实、也更贴近需求的方向正在浮现：干细胞的核心价值，不只在于「治已病」，更在于「防未病」——提前干预，阻断衰老与慢性病的发展链。换句话说，它也许不是「万能神药」，但它完全可以成为延长健康寿命、提升晚年生活质量的全新钥匙。</p>
 <h3>一、我们真正需要的，不是活得久，而是活得健康</h3>
 <p>寿命，是从出生到离世的总时长；健康寿命，指的是无重大疾病、可自理、高质量生活的年限。</p>
@@ -960,7 +960,7 @@ export const articles: KnowledgeArticle[] = [
 <p>衰老本身并不可怕，可怕的是我们在衰老的过程中失去健康与自主。《Nature Aging》2024 年 9 月发表的重要研究指出，40 岁和 60 岁是人体两次衰老加速的关键转折点，而干细胞功能衰退被认为是内在的机制原因。</p>
 <p>干细胞疗法虽不能「逆天改命」，却为我们争取到了一段更从容、更健康的晚年时光。关键在于：防大于治。尤其在 40 岁与 60 岁这两个关键期，提早干预、系统规划健康，才能真正实现——不是单纯地活得久，而是活得好。</p>
 <p>让科技赋能长寿，让长寿充满质量。这一天，值得期待，更值得我们从现在起，理性行动。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Have we ever asked: is true longevity just a larger number on the calendar, or a longer stretch of years lived in health, independence and dignity? If umbilical cord mesenchymal stem cells (MSCs) can genuinely help older adults slow frailty, stay clear of chronic disease and delay disability, that would be more than a medical advance — it could change how we think about ageing.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Have we ever asked: is true longevity just a larger number on the calendar, or a longer stretch of years lived in health, independence and dignity? If umbilical cord mesenchymal stem cells (MSCs) can genuinely help older adults slow frailty, stay clear of chronic disease and delay disability, that would be more than a medical advance — it could change how we think about ageing.</p>
 <p>Mention stem cells, and many people first think of hard-to-treat conditions such as Alzheimer’s disease, Parkinson’s disease or spinal cord injury, or even hope for a miracle that “reverses age”. A more practical direction is emerging: the core value of stem cells is not only treating disease that has already arrived, but intervening earlier and breaking the chain of ageing and chronic illness. In other words, they may not be a panacea, but they can be a new key to extending healthspan and improving quality of life in later years.</p>
 <h3>1. What we really need is not to live longer, but to live in health</h3>
 <p>Lifespan is the total time from birth to death. Healthspan is the years lived without major disease, able to care for oneself, at a high quality of life.</p>
@@ -994,7 +994,7 @@ export const articles: KnowledgeArticle[] = [
 <p>Ageing itself is not what we should fear; losing health and autonomy while we age is. An important <em>Nature Aging</em> paper in September 2024 pointed to ages 40 and 60 as two turning points when ageing accelerates, with declining stem-cell function as an inner mechanism.</p>
 <p>Stem-cell therapy cannot rewrite fate, but it can win a calmer, healthier later life. The key is prevention over treatment. Especially at 40 and 60, earlier intervention and systematic health planning are what make it possible — not merely to live longer, but to live well.</p>
 <p>Let technology serve longevity, and let longevity have quality. That day is worth looking forward to — and worth acting on, rationally, from now.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "38",
@@ -1034,7 +1034,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>結語</h3>
 <p>在全球範圍內，大約 15% 的夫婦有懷孕困難。隨着生育年齡的增加，不孕不育的發病率也在增加。藉助輔助生殖技術等可以解決近 80% 的問題。然而，仍有近 20% 的夫婦無法懷孕。在這種情況下，幹細胞療法可以為不孕症夫婦帶來希望。</p>
 <p>目前的研究雖然仍處於起步階段，未來需要進一步探究幹細胞及其衍生物恢復生育力的作用機制，但未來將會有更多的大規模臨牀試驗來獲得安全性和有效性的證據。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>因卵巢反应不佳导致受孕困难，正困扰着不少女性及其家庭。《Stem Cell Research &amp; Therapy》的一篇文章显示：向卵巢注射间充质干细胞可改变患者的生育结局。在这项涉及 105 位患者的研究里，干细胞成功让超过三分之一的女性怀孕。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>因卵巢反应不佳导致受孕困难，正困扰着不少女性及其家庭。《Stem Cell Research &amp; Therapy》的一篇文章显示：向卵巢注射间充质干细胞可改变患者的生育结局。在这项涉及 105 位患者的研究里，干细胞成功让超过三分之一的女性怀孕。</p>
 <p>在我国不孕不育患者已破 5000 万人的背景下，辅助生殖已经不再那么「神秘」。目前中国辅助生殖技术主要有三种：人工授精（AI）、配子移植和体外受精（IVF）。然而在这条本就艰辛的道路上，部分女性还会遭遇新的「拦路虎」——卵巢反应不佳（POR），这种情况会极大地降低生育治疗的成功率，给患者带来沉重的经济负担和心理压力。</p>
 <p>对此，传统疗法通常推荐使用生长激素补充剂、控制性卵巢过度刺激、辅助治疗、针灸和卵巢内注射富含血小板的血浆（PRP）。然而效果欠佳，一项荟萃分析表明：接受 PRP 疗法后自然妊娠率仅为 7%。</p>
 <p>为发掘新兴疗法，帮助患者摆脱生育困境，阿维森纳研究所探讨了 105 位 POR 患者在接受卵巢内注射间充质干细胞后（平均随访近 4 年）的妊娠率、活产率和潜在并发症。他们发现：间充质干细胞疗法成功让 36.19% 的女性怀孕，每次怀孕的活产率为 74.42%，且未发现婴儿先天性异常或死亡的情况，为深陷 POR 中的女性带来新的希望。</p>
@@ -1063,7 +1063,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>结语</h3>
 <p>在全球范围内，大约 15% 的夫妇有怀孕困难。随着生育年龄的增加，不孕不育的发病率也在增加。借助辅助生殖技术等可以解决近 80% 的问题。然而，仍有近 20% 的夫妇无法怀孕。在这种情况下，干细胞疗法可以为不孕症夫妇带来希望。</p>
 <p>目前的研究虽然仍处于起步阶段，未来需要进一步探究干细胞及其衍生物恢复生育力的作用机制，但未来将会有更多的大规模临床试验来获得安全性和有效性的证据。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Poor ovarian response making conception difficult is troubling many women and their families. A paper in <em>Stem Cell Research &amp; Therapy</em> reports that injecting mesenchymal stem cells into the ovary can change reproductive outcomes. In a study of 105 patients, stem cells enabled more than one third of the women to become pregnant.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Poor ovarian response making conception difficult is troubling many women and their families. A paper in <em>Stem Cell Research &amp; Therapy</em> reports that injecting mesenchymal stem cells into the ovary can change reproductive outcomes. In a study of 105 patients, stem cells enabled more than one third of the women to become pregnant.</p>
 <p>Against a background of more than 50 million people with infertility in China, assisted reproduction is no longer so “mysterious”. The main techniques are artificial insemination (AI), gamete transfer and in vitro fertilisation (IVF). On this already hard road, some women meet a further obstacle — poor ovarian response (POR) — which sharply lowers the success of fertility treatment and brings heavy financial and psychological pressure.</p>
 <p>Traditional options usually include growth-hormone supplements, controlled ovarian hyperstimulation, adjunctive treatment, acupuncture and intra-ovarian platelet-rich plasma (PRP). Results are modest: a meta-analysis found a natural pregnancy rate of only 7% after PRP.</p>
 <p>To explore a new therapy, the Avicenna Research Institute looked at pregnancy rate, live-birth rate and potential complications in 105 women with POR after intra-ovarian mesenchymal stem-cell injection (mean follow-up nearly four years). They found that the therapy enabled 36.19% of the women to become pregnant, with a live-birth rate of 74.42% per pregnancy, and no congenital anomalies or infant deaths — new hope for women stuck in POR.</p>
@@ -1092,7 +1092,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>Conclusion</h3>
 <p>Worldwide, about 15% of couples have difficulty conceiving. As age at childbearing rises, so does infertility. Assisted reproduction can solve nearly 80% of cases; nearly 20% of couples still cannot conceive. In that setting, stem-cell therapy may bring hope.</p>
 <p>Research is still early. The mechanisms by which stem cells and their derivatives restore fertility need further study, and more large clinical trials will be needed for evidence of safety and efficacy.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "39",
@@ -1123,7 +1123,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>糖尿病健康管理</strong>：幹細胞技術並非替代傳統健康管理。對 2 型糖尿病患者而言，科學的健康管理仍是控制病情的基礎。因個體差異，日常需制定營養飲食方案（減少高糖、高脂、高鹽食物）、個性化運動方案，並定期監測血糖、血壓、血脂，將健康管理與規範治療相結合，才能更有效地延緩進展、降低併發症風險。</p>
 <p><strong>規範診療流程</strong>：接受治療前，必須經具備資質的專業醫生全面評估，嚴格排除腫瘤、嚴重感染等禁忌症；治療後需完成長期隨訪，密切監測身體指標，確保安全。</p>
 <p><strong>警惕虛假宣傳</strong>：任何機構或個人宣稱幹細胞治療「包治百病」「絕對安全」「一針見效」均為虛假宣傳，需提高警惕。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>人脐带间充质干细胞治疗 2 型糖尿病，通过改善胰岛素抵抗、调节免疫等机制发挥作用，既能改善血糖控制，又能延缓并发症发生。细胞来源不涉及胚胎，具备较高的安全性与伦理合规性。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>人脐带间充质干细胞治疗 2 型糖尿病，通过改善胰岛素抵抗、调节免疫等机制发挥作用，既能改善血糖控制，又能延缓并发症发生。细胞来源不涉及胚胎，具备较高的安全性与伦理合规性。</p>
 <h3>一、突破传统治疗局限</h3>
 <p>2 型糖尿病是常见的慢性代谢性疾病，核心病理特征为胰岛 β 细胞功能损伤或胰岛素抵抗。长期血糖控制不佳易引发视网膜病变、肾病、神经病变等多种严重并发症，严重影响生活质量与健康。</p>
 <p>传统治疗主要依赖饮食调控、运动干预及外源降糖药物（或胰岛素）。虽能暂时控制血糖、延缓进展，但无法从根源上修复受损的胰岛功能，本质属于「被动控糖」。</p>
@@ -1143,7 +1143,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>糖尿病健康管理</strong>：干细胞技术并非替代传统健康管理。对 2 型糖尿病患者而言，科学的健康管理仍是控制病情的基础。因个体差异，日常需制定营养饮食方案（减少高糖、高脂、高盐食物）、个性化运动方案，并定期监测血糖、血压、血脂，将健康管理与规范治疗相结合，才能更有效地延缓进展、降低并发症风险。</p>
 <p><strong>规范诊疗流程</strong>：接受治疗前，必须经具备资质的专业医生全面评估，严格排除肿瘤、严重感染等禁忌症；治疗后需完成长期随访，密切监测身体指标，确保安全。</p>
 <p><strong>警惕虚假宣传</strong>：任何机构或个人宣称干细胞治疗「包治百病」「绝对安全」「一针见效」均为虚假宣传，需提高警惕。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Umbilical-cord mesenchymal stem-cell (MSC) therapy for type 2 diabetes acts through improved insulin resistance and immune modulation. It may improve glycaemic control and delay complications. The cell source does not involve embryos, with a stronger ethical and safety profile than embryo-derived approaches.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Umbilical-cord mesenchymal stem-cell (MSC) therapy for type 2 diabetes acts through improved insulin resistance and immune modulation. It may improve glycaemic control and delay complications. The cell source does not involve embryos, with a stronger ethical and safety profile than embryo-derived approaches.</p>
 <h3>1. Beyond the limits of conventional care</h3>
 <p>Type 2 diabetes is a common chronic metabolic disease. Its core pathology is injury to pancreatic β-cell function or insulin resistance. Poor long-term glucose control readily leads to retinopathy, nephropathy, neuropathy and other serious complications, harming quality of life and health.</p>
 <p>Traditional care relies mainly on diet, exercise and exogenous glucose-lowering drugs (or insulin). These can temporarily control glucose and slow progression, but cannot repair damaged islet function at the root — essentially “passive glucose control”.</p>
@@ -1163,7 +1163,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>Diabetes health management</strong>: stem-cell technology does not replace conventional health management. For people with type 2 diabetes, scientific self-management remains the basis for control. Because individuals differ, daily care still needs a diet (less high-sugar, high-fat, high-salt food), a personalised exercise plan, and regular monitoring of glucose, blood pressure and lipids. Combining health management with standard treatment is what delays progression and lowers complication risk more effectively.</p>
 <p><strong>A proper care pathway</strong>: before treatment, a qualified clinician must assess fully and strictly exclude contraindications such as tumour and severe infection; after treatment, long-term follow-up is required, with close monitoring of body markers, to keep treatment safe.</p>
 <p><strong>Beware false claims</strong>: any organisation or individual claiming stem-cell therapy “cures all diseases”, is “absolutely safe” or “works in one injection” is false advertising. Patients should stay alert.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "40",
@@ -1190,7 +1190,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-8-3.png" alt="化學重編程推動現貨型 T 細胞療法" /></figure>
 <h3>結語</h3>
 <p>研究團隊表示，該技術有望實現「現貨型」T 細胞產品的工業化生產——無需從患者體內提取 T 細胞，可通過幹細胞庫量產高質量特異性 T 細胞，大幅降低治療成本與等待時間。這項研究不僅彰顯了化學重編程調控細胞命運的強大潛力，更為再生醫學與免疫治療領域開闢了全新方向。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>T 细胞作为人体适应性免疫的核心，凭借 T 细胞受体（TCR）精准识别并攻击癌细胞、病毒感染细胞。基于其开发的 CAR-T、TCR-T 等过继免疫疗法，已在癌症、自身免疫疾病治疗中成效显著。但该类疗法长期受两大瓶颈制约：抗原特异性 T 细胞体外扩增数量有限且易耗竭，同时难以富集抗癌特异性 T 细胞，导致治疗成本高昂、效果不稳定。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>T 细胞作为人体适应性免疫的核心，凭借 T 细胞受体（TCR）精准识别并攻击癌细胞、病毒感染细胞。基于其开发的 CAR-T、TCR-T 等过继免疫疗法，已在癌症、自身免疫疾病治疗中成效显著。但该类疗法长期受两大瓶颈制约：抗原特异性 T 细胞体外扩增数量有限且易耗竭，同时难以富集抗癌特异性 T 细胞，导致治疗成本高昂、效果不稳定。</p>
 <p>2026 年 1 月 16 日，北京大学邓宏魁院士团队在《Cell Research》发表重磅研究，首次利用化学重编程技术，将人类 T 细胞高效转化为多能干细胞，且可再分化为年轻、具备抗癌特异性的 T 细胞。这一突破有望破解 T 细胞来源不足、易耗竭的核心难题，为「现货型」T 细胞疗法的研发铺平道路。</p>
 <h3>一、化学重编程：让成熟 T 细胞「返老还童」</h3>
 <p>研究核心是将抗原特异性 T 细胞「还原」为多能干细胞（PSC）——这类干细胞具备无限自我更新能力，可分化为任意细胞类型，如同让衰老的专业「免疫战士」返老还童为可无限复制、重新训练的「新兵」。</p>
@@ -1206,7 +1206,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-8-3.png" alt="化学重编程推动现货型 T 细胞疗法" /></figure>
 <h3>结语</h3>
 <p>研究团队表示，该技术有望实现「现货型」T 细胞产品的工业化生产——无需从患者体内提取 T 细胞，可通过干细胞库量产高质量特异性 T 细胞，大幅降低治疗成本与等待时间。这项研究不仅彰显了化学重编程调控细胞命运的强大潜力，更为再生医学与免疫治疗领域开辟了全新方向。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>T cells sit at the core of adaptive immunity. Through the T-cell receptor (TCR) they recognise and attack cancer cells and virus-infected cells. Adoptive immunotherapies built on them — CAR-T, TCR-T and others — have already shown clear results in cancer and autoimmune disease. Two bottlenecks have long constrained them: antigen-specific T cells expand only in limited numbers in vitro and readily exhaust, and anti-cancer specific T cells are hard to enrich, so treatment is costly and unstable.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>T cells sit at the core of adaptive immunity. Through the T-cell receptor (TCR) they recognise and attack cancer cells and virus-infected cells. Adoptive immunotherapies built on them — CAR-T, TCR-T and others — have already shown clear results in cancer and autoimmune disease. Two bottlenecks have long constrained them: antigen-specific T cells expand only in limited numbers in vitro and readily exhaust, and anti-cancer specific T cells are hard to enrich, so treatment is costly and unstable.</p>
 <p>On 16 January 2026, Academician Deng Hongkui’s team at Peking University published a major study in <em>Cell Research</em>: the first efficient conversion of human T cells into pluripotent stem cells by chemical reprogramming, which can then be redifferentiated into young T cells that keep anti-cancer specificity. The breakthrough may unlock the shortage of T-cell source and exhaustion, and pave the way for “off-the-shelf” T-cell therapy.</p>
 <h3>1. Chemical reprogramming: making mature T cells “young again”</h3>
 <p>The core of the work is to “reset” antigen-specific T cells to pluripotent stem cells (PSCs) — cells with unlimited self-renewal that can become any cell type, like turning ageing professional “immune soldiers” back into endlessly copyable, retrainable “recruits”.</p>
@@ -1222,7 +1222,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-8-3.png" alt="Chemical reprogramming towards off-the-shelf T-cell therapy" /></figure>
 <h3>Conclusion</h3>
 <p>The team says the technology may enable industrial production of “off-the-shelf” T-cell products — without taking T cells from the patient, a stem-cell bank could mass-produce high-quality specific T cells, sharply cutting cost and waiting time. The study shows the power of chemical reprogramming to control cell fate, and opens a new direction in regenerative medicine and immunotherapy.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "41",
@@ -1254,7 +1254,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>結語</h3>
 <p>從「細胞」到「外泌體」，不是降級，而是把再生醫學的一部分能力裝進更可製造、可質控、可組合的載體裏。這份綜述的意義在於：把散落的人體數據集中擺出來，證明「可量化信號」已出現。</p>
 <p>資料來源：《Reports》（MDPI）2025；8(4):268（系統綜述，納入研究詳見原文參考文獻）</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>近日，期刊《Reports》（MDPI）发表系统综述，按 PRISMA 流程梳理 2010–2025 年相关文献，最终纳入 6 项人体研究、共 99 名受试者（19–72 岁），主题聚焦：间充质干细胞外泌体（MSC-Exos）用于疤痕、皮肤老化与色素沉着的临床结局与安全性。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>近日，期刊《Reports》（MDPI）发表系统综述，按 PRISMA 流程梳理 2010–2025 年相关文献，最终纳入 6 项人体研究、共 99 名受试者（19–72 岁），主题聚焦：间充质干细胞外泌体（MSC-Exos）用于疤痕、皮肤老化与色素沉着的临床结局与安全性。</p>
 <p>综述给出了一个非常清晰的趋势：在小样本、以分侧对照为主的研究中，外泌体与点阵激光 / 微针等「打开通道」的手段结合，已出现可量化的改善信号。如：减少瘢痕厚度（−32.5%）、减少皱纹（降低 1 个等级）、降低黑色素指数、提升皮肤弹性（+11.3%）与水分含量。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-9-2.png" alt="外泌体联合激光或微针的可量化改善" /></figure>
 <h3>一、外泌体：从「细胞」到「信号」</h3>
@@ -1275,7 +1275,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>结语</h3>
 <p>从「细胞」到「外泌体」，不是降级，而是把再生医学的一部分能力装进更可制造、可质控、可组合的载体里。这份综述的意义在于：把散落的人体数据集中摆出来，证明「可量化信号」已出现。</p>
 <p>资料来源：《Reports》（MDPI）2025；8(4):268（系统综述，纳入研究详见原文参考文献）</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>A systematic review in <em>Reports</em> (MDPI), following PRISMA, surveyed the literature from 2010–2025 and included six human studies with 99 participants (aged 19–72). The focus: clinical outcomes and safety of mesenchymal stem-cell exosomes (MSC-Exos) for scars, skin ageing and pigmentation.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>A systematic review in <em>Reports</em> (MDPI), following PRISMA, surveyed the literature from 2010–2025 and included six human studies with 99 participants (aged 19–72). The focus: clinical outcomes and safety of mesenchymal stem-cell exosomes (MSC-Exos) for scars, skin ageing and pigmentation.</p>
 <p>The review shows a clear trend: in small, mostly split-face controlled studies, combining exosomes with “channel-opening” methods such as fractional laser or microneedling has already produced quantifiable signals of improvement — for example scar thickness −32.5%, wrinkles down by one grade, a lower melanin index, and higher skin elasticity (+11.3%) and water content.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-9-2.png" alt="Quantifiable improvement from exosomes plus laser or microneedling" /></figure>
 <h3>1. Exosomes: from “cell” to “signal”</h3>
@@ -1296,7 +1296,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>Conclusion</h3>
 <p>Moving from “cell” to “exosome” is not a downgrade. It is packing part of regenerative medicine’s capacity into a carrier that is more manufacturable, controllable and combinable. The value of this review is to put scattered human data on the table, and show that a “quantifiable signal” is already there.</p>
 <p>Source: <em>Reports</em> (MDPI) 2025; 8(4):268 (systematic review; see the original paper for included studies).</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "42",
@@ -1340,7 +1340,7 @@ export const articles: KnowledgeArticle[] = [
 <li><strong>細胞存儲</strong>：將製備好的免疫細胞存入 −196℃ 液氮罐中進行凍存。</li>
 </ol>
 <p>把握現在，儲備未來。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>在健康日益成为全民关注的今天，很多人都知道为新生儿储存干细胞等珍贵细胞资源，为孩子的未来健康增添一份保障。然而，许多人不知道的是，成人同样有机会为自己的健康提前布局——免疫细胞储存，正是送给未来自己的一份「健康礼物」。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>在健康日益成为全民关注的今天，很多人都知道为新生儿储存干细胞等珍贵细胞资源，为孩子的未来健康增添一份保障。然而，许多人不知道的是，成人同样有机会为自己的健康提前布局——免疫细胞储存，正是送给未来自己的一份「健康礼物」。</p>
 <h3>一、为什么要存储免疫细胞？</h3>
 <p>如果把人体比作一个有序运行的王国，免疫细胞就是忠诚的「卫戍部队」。它们日夜巡逻，精准识别并清除癌变、衰老或异常细胞，守护着身体的健康防线。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-10-2.jpg" alt="免疫细胞守护健康防线" /></figure>
@@ -1373,7 +1373,7 @@ export const articles: KnowledgeArticle[] = [
 <li><strong>细胞存储</strong>：将制备好的免疫细胞存入 −196℃ 液氮罐中进行冻存。</li>
 </ol>
 <p>把握现在，储备未来。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>As health becomes a nationwide concern, many people already know about storing precious cell resources such as stem cells for a newborn. Fewer know that adults can also plan ahead: storing immune cells is a health gift to one’s future self.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>As health becomes a nationwide concern, many people already know about storing precious cell resources such as stem cells for a newborn. Fewer know that adults can also plan ahead: storing immune cells is a health gift to one’s future self.</p>
 <h3>1. Why store immune cells?</h3>
 <p>If the body is a well-run kingdom, immune cells are the loyal garrison. They patrol day and night, recognising and clearing cancerous, senescent or abnormal cells.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-10-2.jpg" alt="Immune cells guarding the body’s defences" /></figure>
@@ -1405,7 +1405,7 @@ export const articles: KnowledgeArticle[] = [
 <li><strong>Cryostorage</strong> at −196°C in liquid nitrogen.</li>
 </ol>
 <p>Hold the present; reserve the future.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "43",
@@ -1433,7 +1433,7 @@ export const articles: KnowledgeArticle[] = [
 <li><strong>系統化改善</strong>：藥物治療一般需多種合併使用；幹細胞往往採用靜脈回輸或聯合靶向治療，實現多器官、多功能改善。</li>
 </ul>
 <figure class="article-fig"><img src="/images/knowledge/longevity-11-3.jpg" alt="幹細胞抗炎抗衰抗病" /></figure>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>一切健康问题的根源，都藏在细胞里。当细胞活力下降、修复能力衰退，各类健康隐患便会悄然滋生。随着健康管理理念的升级，越来越多家庭已将视角从「事后治疗」转向「事前干预」，而干细胞治疗凭借其独特的细胞修复与再生能力，正成为不少家庭健康规划中的选项。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>一切健康问题的根源，都藏在细胞里。当细胞活力下降、修复能力衰退，各类健康隐患便会悄然滋生。随着健康管理理念的升级，越来越多家庭已将视角从「事后治疗」转向「事前干预」，而干细胞治疗凭借其独特的细胞修复与再生能力，正成为不少家庭健康规划中的选项。</p>
 <h3>一、干细胞打破炎症–衰老–疾病恶性循环</h3>
 <p><strong>01. 抗炎特性</strong><br>干细胞通过前列腺素 E2（PGE2）、TSG-6、IGF-1 等抗炎因子抑制炎症产生；还可抑制促炎细胞的活化和增殖，促进调节性 T 细胞增殖，平衡免疫与炎症反应。</p>
 <p><strong>02. 抗衰原理</strong><br>炎症与衰老密切相关，干细胞回输可以降低炎症水平与衰老标志物水平。干细胞可分化为神经细胞、血管内皮细胞、肝细胞等并迁移到相应部位，改善组织器官功能，改善老年衰弱症状。</p>
@@ -1450,7 +1450,7 @@ export const articles: KnowledgeArticle[] = [
 <li><strong>系统化改善</strong>：药物治疗一般需多种合并使用；干细胞往往采用静脉回输或联合靶向治疗，实现多器官、多功能改善。</li>
 </ul>
 <figure class="article-fig"><img src="/images/knowledge/longevity-11-3.jpg" alt="干细胞抗炎抗衰抗病" /></figure>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>The root of health problems sits in the cell. When vitality falls and repair weakens, hazards grow. Health management is shifting from treating after the fact to intervening beforehand, and stem-cell therapy has become an option in many family health plans.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>The root of health problems sits in the cell. When vitality falls and repair weakens, hazards grow. Health management is shifting from treating after the fact to intervening beforehand, and stem-cell therapy has become an option in many family health plans.</p>
 <h3>1. Breaking the inflammation–ageing–disease cycle</h3>
 <p><strong>01. Anti-inflammatory</strong><br>Factors such as PGE2, TSG-6 and IGF-1 suppress inflammation; stem cells also inhibit pro-inflammatory cells and promote regulatory T cells.</p>
 <p><strong>02. Anti-ageing</strong><br>Infusion can lower inflammation and ageing markers. Stem cells may become neurons, endothelial cells or hepatocytes, migrate to the relevant sites and improve frailty.</p>
@@ -1467,7 +1467,7 @@ export const articles: KnowledgeArticle[] = [
 <li><strong>Systemic improvement</strong> via intravenous or targeted delivery across organs.</li>
 </ul>
 <figure class="article-fig"><img src="/images/knowledge/longevity-11-3.jpg" alt="Stem cells against inflammation, ageing and disease" /></figure>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "44",
@@ -1496,7 +1496,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-12-5.jpg" alt="增強免疫細胞活性的研究方向" /></figure>
 <h3>結語</h3>
 <p>健康的幹細胞和免疫細胞對我們的身體如此重要。衰老是所有生物都必須面對的生理過程。我們能做的就是關注細胞健康、補充細胞，這或許是防患於未然、保持健康態的明智之舉。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>近年来科学家在人体衰老方面不断探索。西班牙奥维耶多大学肿瘤研究所和法国巴黎大学的科学家在《Cell》发表了题为 Hallmarks of aging: An expanding universe 的综述，创造性地提出了衰老的十二个标志，对理解衰老的发生、发展以及干预有着巨大意义。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>近年来科学家在人体衰老方面不断探索。西班牙奥维耶多大学肿瘤研究所和法国巴黎大学的科学家在《Cell》发表了题为 Hallmarks of aging: An expanding universe 的综述，创造性地提出了衰老的十二个标志，对理解衰老的发生、发展以及干预有着巨大意义。</p>
 <h3>一、身体衰老有哪些标志和信号？</h3>
 <p>自《Cell》发表第一版「衰老的标志」以来，有近 30 万篇衰老研究论文发表。原班人马在 2013 年综述基础上，进一步定义了衰老的十二大标志：基因组稳定性丧失、端粒损耗、表观遗传改变、蛋白稳态丧失、巨自噬障碍、营养感应失调、线粒体功能障碍、细胞衰老、干细胞耗竭、细胞间通讯改变、慢性炎症和生态失调。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-12-2.png" alt="衰老的十二大标志" /></figure>
@@ -1514,7 +1514,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-12-5.jpg" alt="增强免疫细胞活性的研究方向" /></figure>
 <h3>结语</h3>
 <p>健康的干细胞和免疫细胞对我们的身体如此重要。衰老是所有生物都必须面对的生理过程。我们能做的就是关注细胞健康、补充细胞，这或许是防患于未然、保持健康态的明智之举。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Scientists at the University of Oviedo and the University of Paris published “Hallmarks of aging: An expanding universe” in <em>Cell</em>, proposing twelve hallmarks of ageing — important for understanding how ageing starts, develops and might be changed.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Scientists at the University of Oviedo and the University of Paris published “Hallmarks of aging: An expanding universe” in <em>Cell</em>, proposing twelve hallmarks of ageing — important for understanding how ageing starts, develops and might be changed.</p>
 <h3>1. What are the signs of bodily ageing?</h3>
 <p>Since the first hallmarks paper, nearly 300,000 ageing papers have appeared. The same authors expanded the 2013 review to twelve hallmarks: genomic instability, telomere attrition, epigenetic alterations, loss of proteostasis, disabled macroautophagy, deregulated nutrient-sensing, mitochondrial dysfunction, cellular senescence, stem-cell exhaustion, altered intercellular communication, chronic inflammation and dysbiosis.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-12-2.png" alt="The twelve hallmarks of ageing" /></figure>
@@ -1532,7 +1532,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-12-5.jpg" alt="Research on boosting immune-cell activity" /></figure>
 <h3>Conclusion</h3>
 <p>Healthy stem cells and immune cells matter greatly. Ageing is a physiological process every living thing faces. Attending to cell health and replenishing cells may be a wise way to act before harm arrives.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "45",
@@ -1573,7 +1573,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>五、為什麼這條路值得關注：它把「復發管理」前移了</h3>
 <p>過去我們談復發，常常是在「復發發生之後」再討論怎麼救援；而這項研究的思路，是把戰線前移到「復發發生之前」。</p>
 <p>因此它對應的是一個更接近真實臨牀的問題：對高危人羣，能不能在完成移植後的早期，用一個可控、可重複、負擔相對可接受的細胞免疫策略，把殘留風險再壓一層？如果後續研究能在更大樣本、更嚴格對照下重複看到類似的 PFS / OS 改善，這就可能成為「高危淋巴瘤移植後管理」的一個標準化模塊，而不僅僅是單點探索。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>近期，一项来自韩国团队的前瞻性研究在 ASTCT（美国移植与细胞治疗学会）官方期刊 <em>Transplantation and Cellular Therapy</em> 在线发表：研究者把 CIK（细胞因子诱导杀伤）细胞放在一个关键时间点——自体造血干细胞移植（ASCT）后约 2 周进行输注，作为「后缓解」巩固策略。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>近期，一项来自韩国团队的前瞻性研究在 ASTCT（美国移植与细胞治疗学会）官方期刊 <em>Transplantation and Cellular Therapy</em> 在线发表：研究者把 CIK（细胞因子诱导杀伤）细胞放在一个关键时间点——自体造血干细胞移植（ASCT）后约 2 周进行输注，作为「后缓解」巩固策略。</p>
 <p>研究纳入 20 位高危非霍奇金淋巴瘤（NHL）患者，在达到完全缓解（CR）并完成 ASCT 后接受 CIK 输注；摘要披露的核心读出是：2 年无进展生存率（PFS）达 79.8%，且输注相关反应以轻度发热为主。这条路径解决的，不是「再加一次大强度治疗」，而是把移植后的「免疫空窗期」，变成一次更精准的「清扫窗口」。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-13-2.png" alt="CIK 作为移植后巩固策略" /></figure>
 <h3>一、为什么 ASCT 之后仍需要「第二道闸门」</h3>
@@ -1603,7 +1603,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>五、为什么这条路值得关注：它把「复发管理」前移了</h3>
 <p>过去我们谈复发，常常是在「复发发生之后」再讨论怎么救援；而这项研究的思路，是把战线前移到「复发发生之前」。</p>
 <p>因此它对应的是一个更接近真实临床的问题：对高危人群，能不能在完成移植后的早期，用一个可控、可重复、负担相对可接受的细胞免疫策略，把残留风险再压一层？如果后续研究能在更大样本、更严格对照下重复看到类似的 PFS / OS 改善，这就可能成为「高危淋巴瘤移植后管理」的一个标准化模块，而不仅仅是单点探索。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>A prospective Korean study has been published online in <em>Transplantation and Cellular Therapy</em>, the official journal of ASTCT. Investigators timed cytokine-induced killer (CIK) cells at a critical point — about two weeks after autologous haematopoietic stem-cell transplant (ASCT) — as a post-remission consolidation strategy.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>A prospective Korean study has been published online in <em>Transplantation and Cellular Therapy</em>, the official journal of ASTCT. Investigators timed cytokine-induced killer (CIK) cells at a critical point — about two weeks after autologous haematopoietic stem-cell transplant (ASCT) — as a post-remission consolidation strategy.</p>
 <p>Twenty patients with high-risk non-Hodgkin lymphoma (NHL) received CIK infusion after complete remission (CR) and ASCT. The headline readout: 2-year progression-free survival (PFS) of 79.8%, with infusion reactions mainly mild fever. The path is not “one more round of high-intensity treatment”, but turning the post-transplant immune window into a more precise clearance window.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-13-2.png" alt="CIK as post-transplant consolidation" /></figure>
 <h3>1. Why ASCT still needs a “second gate”</h3>
@@ -1633,7 +1633,7 @@ export const articles: KnowledgeArticle[] = [
 <h3>5. Why this path is worth watching: it moves relapse management forward</h3>
 <p>Talk of relapse often starts after it happens. This study moves the line to before relapse.</p>
 <p>The clinical question is closer to real practice: for high-risk patients, can a controllable, repeatable, relatively acceptable cell-immune strategy press residual risk down one more layer early after transplant? If later studies with larger samples and stricter controls repeat similar PFS/OS gains, this could become a standard module of post-transplant care for high-risk lymphoma, not a one-off exploration.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "46",
@@ -1670,7 +1670,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>精準遞送系統</strong>：如抗 VCAM-1 抗體修飾的 PLGA 微球作為載體，精準綁定病灶處過表達 VCAM-1 的內皮細胞，將幹細胞富集率從 2% 提升至 25%，緩解歸巢效率低的問題。</p>
 <h3>結語</h3>
 <p>幹細胞憑藉修復血管、抑制炎症、穩定斑塊等能力，已在基礎研究和早期臨牀試驗中展現出良好的安全性和有效性。隨着技術的不斷優化，未來幹細胞療法有望成為動脈粥樣硬化的治療手段，讓受損血管重獲新生。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>全球每年有超过 1790 万人死于心血管疾病。动脉粥样硬化（AS）是全球心血管疾病致残率和死亡率的首要病理基础，其核心特征为血管壁脂质异常沉积、慢性炎症激活及血管结构重塑，最终引发冠心病、脑梗死等急性心脑血管事件。传统的他汀类药物、支架手术只能延缓病情，没法修复已经受损的血管。但随着再生医学的发展，干细胞凭借其多向分化潜能、免疫调节能力及组织修复特性，正为动脉粥样硬化治疗开辟新路径。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>全球每年有超过 1790 万人死于心血管疾病。动脉粥样硬化（AS）是全球心血管疾病致残率和死亡率的首要病理基础，其核心特征为血管壁脂质异常沉积、慢性炎症激活及血管结构重塑，最终引发冠心病、脑梗死等急性心脑血管事件。传统的他汀类药物、支架手术只能延缓病情，没法修复已经受损的血管。但随着再生医学的发展，干细胞凭借其多向分化潜能、免疫调节能力及组织修复特性，正为动脉粥样硬化治疗开辟新路径。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-14-2.png" alt="干细胞在动脉粥样硬化治疗中的研究进展" /><figcaption>干细胞在动脉粥样硬化治疗中的研究进展</figcaption></figure>
 <p>浙江大学医学院附属金华医院团队发表在 <em>Frontiers in Cell and Developmental Biology</em> 的综述，系统梳理了 2023–2025 年干细胞治疗动脉粥样硬化的最新进展，从机制到临床、从难题到解决方案，完整勾勒出这项「血管修复」技术的发展蓝图。</p>
 <h3>一、血管是怎么一步步「坏掉」的？</h3>
@@ -1696,7 +1696,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>精准递送系统</strong>：如抗 VCAM-1 抗体修饰的 PLGA 微球作为载体，精准绑定病灶处过表达 VCAM-1 的内皮细胞，将干细胞富集率从 2% 提升至 25%，缓解归巢效率低的问题。</p>
 <h3>结语</h3>
 <p>干细胞凭借修复血管、抑制炎症、稳定斑块等能力，已在基础研究和早期临床试验中展现出良好的安全性和有效性。随着技术的不断优化，未来干细胞疗法有望成为动脉粥样硬化的治疗手段，让受损血管重获新生。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>More than 17.9 million people die of cardiovascular disease each year. Atherosclerosis (AS) is the leading pathological basis of cardiovascular disability and death worldwide. Statins and stents can slow the disease; they cannot repair vessels already damaged. Regenerative medicine, and stem cells’ multilineage, immunomodulatory and repair properties, are opening a new path.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>More than 17.9 million people die of cardiovascular disease each year. Atherosclerosis (AS) is the leading pathological basis of cardiovascular disability and death worldwide. Statins and stents can slow the disease; they cannot repair vessels already damaged. Regenerative medicine, and stem cells’ multilineage, immunomodulatory and repair properties, are opening a new path.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-14-2.png" alt="Progress in stem-cell therapy for atherosclerosis" /><figcaption>Progress in stem-cell therapy for atherosclerosis</figcaption></figure>
 <p>A review from Jinhua Hospital, affiliated to Zhejiang University School of Medicine, in <em>Frontiers in Cell and Developmental Biology</em>, maps 2023–2025 progress — from mechanism to clinic, from problems to solutions — as a blueprint for vessel repair.</p>
 <h3>1. How a vessel “goes wrong”, step by step</h3>
@@ -1722,7 +1722,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>Targeted delivery</strong> such as anti-VCAM-1 antibody-modified PLGA microspheres, raising stem-cell enrichment from 2% to 25%.</p>
 <h3>Conclusion</h3>
 <p>With the ability to repair vessels, suppress inflammation and stabilise plaque, stem cells have shown encouraging safety and efficacy in basic work and early trials.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "47",
@@ -1754,7 +1754,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-15-5.jpg" alt="幹細胞與外泌體在衰老相關疾病中的應用" /></figure>
 <h3>結語</h3>
 <p>MSCs 與其外泌體，一個作為「細胞療法」，一個作為「無細胞療法」，相輔相成。幹細胞與外泌體聯合的新興技術，正在為延緩衰老和相關疾病干預提供新的可能。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>近期，北京协和医学院白琳课题组在 <em>Stem Cell Research &amp; Therapy</em> 发表综述《Advances in mesenchymal stem cell and exosome-based therapies for aging and age-related diseases》，系统梳理了间充质干细胞（MSCs）及其外泌体（MSC-Exos）在衰老和年龄相关疾病治疗中的研究进展，并提出了干细胞 + 外泌体联合治疗的思路。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>近期，北京协和医学院白琳课题组在 <em>Stem Cell Research &amp; Therapy</em> 发表综述《Advances in mesenchymal stem cell and exosome-based therapies for aging and age-related diseases》，系统梳理了间充质干细胞（MSCs）及其外泌体（MSC-Exos）在衰老和年龄相关疾病治疗中的研究进展，并提出了干细胞 + 外泌体联合治疗的思路。</p>
 <h3>一、衰老与再生医学</h3>
 <p>衰老表现为组织和器官功能的渐进性衰退，与多种慢性疾病风险密切相关，如阿尔茨海默病、骨质疏松、心血管疾病等。传统干预方法如饮食控制、运动和药物干预在模式生物中显示出延长健康寿命的效果，但在安全性和有效性上仍需进一步验证。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-15-2.jpg" alt="衰老与再生医学" /></figure>
@@ -1775,7 +1775,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-15-5.jpg" alt="干细胞与外泌体在衰老相关疾病中的应用" /></figure>
 <h3>结语</h3>
 <p>MSCs 与其外泌体，一个作为「细胞疗法」，一个作为「无细胞疗法」，相辅相成。干细胞与外泌体联合的新兴技术，正在为延缓衰老和相关疾病干预提供新的可能。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Bai Lin’s group at Peking Union Medical College published a review in <em>Stem Cell Research &amp; Therapy</em> mapping MSCs and MSC-Exos in ageing and age-related disease, and proposing that stem cells be combined with exosomes.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Bai Lin’s group at Peking Union Medical College published a review in <em>Stem Cell Research &amp; Therapy</em> mapping MSCs and MSC-Exos in ageing and age-related disease, and proposing that stem cells be combined with exosomes.</p>
 <h3>1. Ageing and regenerative medicine</h3>
 <p>Ageing is a gradual decline of tissue and organ function, closely tied to chronic-disease risk. Diet, exercise and drugs have extended healthspan in model organisms, but safety and efficacy still need more validation.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-15-2.jpg" alt="Ageing and regenerative medicine" /></figure>
@@ -1796,7 +1796,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-15-5.jpg" alt="Stem cells and exosomes in ageing-related disease" /></figure>
 <h3>Conclusion</h3>
 <p>MSCs as cell therapy and their exosomes as cell-free therapy complement each other, opening a new possibility for slowing ageing and intervening in related disease.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "48",
@@ -1838,7 +1838,7 @@ export const articles: KnowledgeArticle[] = [
 <li>World Health Organization. Physical activity — recommendations for adults.</li>
 <li>NHLBI (NIH). How much sleep is enough? (updated 2022).</li>
 </ol>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>过去几年，「长寿医学（Longevity Medicine）」从概念讨论走向临床实践，一个明显的趋势正在形成：行业正在从「讲故事」转向「可测量、可随访、可验证」。真正能推动机构落地与个人长期获益的，不是单点疗法的堆叠，而是围绕「检测—评估—干预—追踪」建立的循证闭环。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>过去几年，「长寿医学（Longevity Medicine）」从概念讨论走向临床实践，一个明显的趋势正在形成：行业正在从「讲故事」转向「可测量、可随访、可验证」。真正能推动机构落地与个人长期获益的，不是单点疗法的堆叠，而是围绕「检测—评估—干预—追踪」建立的循证闭环。</p>
 <h3>一、量化衰老：从「感觉变老」到「数据可见」</h3>
 <p><strong>1. 蛋白组学</strong>：大规模人群研究显示，血液蛋白组信息可以用于构建「蛋白年龄」模型，并与多种健康结局、疾病风险与死亡风险相关联。</p>
 <p><strong>2. 表观遗传与「生物年龄时钟」</strong>：以 DNA 甲基化为代表的指标适合做趋势监测与风险管理，而不是替代临床诊断。</p>
@@ -1869,7 +1869,7 @@ export const articles: KnowledgeArticle[] = [
 <li>World Health Organization. Physical activity — recommendations for adults.</li>
 <li>NHLBI (NIH). How much sleep is enough? (updated 2022).</li>
 </ol>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Longevity medicine has moved from concept to clinical practice. A clear trend: the field is shifting from storytelling to what can be measured, followed and verified — an evidence loop of test, assess, intervene and track.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Longevity medicine has moved from concept to clinical practice. A clear trend: the field is shifting from storytelling to what can be measured, followed and verified — an evidence loop of test, assess, intervene and track.</p>
 <h3>1. Measuring ageing: from “feeling older” to data you can see</h3>
 <p><strong>1. Proteomics</strong>: blood protein signals can build a “protein age” model linked to health outcomes, disease risk and mortality.</p>
 <p><strong>2. Epigenetic clocks</strong>: DNA methylation suits trend monitoring and risk management — it does not replace clinical diagnosis.</p>
@@ -1899,7 +1899,7 @@ export const articles: KnowledgeArticle[] = [
 <li>World Health Organization. Physical activity — recommendations for adults.</li>
 <li>NHLBI (NIH). How much sleep is enough? (updated 2022).</li>
 </ol>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "49",
@@ -1931,7 +1931,7 @@ export const articles: KnowledgeArticle[] = [
 <p>在人 B 細胞急性淋巴細胞白血病小鼠模型中，CAR 改造的 iNK 細胞顯著抑制腫瘤生長，並大幅延長荷瘤小鼠生存期，顯示出清除化療後微小殘留病灶、防止復發的潛力。</p>
 <h3>結語</h3>
 <p>當癌症免疫治療從「私人定製」走向「大眾現貨」，攻克癌症的夢想將離我們更近。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>只需五分之一份脐带血，就能制备出足够数千名患者使用的「超级免疫细胞」。这不仅是一个数字的跨越，更可能预示着昂贵的 CAR-T 疗法迎来了一个更强大、更廉价的替代路径。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>只需五分之一份脐带血，就能制备出足够数千名患者使用的「超级免疫细胞」。这不仅是一个数字的跨越，更可能预示着昂贵的 CAR-T 疗法迎来了一个更强大、更廉价的替代路径。</p>
 <p>近日，中国科学院动物研究所王金勇研究员团队的一项研究，有望打破癌症免疫治疗成本高、制备难的僵局。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-17-2.png" alt="脐带血来源 iNK / CAR-iNK 工程化制备" /><figcaption>脐带血来源 iNK / CAR-iNK 工程化制备技术</figcaption></figure>
 <h3>一、从「单兵作战」到「集团军群」</h3>
@@ -1952,7 +1952,7 @@ export const articles: KnowledgeArticle[] = [
 <p>在人 B 细胞急性淋巴细胞白血病小鼠模型中，CAR 改造的 iNK 细胞显著抑制肿瘤生长，并大幅延长荷瘤小鼠生存期，显示出清除化疗后微小残留病灶、防止复发的潜力。</p>
 <h3>结语</h3>
 <p>当癌症免疫治疗从「私人定制」走向「大众现货」，攻克癌症的梦想将离我们更近。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>One fifth of a unit of cord blood could, in principle, yield enough “super immune cells” for thousands of patients — a stronger, cheaper path beside costly CAR-T.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>One fifth of a unit of cord blood could, in principle, yield enough “super immune cells” for thousands of patients — a stronger, cheaper path beside costly CAR-T.</p>
 <p>A study by Wang Jinyong’s team at the Institute of Zoology, Chinese Academy of Sciences, aims to break the deadlock of high cost and hard manufacture in cancer immunotherapy.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-17-2.png" alt="Engineered preparation of cord-blood iNK / CAR-iNK" /><figcaption>Engineered preparation of cord-blood iNK / CAR-iNK</figcaption></figure>
 <h3>1. From a single soldier to an army</h3>
@@ -1972,7 +1972,7 @@ export const articles: KnowledgeArticle[] = [
 <p>In a mouse model of human B-cell ALL, CAR-modified iNK cells markedly inhibited tumour growth and extended survival — supporting potential to clear minimal residual disease after chemotherapy.</p>
 <h3>Conclusion</h3>
 <p>When cancer immunotherapy moves from private custom to public off-the-shelf supply, the dream of overcoming cancer comes closer.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "50",
@@ -2004,7 +2004,7 @@ export const articles: KnowledgeArticle[] = [
 <p>未來醫院將為患者提供從預防保健到疾病治療、從康復護理到衰老管理的閉環服務，並與社區、家庭醫生、科研機構建立合作網絡。在這個生態中，患者不再是被動接受治療的對象，而是健康管理的主動參與者：通過可穿戴設備與遠程溝通，醫生可及時調整方案，實現更個性化的精準醫療。</p>
 <h3>結語</h3>
 <p>功能醫學與長壽醫學的合流，為未來醫院的發展帶來了新的可能。它們將引領健康產業走向更加個性化、精準化、整體化的方向。真正的健康長壽，需要把「今天的功能」和「明天的壽命」放在同一張藍圖上。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>在当今医疗健康领域，一场静默却深刻的变革正悄然兴起。传统医疗模式逐渐暴露出局限性，而功能医学与长寿医学的融合，如同两股强大的洪流，汇聚成一股不可阻挡的力量，为未来医院的发展勾勒出一幅全新的蓝图。这不仅关乎医疗技术的进步，更是一场对健康管理理念和生命质量提升的系统重构。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>在当今医疗健康领域，一场静默却深刻的变革正悄然兴起。传统医疗模式逐渐暴露出局限性，而功能医学与长寿医学的融合，如同两股强大的洪流，汇聚成一股不可阻挡的力量，为未来医院的发展勾勒出一幅全新的蓝图。这不仅关乎医疗技术的进步，更是一场对健康管理理念和生命质量提升的系统重构。</p>
 <h3>一、功能医学：打破碎片化，还原个体健康真相</h3>
 <p>功能医学的独特力量，在于它敢于戳破传统医疗中「一刀切」的幻觉。在传统观念里，人们往往将健康简化为一系列碎片化的指标，血压、血糖、血脂等数值成了衡量健康的唯一标尺。然而，功能医学告诉我们，每个人的身体都是一个独一无二的复杂网络，受到遗传、环境、生活方式、心理状态等多重因素的交织影响。</p>
 <p>想象一下，两个人可能有着相似的血压和血糖数值，但一个长期处于高压工作状态、饮食不规律，另一个则过着轻松自在、饮食均衡的生活。从功能医学的角度看，他们的健康状况有着本质的差异。功能医学强调个体化调查和深度剖析，通过详细的问诊、全面的检测以及综合的分析，挖掘隐藏在表面指标背后的真正病因。</p>
@@ -2025,7 +2025,7 @@ export const articles: KnowledgeArticle[] = [
 <p>未来医院将为患者提供从预防保健到疾病治疗、从康复护理到衰老管理的闭环服务，并与社区、家庭医生、科研机构建立合作网络。在这个生态中，患者不再是被动接受治疗的对象，而是健康管理的主动参与者：通过可穿戴设备与远程沟通，医生可及时调整方案，实现更个性化的精准医疗。</p>
 <h3>结语</h3>
 <p>功能医学与长寿医学的合流，为未来医院的发展带来了新的可能。它们将引领健康产业走向更加个性化、精准化、整体化的方向。真正的健康长寿，需要把「今天的功能」和「明天的寿命」放在同一张蓝图上。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>A quiet shift is underway in healthcare. The limits of a purely disease-centred model are clearer; functional medicine and longevity medicine, flowing together, sketch a different hospital — not only a place that treats illness, but a centre that reconstructs how health is understood across a lifetime.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>A quiet shift is underway in healthcare. The limits of a purely disease-centred model are clearer; functional medicine and longevity medicine, flowing together, sketch a different hospital — not only a place that treats illness, but a centre that reconstructs how health is understood across a lifetime.</p>
 <h3>1. Functional medicine: putting the fragments back together</h3>
 <p>Functional medicine challenges the “one-size-fits-all” habit of reducing health to a stack of numbers — blood pressure, glucose, lipids. Each body is a network shaped by genetics, environment, lifestyle and psychology. Two people with similar lab values can live in entirely different physiological realities if one is chronically stressed and eating irregularly while the other is not.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-18-2.jpg" alt="Functional medicine emphasises individual assessment" /></figure>
@@ -2042,7 +2042,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-18-5.png" alt="The future hospital as a lifelong health hub" /></figure>
 <h3>Conclusion</h3>
 <p>The confluence of functional and longevity medicine is a chance to redesign the hospital around personalised, precise, whole-person care — putting today’s function and tomorrow’s lifespan on the same map.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "51",
@@ -2087,7 +2087,7 @@ export const articles: KnowledgeArticle[] = [
 <p>目前，我們仍不完全清楚調控衰老的全部機制，也不知道如何將這些發現轉化為適用於人類的干預措施。這是最根本的挑戰。布魯內特實驗室專注於基礎研究，特別期待能夠持續觀測動物從生到死的完整動態過程，而非只在不同時間點「拍照」。通過全景式地捕捉衰老如何實時展開，或許能發現曾被忽略的新生命階段，或找到關鍵干預點。壽命壓縮的鱂魚，正是實現這種「生命動態錄像」的理想模型。</p>
 <h3>結語</h3>
 <p>雖然這一切尚在早期，但布魯內特教授相信，衰老的動態過程本身——即它是如何實時上演的——是該領域最值得深入探索的前沿之一。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>衰老是每个人的必经之路，但我们真的了解身体在时光中究竟发生了什么变化吗？这种普遍而又不可避免的体验，为何如此神秘？</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>衰老是每个人的必经之路，但我们真的了解身体在时光中究竟发生了什么变化吗？这种普遍而又不可避免的体验，为何如此神秘？</p>
 <p>不久前，斯坦福大学医学院的安妮·布鲁内特教授接受采访，深入探讨了衰老的科学。作为遗传学教授，她领导的实验室专注于揭示衰老与长寿的分子机制，甚至因将短寿命的非洲鳉鱼打造成衰老研究的新模型而闻名。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-19-2.png" alt="安妮·布鲁内特谈衰老科学" /></figure>
 <p>我们与她探讨了几个核心问题：科学如何定义衰老？为何衰老会带来多种疾病？生活方式有多大影响？甚至，「逆转」衰老是否可能？她的回答，为我们揭开了衰老研究的前沿图景。</p>
@@ -2121,7 +2121,7 @@ export const articles: KnowledgeArticle[] = [
 <p>目前，我们仍不完全清楚调控衰老的全部机制，也不知道如何将这些发现转化为适用于人类的干预措施。这是最根本的挑战。布鲁内特实验室专注于基础研究，特别期待能够持续观测动物从生到死的完整动态过程，而非只在不同时间点「拍照」。通过全景式地捕捉衰老如何实时展开，或许能发现曾被忽略的新生命阶段，或找到关键干预点。寿命压缩的鳉鱼，正是实现这种「生命动态录像」的理想模型。</p>
 <h3>结语</h3>
 <p>虽然这一切尚在早期，但布鲁内特教授相信，衰老的动态过程本身——即它是如何实时上演的——是该领域最值得深入探索的前沿之一。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Ageing is universal — and still poorly understood. What actually changes in the body as time passes?</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Ageing is universal — and still poorly understood. What actually changes in the body as time passes?</p>
 <p>Anne Brunet, professor of genetics at Stanford University School of Medicine, has spent her career on the molecular biology of ageing and longevity, including establishing the short-lived African turquoise killifish as a model. In a recent interview she took up the questions that matter: how science defines ageing, why it seeds so many diseases, how far lifestyle can move the needle, and whether “reversal” is even a coherent idea.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-19-2.png" alt="Anne Brunet on the science of ageing" /></figure>
 <h3>1. What ageing is: decline on many levels</h3>
@@ -2141,7 +2141,7 @@ export const articles: KnowledgeArticle[] = [
 <p>We still do not know all the mechanisms, nor how to turn them into human interventions. Brunet’s group wants a continuous film of a life, not snapshots — to see ageing unfold in real time and find stages and leverage points that still photographs miss. The compressed killifish lifespan is built for that film.</p>
 <h3>Conclusion</h3>
 <p>The work is early. Brunet’s bet is that the dynamics of ageing — how it actually plays out in time — is one of the frontiers most worth watching.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "52",
@@ -2164,7 +2164,7 @@ export const articles: KnowledgeArticle[] = [
 <p>治未病基於中醫理論，通過中藥、針灸等手段預防疾病。長壽醫學以細胞衰老理論、端粒學説等分子機制為基礎，整合多組學檢測、再生醫學、衰老細胞清除等技術以評估和延緩衰老。</p>
 <h3>結語</h3>
 <p>總的來看，長壽醫學的特點在於將「衰老」作為獨立的干預對象，其對衰老過程進行精準評估和系統性干預的能力是其他學科難以替代的。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>从疾病治疗到衰老管理：长寿医学的核心，在于把「项目式销售」升级为数据驱动的全周期健康管理，通过精准评估和持续干预，延长高质量的生命年限。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>从疾病治疗到衰老管理：长寿医学的核心，在于把「项目式销售」升级为数据驱动的全周期健康管理，通过精准评估和持续干预，延长高质量的生命年限。</p>
 <p>「仅延长寿命长度」的时代已经过去。如何延长「健康跨度」（Healthspan）——即人能保持功能、独立生活的那些年——已成为老龄化社会最迫切的议题之一。这一转变催生了对传统以疾病治疗为中心的医疗模式进行反思，也推动了衰老管理与长寿服务的需求：市场要的是可评估、可跟进、可个体化的全程管理，而不是一次性项目。</p>
 <p>人口结构老化、健康消费从「被动治疗」转向「主动抗衰」，使长寿医学与邻近学科的边界愈发需要厘清。下面从干预时机、认知深度与技术手段三方面，说明它与老年病诊疗、医美抗衰及治未病路径的分别。</p>
 <h3>一、与老年病诊疗：核心逻辑与干预时机不同</h3>
@@ -2176,7 +2176,7 @@ export const articles: KnowledgeArticle[] = [
 <p>治未病基于中医理论，通过中药、针灸等手段预防疾病。长寿医学以细胞衰老理论、端粒学说等分子机制为基础，整合多组学检测、再生医学、衰老细胞清除等技术以评估和延缓衰老。</p>
 <h3>结语</h3>
 <p>总的来看，长寿医学的特点在于将「衰老」作为独立的干预对象，其对衰老过程进行精准评估和系统性干预的能力是其他学科难以替代的。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>From treating disease to managing ageing: longevity medicine’s core move is to upgrade one-off “project sales” into data-driven, whole-cycle care — assess precisely, intervene continuously, and lengthen years lived in good function.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>From treating disease to managing ageing: longevity medicine’s core move is to upgrade one-off “project sales” into data-driven, whole-cycle care — assess precisely, intervene continuously, and lengthen years lived in good function.</p>
 <p>The era of “add years to life and stop there” is over. Extending healthspan — the years a person can keep function and live independently — is now among the most urgent questions in an ageing society. That shift forces a rethink of disease-centred care and pulls demand toward ageing management: services that can be measured, followed and individualised, not a single transaction.</p>
 <p>Demographic ageing and a turn from passive treatment to active anti-ageing also make the borders with neighbouring fields worth drawing clearly. The three contrasts below — timing, depth, and tools — set longevity medicine apart from geriatric care, aesthetic anti-ageing, and preventive traditional-medicine paths.</p>
 <h3>1. Versus geriatric care: different logic, different timing</h3>
@@ -2188,7 +2188,7 @@ export const articles: KnowledgeArticle[] = [
 <p>Preventive traditional Chinese medicine rests on herbal medicine, acupuncture and a classical theory of preventing disease. Longevity medicine starts from molecular accounts of cell ageing and telomeres, and draws on multi-omics, regenerative medicine and senescent-cell clearance to measure and slow ageing.</p>
 <h3>Conclusion</h3>
 <p>What sets the field apart is treating ageing as an object in its own right — with an ability to assess and intervene on the process that neighbouring disciplines cannot simply substitute.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "53",
@@ -2219,7 +2219,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>微生物組與免疫調節。</strong>隨年齡增長，腸道菌羣多樣性下降、微生態失衡，與慢性低度炎症、免疫衰老及多種年齡相關疾病密切相關（O'Toole &amp; Jeffery, 2015）。基礎策略包括：高纖維多樣化植物性飲食以增加短鏈脂肪酸；靶向益生菌與益生元；發酵食品與多酚類化合物；以及規律作息、運動與壓力管理，通過神經-免疫-微生物組軸間接改善腸道生態。</p>
 <h3>結語</h3>
 <p>功能醫學作為一種新的醫學思維模式，強調整體觀念和個體差異，為慢性病的管理和預防提供了新的思路。它不僅關注疾病本身，更注重人體的整體健康和平衡，從而與長壽醫學所追求的健康壽命對齊。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>随着全球老龄化步伐加快，如何在延长寿命的同时提升健康寿命（healthy longevity）已成为当代医学的重要使命。长寿医学聚焦延缓衰老、保持功能和优化健康状态，而功能医学则为实现这些目标提供了系统性的理论基础与可行的干预手段。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>随着全球老龄化步伐加快，如何在延长寿命的同时提升健康寿命（healthy longevity）已成为当代医学的重要使命。长寿医学聚焦延缓衰老、保持功能和优化健康状态，而功能医学则为实现这些目标提供了系统性的理论基础与可行的干预手段。</p>
 <p>在临床应用中，功能医学依托代谢组学、微生物组学、荷尔蒙分析及氧化应激检测等技术，对衰老相关功能下降进行可量化的评估与管理。</p>
 <h3>一、功能医学的基本理论框架</h3>
 <p>功能医学强调「根本原因优先」而非「症状控制优先」的干预路径。其核心理念在于通过整合生理、代谢、营养、环境等多维数据，揭示个体功能失衡的本质机制，并提供以生活方式和营养调节为核心的精准干预方案。</p>
@@ -2239,7 +2239,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>微生物组与免疫调节。</strong>随年龄增长，肠道菌群多样性下降、微生态失衡，与慢性低度炎症、免疫衰老及多种年龄相关疾病密切相关（O'Toole &amp; Jeffery, 2015）。基础策略包括：高纤维多样化植物性饮食以增加短链脂肪酸；靶向益生菌与益生元；发酵食品与多酚类化合物；以及规律作息、运动与压力管理，通过神经-免疫-微生物组轴间接改善肠道生态。</p>
 <h3>结语</h3>
 <p>功能医学作为一种新的医学思维模式，强调整体观念和个体差异，为慢性病的管理和预防提供了新的思路。它不仅关注疾病本身，更注重人体的整体健康和平衡，从而与长寿医学所追求的健康寿命对齐。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>As populations age, adding years is not enough — those years need function. Longevity medicine aims to slow ageing and keep capacity; functional medicine supplies a systems frame and tools that can be measured.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>As populations age, adding years is not enough — those years need function. Longevity medicine aims to slow ageing and keep capacity; functional medicine supplies a systems frame and tools that can be measured.</p>
 <p>In clinic that means metabolomics, the microbiome, hormone panels and oxidative-stress markers used to quantify functional decline tied to ageing.</p>
 <h3>1. The frame: root cause before symptom control</h3>
 <p>Functional medicine integrates physiology, metabolism, nutrition and environment to find why a network is off, then intervenes mainly through lifestyle and nutrients. It maps seven networks: energy metabolism; detoxification and defence; hormone and neural regulation; digestion and absorption; transport and circulation; structural integrity; immune and inflammatory tone. A functional timeline takes early-life events seriously. A matrix then matches imbalance to a plan — close to what longevity medicine is trying to do.</p>
@@ -2254,7 +2254,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>The microbiome.</strong> Diversity falls with age; dysbiosis tracks inflammaging and immunosenescence (O'Toole &amp; Jeffery, 2015). Fibre-rich plant diversity, targeted probiotics/prebiotics, fermented foods and polyphenols, plus sleep, movement and stress care via the neuro-immune-microbiome axis.</p>
 <h3>Conclusion</h3>
 <p>The mindset is whole-person and individual. That is how chronic-disease prevention and the pursuit of healthspan can sit on the same map.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "54",
@@ -2299,7 +2299,7 @@ export const articles: KnowledgeArticle[] = [
 <p><em>Cell Metabolism</em>（2025）研究報道，MSC 治療後老年模型呈現：肝臟 NAD+/NADH 比值提升約 46%；血糖及血脂譜顯著改善；運動耐力恢復至年輕對照組水平。</p>
 <h3>結語</h3>
 <p>幹細胞療法正實現從基礎研究到臨牀轉化的跨越，通過多靶點、多維度作用機制，展現出傳統抗衰手段難以比擬的全局性優勢。隨着證據積累和方案優化，它正在重新定義對抗衰老的醫學範式，為延長健康壽命提供一條仍在驗證中、但前景明確的干預路徑。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>国际顶级期刊 <em>Cell</em> 发布综述《From geroscience to precision geromedicine: Understanding and managing aging（从老年科学到精准老年医学：理解和管理老龄化）》，宣布将衰老的生物学标志从 12 个增至 14 个。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>国际顶级期刊 <em>Cell</em> 发布综述《From geroscience to precision geromedicine: Understanding and managing aging（从老年科学到精准老年医学：理解和管理老龄化）》，宣布将衰老的生物学标志从 12 个增至 14 个。</p>
 <p>这些生物学标志，代表着人类衰老的密码，也是前沿抗衰医学「逆转时光」的重要靶点。14 项靶点中众多都与细胞健康有关，其中最关键的莫过于干细胞衰竭、炎症、细胞代谢这三大核心。</p>
 <h3>一、干细胞耗竭</h3>
 <p>《Cell》将「干细胞耗竭」定义为衰老的核心病理机制。机体干细胞群（包括造血干细胞、间充质干细胞、神经干细胞等）构成组织修复系统，随年龄增长呈现数量级衰减（新生儿约 6×10<sup>9</sup> 个，25 岁降至 1×10<sup>9</sup> 个，50 岁低于 3×10<sup>8</sup> 个）及功能衰退（增殖潜能降低、分化能力减弱、应激反应迟钝）。</p>
@@ -2333,7 +2333,7 @@ export const articles: KnowledgeArticle[] = [
 <p><em>Cell Metabolism</em>（2025）研究报道，MSC 治疗后老年模型呈现：肝脏 NAD+/NADH 比值提升约 46%；血糖及血脂谱显著改善；运动耐力恢复至年轻对照组水平。</p>
 <h3>结语</h3>
 <p>干细胞疗法正实现从基础研究到临床转化的跨越，通过多靶点、多维度作用机制，展现出传统抗衰手段难以比拟的全局性优势。随着证据积累和方案优化，它正在重新定义对抗衰老的医学范式，为延长健康寿命提供一条仍在验证中、但前景明确的干预路径。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>A <em>Cell</em> review — “From geroscience to precision geromedicine: Understanding and managing aging” — expands the biological hallmarks of ageing from 12 to 14. Many of those hallmarks are cellular. Three sit at the centre of the cell-health story: stem-cell exhaustion, inflammation, and metabolism.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>A <em>Cell</em> review — “From geroscience to precision geromedicine: Understanding and managing aging” — expands the biological hallmarks of ageing from 12 to 14. Many of those hallmarks are cellular. Three sit at the centre of the cell-health story: stem-cell exhaustion, inflammation, and metabolism.</p>
 <h3>1. Stem-cell exhaustion</h3>
 <p><em>Cell</em> treats exhaustion of the stem-cell pool (haematopoietic, mesenchymal, neural and others) as core pathology. Numbers fall by orders of magnitude — on the order of 6×10<sup>9</sup> at birth, about 1×10<sup>9</sup> at 25, under 3×10<sup>8</sup> by 50 — while proliferative potential, differentiation and stress responses dull.</p>
 <p>Exogenous cell therapy is framed as three moves: restore numbers, improve the niche, and wake endogenous repair — reinforcing the “repair crew”. MSCs can take part in muscle, liver and skin repair; in aged models, blood-system reconstitution has been reported about 40% more efficient, with muscle histology nearer a young state.</p>
@@ -2347,7 +2347,7 @@ export const articles: KnowledgeArticle[] = [
 <p>A 2025 <em>Cell Metabolism</em> report described aged models after MSC treatment with about a 46% rise in hepatic NAD+/NADH, improved glucose and lipid profiles, and exercise endurance returning toward young controls.</p>
 <h3>Conclusion</h3>
 <p>The leap from bench to clinic is still being made. The claimed advantage is multi-target and system-wide — a path to healthspan that remains under evaluation, but is no longer a side note in geroscience.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "55",
@@ -2377,7 +2377,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-23-5.png" alt="從對抗症狀轉向提升修復能力" /></figure>
 <h3>結語</h3>
 <p>中年之後，拼的是恢復效率：二十歲拼體力，四十歲拼恢復力。同樣強度的工作，有人兩天恢復，有人一週緩不過來。差距往往不在年齡，而在恢復系統是否順暢。年齡只是時間記錄；恢復力，才是健康的底盤。當睡眠更深、炎症更低、能量更穩、循環更順，身體自然會回到它應有的修復節奏。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>很多人到了四十岁后都会有一种明显感受：熬个夜要缓两三天，运动后酸痛迟迟不退，小伤口结痂慢、掉痂更慢。我们习惯把这些归因于「年纪大了」。但从医学角度看，真正决定状态的，未必是年龄，而是一个更底层的能力——恢复力。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>很多人到了四十岁后都会有一种明显感受：熬个夜要缓两三天，运动后酸痛迟迟不退，小伤口结痂慢、掉痂更慢。我们习惯把这些归因于「年纪大了」。但从医学角度看，真正决定状态的，未必是年龄，而是一个更底层的能力——恢复力。</p>
 <h3>一、恢复力，才是身体真正的底盘</h3>
 <p>恢复力，是身体在受到压力或损伤后，修复组织、重建平衡的能力。年轻时系统运转高效，我们几乎感觉不到它的存在。一旦恢复力下降，就会出现各种「慢半拍」——疲劳拖尾、炎症不退、愈合变慢。很多中年人并没有确诊疾病，却长期处在亚健康状态，本质上就是恢复系统效率下降。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-23-2.png" alt="恢复力下降的日常信号" /></figure>
@@ -2396,7 +2396,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-23-5.png" alt="从对抗症状转向提升修复能力" /></figure>
 <h3>结语</h3>
 <p>中年之后，拼的是恢复效率：二十岁拼体力，四十岁拼恢复力。同样强度的工作，有人两天恢复，有人一周缓不过来。差距往往不在年龄，而在恢复系统是否顺畅。年龄只是时间记录；恢复力，才是健康的底盘。当睡眠更深、炎症更低、能量更稳、循环更顺，身体自然会回到它应有的修复节奏。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>After forty a pattern is familiar: a late night costs two or three days; muscle ache lingers; a small cut crusts slowly. We blame age. Clinically, what often decides the state is a more basic capacity — recovery: the ability to repair tissue and restore balance after stress or injury.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>After forty a pattern is familiar: a late night costs two or three days; muscle ache lingers; a small cut crusts slowly. We blame age. Clinically, what often decides the state is a more basic capacity — recovery: the ability to repair tissue and restore balance after stress or injury.</p>
 <h3>1. Recovery is the chassis</h3>
 <p>When young, the system is efficient enough to be invisible. When it slows, everything runs half a beat behind — fatigue that tails off late, inflammation that will not settle, healing that drags. Many people in midlife have no named disease and still live in that lag: the recovery system has lost efficiency.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-23-2.png" alt="Everyday signs of falling recovery" /></figure>
@@ -2415,7 +2415,7 @@ export const articles: KnowledgeArticle[] = [
 <figure class="article-fig"><img src="/images/knowledge/longevity-23-5.png" alt="From fighting symptoms to raising repair capacity" /></figure>
 <h3>Conclusion</h3>
 <p>The twenties spend stamina; the forties spend recovery. Same workload, two-day rebound versus a week — the gap is often the recovery system, not the calendar. Age records time. Recovery is the chassis. Deeper sleep, lower inflammation, steadier energy, smoother circulation: the body returns to the rhythm it already knows.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "56",
@@ -2442,7 +2442,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>3. 長期陪伴與追蹤：</strong>長壽醫學不是一次性治療，而是月度跟蹤、持續調整、一年一度的複評，科學對比「老化速度的改變」。較為理想的結果是生理年齡或衰老速率出現可測量的下降——這正是長壽醫學最直觀的價值體現。</p>
 <h3>結語</h3>
 <p>長壽醫學不只是延長生命，而是延長「年輕的生命」「健康的生命」。現代長壽醫學告訴我們：衰老可定義、可測量；器官組織功能可改善；全身健康狀態可以成為一項被管理的技能。如果説過去醫療的目標是「治病」，未來醫療的目標將是——讓人更持久地維持功能、更優品質地活着。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<h3>一、健康维护的「四大法则」</h3>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<h3>一、健康维护的「四大法则」</h3>
 <p><strong>法则 1：核心系统——神经免疫、内分泌代谢的长寿中枢。</strong>大脑年轻确实与寿命更长密切相关。2025 年 7 月，美国斯坦福大学研究人员在 <em>Nature Medicine</em> 发表一项覆盖约 4.5 万人的研究：大脑和免疫系统保持「年轻态」，能将死亡风险大幅降低 56%。具体来说，大脑「年轻」可使死亡风险下降约 40%，免疫系统「年轻」可使死亡风险下降约 42%。</p>
 <p>大脑之所以对寿命有显著影响，是因为它是人体的「司令部」。脑干里藏着呼吸循环中枢；下丘脑-垂体-肾上腺轴协调压力反应，同时调节新陈代谢、免疫、心血管与生殖等功能。脑还能通过神经内分泌和自主神经系统，调节与年龄相关的机体功能，包括昼夜节律、能量稳态、慢性炎症——这些都是和衰老密切相关的因素。它反映出身体全系统的调控能力，被称为年轻状态的「总控台」。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-24-2.png" alt="大脑与免疫系统的「年轻态」" /></figure>
@@ -2458,7 +2458,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>3. 长期陪伴与追踪：</strong>长寿医学不是一次性治疗，而是月度跟踪、持续调整、一年一度的复评，科学对比「老化速度的改变」。较为理想的结果是生理年龄或衰老速率出现可测量的下降——这正是长寿医学最直观的价值体现。</p>
 <h3>结语</h3>
 <p>长寿医学不只是延长生命，而是延长「年轻的生命」「健康的生命」。现代长寿医学告诉我们：衰老可定义、可测量；器官组织功能可改善；全身健康状态可以成为一项被管理的技能。如果说过去医疗的目标是「治病」，未来医疗的目标将是——让人更持久地维持功能、更优品质地活着。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<h3>1. Four rules of upkeep</h3>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<h3>1. Four rules of upkeep</h3>
 <p><strong>Rule 1 — the core: neuro-immune and endocrine-metabolic control.</strong> A younger brain really does track longer life. In July 2025 Stanford researchers reported in <em>Nature Medicine</em> on about 45,000 people: a “young” brain and immune system together were linked to about 56% lower death risk (about 40% for the brain, about 42% for the immune system). The brain is the command post — brainstem circuits for breathing and circulation; the HPA axis for stress, metabolism, immunity, heart and reproduction; neuroendocrine and autonomic control of circadian rhythm, energy balance and chronic inflammation. It is the console of a youthful state.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-24-2.png" alt="A “young” brain and immune system" /></figure>
 <p><strong>Rule 2 — the gut as engine.</strong> Work in <em>Nature</em> found centenarians enriched for a distinctive flora that makes unusual bile acids, which may restrain gut pathogens. Honda’s group at Keio compared 160 centenarians, 112 people aged 85–89 and 47 aged 21–55, and found those bile-acid pathways richer in the oldest. Beneficial species dominate in long-lived guts; poor diet unbalances them. Bifidobacteria have been reported on the order of 100-fold higher in centenarians than in ordinary older adults, and about 50-fold higher in healthy older adults than in those who are ill. Gut age tracks health.</p>
@@ -2472,7 +2472,7 @@ export const articles: KnowledgeArticle[] = [
 <p><strong>3. Follow-up:</strong> not a single procedure but monthly tracking, adjustments, and a yearly re-score of how fast ageing is running. The clearest value is a measurable change in biological age or pace.</p>
 <h3>Conclusion</h3>
 <p>The aim is not only more years, but more years that still feel young and work. Ageing can be defined and measured; function can be improved; staying well can be a managed skill. If yesterday’s medicine treated disease, tomorrow’s keeps people in function, for longer, at a higher quality of life.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "57",
@@ -2507,7 +2507,7 @@ export const articles: KnowledgeArticle[] = [
 <p>2024 年發布的一份老年醫學專家共識指出：「幹細胞治療被認為是一種補充再生細胞的有效方法。臨牀試驗結果顯示，老年衰弱患者注射幹細胞後，某些症狀得到改善，炎症標誌物水平有所下降。」也就是説，衰老不再必須被寫成「不可逆」；幹細胞療法也正在改寫「衰老必然伴隨疾病」的舊劇本。</p>
 <h3>結語</h3>
 <p>正如美國生物學家 George Daley 所説：「如果 20 世紀是藥物治療的時代，那麼 21 世紀將是細胞治療的時代。」當我們能夠更穩定地保持再生修復能力，長壽便不只是多活幾年，而是多一段仍有力量的生命。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>过去一个世纪，全球人均预期寿命显著延长，许多地区同时经历快速老龄化：65 岁及以上人口比例持续上升，社会对医疗、照护与长期健康的需求随之增加。这一结构性转变，使「如何延长健康跨度而不只是寿命长度」成为公共健康与个人规划的共同议题。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>过去一个世纪，全球人均预期寿命显著延长，许多地区同时经历快速老龄化：65 岁及以上人口比例持续上升，社会对医疗、照护与长期健康的需求随之增加。这一结构性转变，使「如何延长健康跨度而不只是寿命长度」成为公共健康与个人规划的共同议题。</p>
 <p>老龄化压力的另一面，是各年龄段人群对抗衰防病和长寿的关注度上升。如今不仅老年人关注健康和长寿，越来越多中青年也开始提前规划，提高「健康预期寿命」。</p>
 <h3>一、长寿医学：大健康行业的新引擎</h3>
 <p>普华永道旗下 Strategy&amp; 的报告阐述，长寿和抗衰老疗法的总价值在 2020 年为 251 亿美元，到 2030 年将达 442 亿美元，复合年增长率约 6.1%。考虑到衰老被认为是许多慢性疾病的根本原因，有机构在 2024 年初预测，到 2032 年，全球生物技术市场与长寿诊所模式的融合发展规模可达数万亿美元量级。</p>
@@ -2532,7 +2532,7 @@ export const articles: KnowledgeArticle[] = [
 <p>2024 年发布的一份老年医学专家共识指出：「干细胞治疗被认为是一种补充再生细胞的有效方法。临床试验结果显示，老年衰弱患者注射干细胞后，某些症状得到改善，炎症标志物水平有所下降。」也就是说，衰老不再必须被写成「不可逆」；干细胞疗法也正在改写「衰老必然伴随疾病」的旧剧本。</p>
 <h3>结语</h3>
 <p>正如美国生物学家 George Daley 所说：「如果 20 世纪是药物治疗的时代，那么 21 世纪将是细胞治疗的时代。」当我们能够更稳定地保持再生修复能力，长寿便不只是多活几年，而是多一段仍有力量的生命。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Over the past century, life expectancy has risen sharply in much of the world, and many societies are ageing fast: the share of people 65 and older keeps climbing, along with demand for care and long-term health. That structural shift makes healthspan — not just lifespan — a shared question for public health and personal planning.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Over the past century, life expectancy has risen sharply in much of the world, and many societies are ageing fast: the share of people 65 and older keeps climbing, along with demand for care and long-term health. That structural shift makes healthspan — not just lifespan — a shared question for public health and personal planning.</p>
 <p>On the other side of that pressure is rising interest in anti-ageing and longevity across age groups — not only among older adults, but increasingly among people in mid-career planning for health expectancy.</p>
 <h3>1. A new engine in health</h3>
 <p>Strategy&amp; (PwC) put the longevity and anti-ageing therapy market at USD 25.1 billion in 2020 and USD 44.2 billion by 2030 (about 6.1% CAGR). Because ageing sits under so many chronic diseases, some 2024 forecasts put the blend of biotech and longevity-clinic models in the trillions by 2032. Capital has followed: Calico; Altos Labs. Longevity medicine is no longer a niche slogan.</p>
@@ -2555,7 +2555,7 @@ export const articles: KnowledgeArticle[] = [
 <p>A 2024 geriatric expert consensus on drug interventions to delay ageing states that stem-cell treatment is considered an effective way to supplement regenerative cells, and that trials in older people with frailty have shown improvement in some symptoms and in inflammatory markers. Ageing need not be written as strictly irreversible; “ageing must mean disease” is the script being rewritten.</p>
 <h3>Conclusion</h3>
 <p>George Daley’s line still holds: if the twentieth century was the era of drugs, the twenty-first is the era of cells. Stable repair capacity is what turns extra years into extra years that still have strength.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "58",
@@ -2595,7 +2595,7 @@ export const articles: KnowledgeArticle[] = [
 <li><strong>長壽醫學</strong>：提前干預衰老，拉長健康壽命。</li>
 </ul>
 <p>四種醫學各有定位、互不替代。看懂區別，才能根據自己年齡和身體狀態，選對適合自己的健康管理方式。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>当下很多人分不清临床医学、功能医学、再生医学、长寿医学到底差在哪。其实四者不是并列关系，而是从治病→调失衡→修损伤→抗衰延寿的层层进阶，关注阶段、核心目标、干预逻辑完全不一样。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>当下很多人分不清临床医学、功能医学、再生医学、长寿医学到底差在哪。其实四者不是并列关系，而是从治病→调失衡→修损伤→抗衰延寿的层层进阶，关注阶段、核心目标、干预逻辑完全不一样。</p>
 <h3>一、临床医学：治已病，救火式医疗</h3>
 <p>这是我们最熟悉、最基础的现代医学。核心只聚焦已经发生的疾病，高血压、糖尿病、肿瘤、炎症、感冒发烧都归它管。</p>
 <p>逻辑很简单：先检查确诊，抽血、CT、仪器排查，找出病灶；再靠药物、手术、放疗等方式，控制病情、消除症状、挽救生命。</p>
@@ -2624,7 +2624,7 @@ export const articles: KnowledgeArticle[] = [
 <li><strong>长寿医学</strong>：提前干预衰老，拉长健康寿命。</li>
 </ul>
 <p>四种医学各有定位、互不替代。看懂区别，才能根据自己年龄和身体状态，选对适合自己的健康管理方式。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Clinical, functional, regenerative and longevity medicine are often lined up as if they were four brands of the same product. They are not. They stack: treat what has already gone wrong → rebalance function before it becomes a diagnosis → repair tissue that will not heal on its own → slow ageing so that healthspan, not only lifespan, stretches.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Clinical, functional, regenerative and longevity medicine are often lined up as if they were four brands of the same product. They are not. They stack: treat what has already gone wrong → rebalance function before it becomes a diagnosis → repair tissue that will not heal on its own → slow ageing so that healthspan, not only lifespan, stretches.</p>
 <h3>1. Clinical medicine: putting out fires</h3>
 <p>This is the medicine most people know. It focuses on disease that has already declared itself — hypertension, diabetes, cancer, infection. Diagnose (blood, imaging), then drugs, surgery or radiotherapy to control, relieve and, when needed, save a life.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-26-2.jpg" alt="Clinical medicine focuses on disease that has already appeared" /></figure>
@@ -2649,7 +2649,7 @@ export const articles: KnowledgeArticle[] = [
 <li><strong>Longevity</strong> — intervene on ageing early, to lengthen healthspan.</li>
 </ul>
 <p>None replaces the others. The useful question is which layer matches your age and your state now.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "59",
@@ -2689,7 +2689,7 @@ export const articles: KnowledgeArticle[] = [
 <li>Eckel-Mahan K, Sassone-Corsi P. NAD+ drives circadian reprogramming in the aging heart. <em>Nature</em>, 2026.</li>
 <li>López-Otín C, et al. Hallmarks of aging: An expanding universe. <em>Cell</em>, 2025.</li>
 </ol>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>你是否想过，有没有一种血液检测，能像查血糖一样准确测出你的真实衰老程度？</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>你是否想过，有没有一种血液检测，能像查血糖一样准确测出你的真实衰老程度？</p>
 <p>近年来，随着各种「抗衰」补剂的爆火，很多人开始盯着自己身体的 NAD+ 数值波动，希望用一串精准的数据来抓住青春流逝的尾巴。「NAD+ 会随年龄下降」的说法听起来特别具有说服力——既然是系统性地减少，那么只要补回来，不就能延缓衰老吗？这个逻辑听起来似乎天衣无缝，但科学界给出的答案远比想象的复杂。</p>
 <h3>一、从「凭感觉」到「看数据」，衰老真的能测量了吗？</h3>
 <p>不管是通过面部 AI 测肤，还是抽血检查激素水平，试图「量化」衰老一直是人类的终极梦想。</p>
@@ -2718,7 +2718,7 @@ export const articles: KnowledgeArticle[] = [
 <li>Eckel-Mahan K, Sassone-Corsi P. NAD+ drives circadian reprogramming in the aging heart. <em>Nature</em>, 2026.</li>
 <li>López-Otín C, et al. Hallmarks of aging: An expanding universe. <em>Cell</em>, 2025.</li>
 </ol>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Could a blood test read your true age the way glucose reads diabetes control? NAD+ supplements have made that hope feel close: if the molecule falls with age, putting it back should slow the clock. The biology is less tidy.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Could a blood test read your true age the way glucose reads diabetes control? NAD+ supplements have made that hope feel close: if the molecule falls with age, putting it back should slow the clock. The biology is less tidy.</p>
 <h3>1. Measuring ageing</h3>
 <p>From AI face scores to hormone panels, quantifying ageing is an old wish. NAD+ (nicotinamide adenine dinucleotide) became a star because cells use it for energy metabolism and DNA repair — an engine without fuel. Animal work and models long assumed a systemic fall with age. That story built a large precursor market. A 2026 <em>Nature Metabolism</em> paper cooled the “one tube of blood” version.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-27-2.png" alt="NAD+ and cellular energy metabolism" /></figure>
@@ -2740,7 +2740,7 @@ export const articles: KnowledgeArticle[] = [
 <li>Eckel-Mahan K, Sassone-Corsi P. NAD+ drives circadian reprogramming in the aging heart. <em>Nature</em>, 2026.</li>
 <li>López-Otín C, et al. Hallmarks of aging: An expanding universe. <em>Cell</em>, 2025.</li>
 </ol>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "60",
@@ -2767,7 +2767,7 @@ export const articles: KnowledgeArticle[] = [
 <p>過去幾十年的研究和實踐表明，現代生物醫學技術和方法能夠主動干預衰老過程。目標不是讓長壽成為少數人的特權，而是降低因衰老而患病的死亡率和發病率，讓健康長壽有機會成為更普遍的結果。</p>
 <h3>結語</h3>
 <p>人類的健康壽命並非由天註定。真正值得追求的，不是口號式的「抗衰」，而是把能夠自理、少受病痛的那些年儘量拉長——從今天就能開始的生活方式，到仍在驗證中的醫學工具。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>人类从出现以来就一直在寻找活得更长久、更健康的办法。对动物的研究结果表明，延缓衰老会影响多种与年龄相关的疾病。仅一个基因改变就能让老鼠更久地保持健康，又能让它活得更久。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>人类从出现以来就一直在寻找活得更长久、更健康的办法。对动物的研究结果表明，延缓衰老会影响多种与年龄相关的疾病。仅一个基因改变就能让老鼠更久地保持健康，又能让它活得更久。</p>
 <p>人显然更复杂，但人类的数据同样具有启发性。活到 100 岁的人要比寿命短的人晚几十年患上典型的衰老疾病——心脏病、癌症和痴呆症等。他们受病痛折磨的时间不会那么久，给医疗保健系统造成的负担也小得多。</p>
 <p>研究衰老生物学的科学家希望让更多人像那些百岁老人一样。根据世界经济论坛的数据，全球已有数十万名百岁及以上的老人。然而，对衰老生物学真正感兴趣的科学家，反而专注于延长他们所说的「健康寿命」，即人们可以在自理的状态下生活的时间。</p>
 <p>美国华盛顿大学生物老年病学家马特·克贝尔莱因说：「几乎任何人都可以从现在开始做一些事情，让自己走上更好的健康长寿轨道。」</p>
@@ -2783,7 +2783,7 @@ export const articles: KnowledgeArticle[] = [
 <p>过去几十年的研究和实践表明，现代生物医学技术和方法能够主动干预衰老过程。目标不是让长寿成为少数人的特权，而是降低因衰老而患病的死亡率和发病率，让健康长寿有机会成为更普遍的结果。</p>
 <h3>结语</h3>
 <p>人类的健康寿命并非由天注定。真正值得追求的，不是口号式的「抗衰」，而是把能够自理、少受病痛的那些年尽量拉长——从今天就能开始的生活方式，到仍在验证中的医学工具。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>People have always wanted more years, and better ones. In animals, slowing ageing moves a cluster of age-related diseases. A single gene change can keep a mouse healthier for longer and also let it live longer.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>People have always wanted more years, and better ones. In animals, slowing ageing moves a cluster of age-related diseases. A single gene change can keep a mouse healthier for longer and also let it live longer.</p>
 <p>Humans are more complicated, but the pattern still teaches. People who reach 100 tend to meet heart disease, cancer and dementia decades later than those who die younger. They spend less time unwell, and they weigh less on health systems. Scientists in ageing biology want more lives to look like that. The number of centenarians worldwide is already in the hundreds of thousands. The target that actually interests the field is healthspan: years lived able to look after yourself.</p>
 <p>Matt Kaeberlein, a biogerontologist at the University of Washington, puts it plainly: almost anyone can start now on a better track.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-28-2.jpg" alt="Healthspan: years lived independently" /></figure>
@@ -2796,7 +2796,7 @@ export const articles: KnowledgeArticle[] = [
 <p>Ageing is multifactorial and the largest risk factor for common disease. The arrow runs both ways: organs fail and disease arrives; disease then accelerates ageing and makes recovery harder. Decades of biomedical work show that ageing can be intervened on. The aim is not a privilege for a few, but lower mortality and morbidity from age-related disease — healthspan as a more ordinary outcome.</p>
 <h3>Conclusion</h3>
 <p>Healthspan is not fate. The useful project is not a slogan of “anti-ageing”, but more years of independence and fewer years of illness — starting with what you can do today, plus medical tools still under test.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "61",
@@ -2823,7 +2823,7 @@ export const articles: KnowledgeArticle[] = [
 <p>對普通人而言，更務實的順序是：先把已證實的心血管危險因素管住（血壓、血脂、血糖、吸煙、運動），再把腸道當作同一張健康網裏的一環——而不是把尚未成熟的移植技術，當成可以「逆轉血管年輕態」的捷徑。</p>
 <h3>結語</h3>
 <p>腸道不是與心臟無關的「消化管道」。短鏈脂肪酸、TMAO 和腸黏膜屏障，正在把微生態寫進血管醫學。長壽時代的心血管管理，值得把這一層看進去；但看進去，不等於把研究中的干預寫成已經完成的療法。</p>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>在人体这座精密的生命系统中，藏着一个极易被忽视的核心生态——肠道菌群。数以万亿计的微生物定居于肠道，构成与人体健康深度绑定的微生态系统，也被科学界称为人体「第二基因组」，参与代谢、免疫、炎症调节等多项机能。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>在人体这座精密的生命系统中，藏着一个极易被忽视的核心生态——肠道菌群。数以万亿计的微生物定居于肠道，构成与人体健康深度绑定的微生态系统，也被科学界称为人体「第二基因组」，参与代谢、免疫、炎症调节等多项机能。</p>
 <p>长久以来，大众普遍认为高血压、心梗、动脉粥样硬化等心血管疾病，只与遗传、重油重盐饮食、熬夜久坐等有关。随着研究深入，肠道菌群失衡被越来越多地视为推动心血管疾病发生发展的重要幕后因素之一。大量临床研究提示，肠道微生态紊乱会从代谢、炎症和血管内皮等路径动摇血管健康，成为中老年心血管问题、血管老化的隐形诱因之一。</p>
 <h3>一、菌群失衡：心血管疾病的「隐形导火索」</h3>
 <p>健康的肠道菌群是动态平衡：有益菌与有害菌彼此制约，维系全身代谢与血管稳态。一旦失衡，有害菌占据上风，血管损伤便可能悄然发生，不同心血管问题往往伴随不同的菌群异常特征：</p>
@@ -2839,7 +2839,7 @@ export const articles: KnowledgeArticle[] = [
 <p>对普通人而言，更务实的顺序是：先把已证实的心血管危险因素管住（血压、血脂、血糖、吸烟、运动），再把肠道当作同一张健康网里的一环——而不是把尚未成熟的移植技术，当成可以「逆转血管年轻态」的捷径。</p>
 <h3>结语</h3>
 <p>肠道不是与心脏无关的「消化管道」。短链脂肪酸、TMAO 和肠黏膜屏障，正在把微生态写进血管医学。长寿时代的心血管管理，值得把这一层看进去；但看进去，不等于把研究中的干预写成已经完成的疗法。</p>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Trillions of microbes in the gut form a second genome: metabolism, immunity, inflammatory tone. For a long time, hypertension, infarction and atherosclerosis were told as a story of genes, salt, sitting and sleeplessness. Dysbiosis is now a serious extra chapter. Clinical work keeps linking a disordered gut ecology to blood vessels through metabolites, inflammation and endothelium — a quiet driver of vascular ageing in mid- and later life.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Trillions of microbes in the gut form a second genome: metabolism, immunity, inflammatory tone. For a long time, hypertension, infarction and atherosclerosis were told as a story of genes, salt, sitting and sleeplessness. Dysbiosis is now a serious extra chapter. Clinical work keeps linking a disordered gut ecology to blood vessels through metabolites, inflammation and endothelium — a quiet driver of vascular ageing in mid- and later life.</p>
 <h3>1. How imbalance reaches the vessel wall</h3>
 <p>A healthy flora is a balance. When it breaks:</p>
 <ul>
@@ -2853,7 +2853,7 @@ export const articles: KnowledgeArticle[] = [
 <p>None of that replaces antihypertensives, statins or revascularisation. Matching, personalisation and long-term safety are still open. The practical order for most people is: control the proven risks first (pressure, lipids, glucose, smoking, movement), then treat the gut as one net in the same health map — not as a shortcut that “makes vessels young again”.</p>
 <h3>Conclusion</h3>
 <p>The gut is not a digestion pipe with no line to the heart. SCFAs, TMAO and the mucosal barrier are writing the microbiome into vascular medicine. Longevity-era heart care should read that chapter. Reading it is not the same as declaring an investigational tool a finished therapy.</p>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
   {
     id: "62",
@@ -2898,7 +2898,7 @@ export const articles: KnowledgeArticle[] = [
 <li>Kempermann G, et al. Environmental enrichment, new neurons and the neurobiology of individuality. <em>Nature Reviews Neuroscience</em>, 2018.</li>
 <li>National Institute on Aging. SuperAgers: Resilience and brain health in late life, 2025.</li>
 </ol>
-<p>生命科學與基因技術正在高速發展。本文整理自公開科普資料，僅供參考，不構成醫療建議。如有就醫問題，請諮詢專業醫學人士。</p>`, "zh-CN": `<p>人老了，脑子里的神经元会不会只减不增？这个问题看似简单，却让神经科学家争论了近一个世纪。19 世纪，神经学之父卡哈尔断言——成年后大脑神经元只会逐渐死亡、不可再生，这一判断被写进了全世界的教科书。</p>
+<p>醫療免責聲明：本文內容僅供長壽醫學、生命科學與基因技術相關科普參考，不構成任何診斷、治療或醫療建議。相關領域正在快速發展，本文內容整理自公開科普資料，僅供信息參考，不代表對任何療程、技術或效果的承諾。由於個體情況存在差異，實際療程、效果及潛在風險可能有所不同，具體情況請諮詢專業醫學人士，並以醫生的專業評估與建議為準。</p>`, "zh-CN": `<p>人老了，脑子里的神经元会不会只减不增？这个问题看似简单，却让神经科学家争论了近一个世纪。19 世纪，神经学之父卡哈尔断言——成年后大脑神经元只会逐渐死亡、不可再生，这一判断被写进了全世界的教科书。</p>
 <p>2026 年 2 月 25 日，国际期刊 <em>Nature</em> 发表的一篇论文再次冲击这一百年认知。美国伊利诺伊大学芝加哥分校的 Lazarov 团队借助单细胞测序技术提出：人类成年甚至 80 岁高龄的大脑，海马体中依然能够持续生成新神经元。</p>
 <p>更令人关注的是，某些 80 多岁的「超级老人」，海马体中的未成熟神经元数量约为同龄普通老人的 2 倍，阿尔茨海默病患者则更低。这种神经元新生机制，被看作他们抵抗衰老、维持记忆的核心线索之一。</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-30-2.png" alt="高龄海马体仍可发生神经发生" /></figure>
@@ -2932,7 +2932,7 @@ export const articles: KnowledgeArticle[] = [
 <li>Kempermann G, et al. Environmental enrichment, new neurons and the neurobiology of individuality. <em>Nature Reviews Neuroscience</em>, 2018.</li>
 <li>National Institute on Aging. SuperAgers: Resilience and brain health in late life, 2025.</li>
 </ol>
-<p>生命科学与基因技术正在高速发展。本文整理自公开科普资料，仅供参考，不构成医疗建议。如有就医问题，请咨询专业医学人士。</p>`, en: `<p>Do ageing brains only lose neurons? Cajal said adult neurons die and do not return; textbooks followed. A <em>Nature</em> paper dated 25 February 2026, from Lazarov’s group at the University of Illinois Chicago, used single-cell sequencing to argue that the human hippocampus still makes neurons in adulthood — even at 80.</p>
+<p>医疗免责声明：本文内容仅供长寿医学、生命科学与基因技术相关科普参考，不构成任何诊断、治疗或医疗建议。相关领域正在快速发展，本文内容整理自公开科普资料，仅供信息参考，不代表对任何疗程、技术或效果的承诺。由于个体情况存在差异，实际疗程、效果及潜在风险可能有所不同，具体情况请咨询专业医学人士，并以医生的专业评估与建议为准。</p>`, en: `<p>Do ageing brains only lose neurons? Cajal said adult neurons die and do not return; textbooks followed. A <em>Nature</em> paper dated 25 February 2026, from Lazarov’s group at the University of Illinois Chicago, used single-cell sequencing to argue that the human hippocampus still makes neurons in adulthood — even at 80.</p>
 <p>In some SuperAgers past 80, immature hippocampal neurons were about twice those of typical peers, and still higher against Alzheimer’s disease. Neurogenesis is a candidate for how their memory holds.</p>
 <figure class="article-fig"><img src="/images/knowledge/longevity-30-2.png" alt="Hippocampal neurogenesis can persist into late life" /></figure>
 <h3>1. Half a century of argument</h3>
@@ -2958,7 +2958,7 @@ export const articles: KnowledgeArticle[] = [
 <li>Kempermann G, et al. <em>Nature Reviews Neuroscience</em>, 2018.</li>
 <li>National Institute on Aging. SuperAgers: Resilience and brain health in late life, 2025.</li>
 </ol>
-<p>Life science and genetic technology are developing rapidly. This article is compiled from publicly available educational material, for reference only, and does not constitute medical advice. For medical questions, please consult a qualified clinician.</p>` },
+<p>Medical disclaimer: This article is for general educational reference on longevity medicine, life science and genetic technology only. It does not constitute any diagnosis, treatment or medical advice. These fields are evolving rapidly; the content is compiled from publicly available educational material for information only and does not represent a commitment to any treatment, technology or outcome. Individual circumstances vary; actual treatments, results and potential risks may differ. Please consult a qualified clinician and follow their professional assessment and recommendations.</p>` },
   },
 ];
 
