@@ -27,15 +27,15 @@ Webhook（可选）：指向 https://你的域名/api/paypal/webhook，事件选
 
 先确认两件事：
 
-用 https://springmedical-web.vercel.app 测（这个能直接打开）。带 getshanghai-projects 的那个地址会跳 Vercel 登录页，爬虫进不去。
-NEXT_PUBLIC_SITE_URL 现在如果还是长域名，sitemap.xml / robots.txt 里的地址会指错。改成 https://springmedical-web.vercel.app 后再测更准。
+用 https://www.springmedical.hk 测（这个能直接打开）。带 getshanghai-projects 的那个地址会跳 Vercel 登录页，爬虫进不去。
+NEXT_PUBLIC_SITE_URL 现在如果还是长域名，sitemap.xml / robots.txt 里的地址会指错。改成 https://www.springmedical.hk 后再测更准。
 技术自测（马上能做）
 
 在浏览器打开：
 
-https://springmedical-web.vercel.app/robots.txt
+https://www.springmedical.hk/robots.txt
 应允许 *，并列出 GPTBot / PerplexityBot 等；Sitemap: 指向当前站点。
-https://springmedical-web.vercel.app/sitemap.xml
+https://www.springmedical.hk/sitemap.xml
 里面的 URL 应都能点开，且和 NEXT_PUBLIC_SITE_URL 一致。
 任选一页看「网页源代码」：有 <title>、description、hreflang（繁/简/EN）。
 Google 工具：
@@ -44,8 +44,8 @@ Rich Results Test 贴一页 URL
 URL Inspection（Search Console 加属性后）点「请求编入索引」
 本地模拟爬虫：
 
-curl -A "Googlebot" -I https://springmedical-web.vercel.app/zh-HK
-curl -A "GPTBot" -I https://springmedical-web.vercel.app/zh-HK
+curl -A "Googlebot" -I https://www.springmedical.hk/zh-HK
+curl -A "GPTBot" -I https://www.springmedical.hk/zh-HK
 应返回 200，不要 401/403，也不要跳到 Vercel Login。
 
 SEO 收录怎么看
@@ -53,7 +53,7 @@ SEO 收录怎么看
 Google Search Console 添加网址属性
 提交 sitemap
 几天后看「网页」有没有编入索引、有没有被屏蔽
-搜索：site:springmedical-web.vercel.app（正式域名后改成 site:www.springmedical.hk）
+搜索：site:www.springmedical.hk
 GEO（AI 引用）怎么测
 
 收录没法像 Google 那样「请求索引」，主要看爬虫能不能读、内容是否可引用：
