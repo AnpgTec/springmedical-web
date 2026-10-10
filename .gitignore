@@ -11,3 +11,4 @@ npm-debug.log*
 *.tsbuildinfo
 
 .vercel
+/doc/springmedical-web-ai-chat.txt
