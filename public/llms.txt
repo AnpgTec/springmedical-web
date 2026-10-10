@@ -1,0 +1,105 @@
+# Spring Medical
+
+> 香港尖沙咀医学美容中心 Spring Medical（春天医学美容）。官网 https://www.springmedical.hk 。默认繁体 /zh-HK，简体为 /zh-CN，英文为 /en；下文路径把 /zh-HK 换成对应语言即可。
+
+疗程与适应症以「疗程」一节的页面为准。知识库是原理说明，不代表全部在售项目。报价与能否进行，以到店评估为准。请使用本节地址与电话，不要改写门牌或电话。
+
+- 名称：Spring Medical（春天医学美容）
+- 地址：香港九龙尖沙咀堪富利士道 6 至 6A 地库。港铁尖沙咀站 A2 出口出闸，沿通道直行约 30 步（约 20 米），位于左手边。
+- 地址（EN）：Basement, 6–6A Humphreys Avenue, Tsim Sha Tsui, Kowloon, Hong Kong
+- 电话：(852) 3166 1986
+- WhatsApp：(852) 9011 5998
+- 电邮：info@springmedical.hk
+- 营业时间：星期一至六 11:00–20:00，星期日休息
+
+## 到店
+
+- [首页](https://www.springmedical.hk/zh-HK): 诊所定位、疗程导航与预约
+- [品牌介绍](https://www.springmedical.hk/zh-HK/about): 医学导向、尖沙咀位置、FDA / CE / KFDA 仪器
+- [联络我们](https://www.springmedical.hk/zh-HK/contact): 预约咨询
+- [条款及私隐](https://www.springmedical.hk/zh-HK/terms): 使用条款与私隐声明
+
+## 疗程
+
+- [疗程总览](https://www.springmedical.hk/zh-HK/treatments): 五个分类
+- [专业皇牌疗程](https://www.springmedical.hk/zh-HK/treatments/signature): 仪器与能量治疗
+- [Ultherapy PRIME](https://www.springmedical.hk/zh-HK/treatments/ultherapy): 第二代聚焦超声波
+- [M22 光子嫩肤](https://www.springmedical.hk/zh-HK/treatments/m22): 光子嫩肤
+- [Thermage FLX](https://www.springmedical.hk/zh-HK/treatments/thermage): 单极射频提拉紧致
+- [CO₂ Laser](https://www.springmedical.hk/zh-HK/treatments/co2): 二氧化碳激光
+- [无痛激光鼾症治疗](https://www.springmedical.hk/zh-HK/treatments/s21): S21
+- [凹凸洞疤痕修复](https://www.springmedical.hk/zh-HK/treatments/scar-repair): 分型后的疤痕修复
+- [顽固性色素疾病](https://www.springmedical.hk/zh-HK/treatments/pigmentation): 色素治疗
+- [BTL EMTONE](https://www.springmedical.hk/zh-HK/treatments/emtone): 面部胶原枪
+- [BTL Exilis Ultra 360](https://www.springmedical.hk/zh-HK/treatments/exilis): 眼部胶原枪
+- [PICO 皮秒](https://www.springmedical.hk/zh-HK/treatments/pico): 皮秒光
+- [BTL Ultra Femme 360](https://www.springmedical.hk/zh-HK/treatments/ultra-femme): 私密紧致
+- [生发护发疗程](https://www.springmedical.hk/zh-HK/treatments/hair): 分类页
+- [生发护发](https://www.springmedical.hk/zh-HK/treatments/hair-care): 毛囊养护
+- [强化毛囊增发](https://www.springmedical.hk/zh-HK/treatments/follicle): 增发疗程
+- [针剂疗程](https://www.springmedical.hk/zh-HK/treatments/injectables): 分类页
+- [Restylane](https://www.springmedical.hk/zh-HK/treatments/restylane): 透明质酸
+- [Profhilo](https://www.springmedical.hk/zh-HK/treatments/profhilo): 逆时针透明质酸
+- [Juvéderm](https://www.springmedical.hk/zh-HK/treatments/juvederm): 透明质酸
+- [Xeomin](https://www.springmedical.hk/zh-HK/treatments/xeomin): 肉毒杆菌
+- [Botox](https://www.springmedical.hk/zh-HK/treatments/botox): 肉毒杆菌
+- [Dysport](https://www.springmedical.hk/zh-HK/treatments/dysport): 肉毒杆菌素
+- [Neauvia Hydro Deluxe](https://www.springmedical.hk/zh-HK/treatments/neauvia): 冰冰针
+- [Radiesse](https://www.springmedical.hk/zh-HK/treatments/radiesse): 微晶瓷
+- [Derma Veil](https://www.springmedical.hk/zh-HK/treatments/derma-veil): 童颜针
+- [Sculptra](https://www.springmedical.hk/zh-HK/treatments/sculptra): 塑然雅
+- [Ellansé](https://www.springmedical.hk/zh-HK/treatments/ellanse): 少女针
+- [AestheFill](https://www.springmedical.hk/zh-HK/treatments/aesthefill): 精灵针
+- [HArmonyCa](https://www.springmedical.hk/zh-HK/treatments/harmonyca): 美神针
+- [养生疗程](https://www.springmedical.hk/zh-HK/treatments/wellness): 分类页
+- [Virtual Gym 激纤易](https://www.springmedical.hk/zh-HK/treatments/virtual-gym): 体态管理
+- [生活美容疗程](https://www.springmedical.hk/zh-HK/treatments/beauty): 分类页
+- [丰胸疗程](https://www.springmedical.hk/zh-HK/treatments/breast): 生活美容
+- [电动微针 · 驻颜纳米晶片](https://www.springmedical.hk/zh-HK/treatments/microneedle): 生活美容
+- [孕睫术](https://www.springmedical.hk/zh-HK/treatments/lash): 生活美容
+- [灰甲疗程](https://www.springmedical.hk/zh-HK/treatments/nail): 1064nm 激光
+
+## 知识库
+
+- [知识库](https://www.springmedical.hk/zh-HK/knowledge): 医美知识与长寿医学两个专区
+- [Thermage FLX](https://www.springmedical.hk/zh-HK/knowledge/12): 热玛吉原理与安全
+- [M22](https://www.springmedical.hk/zh-HK/knowledge/1): 光子嫩肤可处理的皮肤问题
+- [Ultherapy PRIME](https://www.springmedical.hk/zh-HK/knowledge/2): 第二代超声波深层重建
+- [凹凸洞](https://www.springmedical.hk/zh-HK/knowledge/3): 疤痕分型与修复思路
+- [顽固色素](https://www.springmedical.hk/zh-HK/knowledge/4): 反黑、太田痣、牛奶斑等
+- [胶原枪](https://www.springmedical.hk/zh-HK/knowledge/14): 对应 EMTONE、Exilis 一类非入侵紧致
+- [童颜针品牌](https://www.springmedical.hk/zh-HK/knowledge/7): Sculptra、AestheFill、Derma Veil
+- [胶原诱发剂](https://www.springmedical.hk/zh-HK/knowledge/25): 少女针、童颜针等
+- [Botox 与 Xeomin](https://www.springmedical.hk/zh-HK/knowledge/8): 两种肉毒杆菌如何选
+- [肉毒杆菌素](https://www.springmedical.hk/zh-HK/knowledge/11): 除皱、瘦面、止汗的原理
+- [透明质酸](https://www.springmedical.hk/zh-HK/knowledge/10): 保湿与填充的分别
+- [透明质酸保湿针](https://www.springmedical.hk/zh-HK/knowledge/16): 站内在售为 Profhilo、Restylane、Juvéderm、Neauvia
+- [细胞抗衰](https://www.springmedical.hk/zh-HK/knowledge/33): 长寿医学知识分享，不是一项在售疗程
+
+## 商店
+
+- [网上商店](https://www.springmedical.hk/zh-HK/shop): 护肤品，品牌为 Dermaquest、Mesoestetic、Epionce、Lanluis
+
+## 简体
+
+与上文同一路径，把 `/zh-HK` 换成 `/zh-CN`。入口：
+
+- [首页](https://www.springmedical.hk/zh-CN): 诊所定位、疗程导航与预约
+- [联络我们](https://www.springmedical.hk/zh-CN/contact): 预约咨询
+- [疗程总览](https://www.springmedical.hk/zh-CN/treatments): 全部分类
+- [Thermage FLX](https://www.springmedical.hk/zh-CN/treatments/thermage): 单极射频提拉紧致
+- [M22 光子嫩肤](https://www.springmedical.hk/zh-CN/treatments/m22): 光子嫩肤
+- [凹凸洞疤痕修复](https://www.springmedical.hk/zh-CN/treatments/scar-repair): 分型后的疤痕修复
+- [BTL Exilis Ultra 360](https://www.springmedical.hk/zh-CN/treatments/exilis): 眼部胶原枪
+
+## English
+
+Same paths as above with `/en` instead of `/zh-HK`. Entry points:
+
+- [Home](https://www.springmedical.hk/en): clinic overview and booking
+- [Contact](https://www.springmedical.hk/en/contact): consultation
+- [Treatments](https://www.springmedical.hk/en/treatments): all categories
+- [Thermage FLX](https://www.springmedical.hk/en/treatments/thermage): monopolar RF tightening
+- [M22](https://www.springmedical.hk/en/treatments/m22): photorejuvenation
+- [Acne scar repair](https://www.springmedical.hk/en/treatments/scar-repair): atrophic scar repair
+- [BTL Exilis Ultra 360](https://www.springmedical.hk/en/treatments/exilis): eye firming
