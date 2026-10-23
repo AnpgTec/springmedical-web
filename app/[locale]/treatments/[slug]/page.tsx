@@ -98,6 +98,27 @@ function CategoryView({
   );
 }
 
+function OpeningLede({
+  text,
+  link,
+}: {
+  text: string;
+  link?: { href: string; text: string };
+}) {
+  if (!link) return <p className="lede">{text}</p>;
+  const at = text.indexOf(link.text);
+  if (at < 0) return <p className="lede">{text}</p>;
+  return (
+    <p className="lede">
+      {text.slice(0, at)}
+      <a href={link.href} target="_blank" rel="noopener noreferrer">
+        {link.text}
+      </a>
+      {text.slice(at + link.text.length)}
+    </p>
+  );
+}
+
 function DetailView({ locale, treatment }: { locale: Locale; treatment: Treatment }) {
   const cat = getCategory(treatment.category);
 
@@ -123,7 +144,18 @@ function DetailView({ locale, treatment }: { locale: Locale; treatment: Treatmen
           </div>
           <span className="eyebrow">{cat ? pick(cat.title, locale) : "Treatment"}</span>
           <h1>{pick(treatment.title, locale)}</h1>
-          <p className="lede">{pick(treatment.summary, locale)}</p>
+          {treatment.aka ? <p className="treatment-aka">{pick(treatment.aka, locale)}</p> : null}
+          <OpeningLede
+            text={pick(treatment.summary, locale)}
+            link={
+              treatment.summaryLink
+                ? {
+                    href: treatment.summaryLink.href,
+                    text: pick(treatment.summaryLink.text, locale),
+                  }
+                : undefined
+            }
+          />
         </div>
       </section>
 

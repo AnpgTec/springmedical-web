@@ -727,6 +727,22 @@ h3 { font-size: clamp(22px, 3vw, 30px); }
   border-bottom: 1px solid var(--line);
 }
 .page-hero h1 { margin: 12px 0 14px; }
+.page-hero .treatment-aka { margin: -6px 0 14px; font-size: 15px; }
+.page-hero .lede a {
+  color: var(--rose-deep);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+.page-hero .lede a::after {
+  content: "↗";
+  margin-left: 0.15em;
+  font-size: 0.85em;
+  font-weight: 600;
+  text-decoration: none;
+}
+.page-hero .lede a:hover { color: var(--rose); }
 .crumbs {
   display: flex;
   gap: 8px;
