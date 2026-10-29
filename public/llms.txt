@@ -17,6 +17,7 @@
 - [首页](https://www.springmedical.hk/zh-HK): 诊所定位、疗程导航与预约
 - [品牌介绍](https://www.springmedical.hk/zh-HK/about): 医学导向、尖沙咀位置、FDA / CE / KFDA 仪器
 - [联络我们](https://www.springmedical.hk/zh-HK/contact): 预约咨询
+- [常见问题](https://www.springmedical.hk/zh-HK/faq): 到店、预约与热门疗程问答
 - [条款及私隐](https://www.springmedical.hk/zh-HK/terms): 使用条款与私隐声明
 
 ## 疗程

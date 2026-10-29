@@ -67,6 +67,7 @@ export function SiteFooter({ locale }: { locale: Locale }) {
               <Link href={href(locale, "about")}>{t(locale, "nav_about")}</Link>
               <Link href={href(locale, "knowledge")}>{t(locale, "footer_knowledge")}</Link>
               <Link href={href(locale, "contact")}>{t(locale, "nav_contact")}</Link>
+              <Link href={href(locale, "faq")}>{t(locale, "nav_faq")}</Link>
               <Link href={href(locale, "shop")}>{t(locale, "nav_shop")}</Link>
             </div>
           </div>

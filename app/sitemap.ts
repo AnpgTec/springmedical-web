@@ -6,7 +6,7 @@ import { locales } from "@/lib/i18n";
 
 const site = process.env.NEXT_PUBLIC_SITE_URL || "https://www.springmedical.hk";
 
-const staticPaths = ["", "about", "contact", "terms", "treatments", "knowledge", "shop"];
+const staticPaths = ["", "about", "contact", "faq", "terms", "treatments", "knowledge", "shop"];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
